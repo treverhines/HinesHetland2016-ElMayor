@@ -1,0 +1,270 @@
+\documentclass[12pt]{article}
+
+\usepackage{amssymb,amsmath}
+\usepackage[margin=1.0in]{geometry}
+\usepackage{fancyhdr} % required for custom header
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{courier}
+\usepackage[usenames,dvipsnames]{color}
+
+%set up the header
+\pagestyle{fancy}
+\lhead{Trever Hines}
+\chead{El Mayor Postseismic}
+\rhead{\today}
+
+\setlength{\headheight}{15pt}
+\renewcommand\headrulewidth{1.0pt} % Size of the header rule
+
+%% Title
+%%------------------------------------------------------------------------------
+\title{	
+El Mayor Postseismic
+\author{Trever Hines}
+\rule{\headwidth}{1.0pt}
+}
+
+
+\begin{document}
+\maketitle
+\section*{Introduction}
+
+\section*{Data Processing}
+
+  We use continuous GPS position time series provided by University
+  Navstar Consortium (UNAVCO) for Plate Boundary Observatory (PBO)
+  stations within a 400 km radius about the El Mayor-Cucapah
+  epicenter. Our analysis is on the coseismic and postseismic
+  deformation resulting from the EMC earthquake, which we collectively
+  describe as $u(t)$. We consider GPS position time series,
+  $u_\mathrm{obs}(t)$, to be the superposition of $u(t)$, secular
+  tectonic deformation, annual and semi-annual fluctuations, and
+  coseismic offsets from sigificant earthquakes over the time span of
+  this study.  The June 14, 2010 Mw5.8 Ocotillo earthquake and the
+  August 26, 2012 Brawley swarm, which consisted of a Mw5.5 and Mw5.3
+  event, are the only earthquakes after the EMC earthquake that
+  produced noticeable offsets recorded by GPS. Although the Ocotillo
+  earthquake had its own series of aftershocks (Haukson), neither
+  earthquake produced transient deformation that is detectable with
+  GPS. We thus model $u_\mathrm{obs}(t)$ as 
+  \begin{equation}
+  \begin{split}  
+    u_\mathrm{obs}(t) = &u(t) + a + bt + \\
+                       &c\sin(2\pi t) + d\cos(2\pi t) + e\sin(4\pi t) + f\cos(4\pi t) + \\
+                       &gH(t-t_\mathrm{oc}) + hH(t-t_\mathrm{bs}).
+  \end{split}
+  \end{equation}
+  Where $t_\mathrm{oc}$ and $t_\mathrm{bs}$ are the times of the
+  Ocotillo earthquake and Brawley swarm respectively, $H(t)$ is the
+  Heaviside function, and $a$ through $g$ are unknown coefficients.
+
+  Stations which recorded signals that clearly cannot be described by
+  the aforementioned processes are not included in our analysis. This
+  includes stations in the Los Angeles basin, which record deformation
+  that is largely anthropogenic. In order to ensure an accurate
+  estimation of the secular deformation, we only use stations that
+  were installed at least six months prior to El Mayor-Cucapah
+  earthquake. While several stations were installed after the EMC
+  earthquake to improve the spatial resolution of postseismic
+  deformation \cite{S2015}, our inverse method uses postseismic
+  displacements rather than velocities (e.g. Pollitz), which requires
+  the knowledge of the stations preseismic position. Despite our
+  inability to utilize potentially rich data, we prefer to use
+  postseismic displacements rather than potentially dubious estimates
+  of postseismic velocities.
+
+  To estimate $u(t)$ we do not assume a parametric form for $u(t)$,
+  (e.g. Rollins, Ergintav), but rather we model $u(t)$ as integrated
+  Brownian motion and use a Kalman filtering approach to estimate
+  $u(t)$ and the unkown parameters in the above equation.
+  \begin{equation}
+    u(t) = \int_0^t B(s) ds.
+  \end{equation}
+  where
+  \begin{equation}
+    B(t) = \int_0^t \alpha^2 w(s) ds.
+  \end{equation}
+
+This means include Since we seek to model postseismic
+  deformation, which is the deformation that deviates from steady
+  tectonic deformation, we only include stations which have recorded
+  at least six months of deformation prior to the EMC earthquake.
+  Notably, this means that we are not using the stations installed in
+  Baja California imediately after the earthquake.  Our motivation f
+  While previous studies have used elastic block models to estimate
+  the tectonic deformation for these Baja stations, we
+
+  Stations which
+  The October 16, 1999 Hector Mine earthquake, which occurred within
+  our study region about 270 km north of the EMC epicenter, has
+  produce transient postseismic deformation which we do not wish to
+  model either mechanically or through empirical line fitting. We thus
+  restrict our analysis to deformation observed six years after the
+  Hector Mine earthquake, past which point postseismic deformation for
+  nearfield sites occurs at an approximately steady rate
+  \cite{SS2009}. When considering stations further away from the
+  Hector Mine epicenter, postseismic transience persists for only
+  about two years \cite{S2015}.
+
+
+
+
+before postseismic found that
+  the two years of was sufficient for deformation , which as sume that
+  postseismic deformation following the Hector Mine earthquake has
+  returned to a steady rate of deformation within do not use any GPS
+  data ponly consider deformation take do not attempt to model in the
+  present paper.  .  The We describe model the earthquakes These
+  earthquakes did not The postseismic earthquakes We then describe
+  $u_{obs}$ as
+
+  Where $t_{oc}$ is the time of the Ocotillo aftershock on 
+namely related to seasonal hydrological
+  effects, position consists of additional signals which we need to
+  estimate and remove.
+
+of the additional
+
+We make the assumption that the deformation
+  recorded by the GPS stations, $u_\mathrm{obs}(t)$, consists of the
+  postseismic signal we are interested in; secular tectonic
+  deformation at an unknown rate, $v$; jumps with unknown amplitude at times of significant earthquakes in the region, namely the .and a seasonal signal which we
+  model as sines and cosines with unknown amplitudes and periods of
+  one year and six months. The observed deformation time series is
+  then described as
+
+
+ The , which is the deformation
+
+   recorded and in 
+
+The signal which we are trying to mo  
+
+
+
+  
+
+that deviations We also 
+  only use   
+
+
+
+
+obvisously 
+  
+  time series consist of significant jumps which cannot be attributed to earthquakes 
+
+or other obviously
+  non-tectonic processes.
+
+  in their time series or signals which
+  obviously signals which cannot be attributed to processes which we
+  explicitly model, tectonic or seasonal processes.
+
+  contain large jumps or signals which are obviously due 
+
+  due to because these stations contain clear
+
+We only use stations which have recorded at least six
+  months of deformation prior to the EMC earthquake. This 
+
+
+
+southern California provided by UNAVCO for the 316
+  stations which are within a 400 km radius about the El Mayor
+  epicenter.  We seek to describe deformation resulting from
+  postseismic processes; although numerous GPS stations in our study
+  area have recorded signals from non-tectonic processes, such as
+  groundwater pumping from geothermal powerplants in the Imperial
+  Valley. We identify the stations which have extraneous signals by
+  assessing how well the deformation time series can be fit by a
+  function consisting of a linear term to describe tectonic
+  deformation, step functions at times of significant earthquakes, and
+  logarithmic functions to describe postseimic deformation. Namely we
+  fit
+  
+  \begin{equation}\label{Logs}
+    a + bt + 
+    c\mathcal H(t-t_{E}) + 
+    d\mathcal H(t-t_{B}) + 
+    e\mathcal H(t-t_{O}) 
+    + \sum_{i=1}^3 f_i \mathcal H(t-t_{E})\ln\left(1 + \frac{t-t_{E}}{\tau_i}\right)
+  \end{equation}
+  
+  to the north, east, and vertical components of the time series,
+  where $a$ through $f_i$ are free parameters.  Stations which have a
+  $\chi^2$ per degree of freedom less than 1 are deemed to contain an
+  extraneous signal and are not used in our analysis.
+
+  In the interest of making our analysis computationally tractable, we
+  apply a running mean over the daily GPS time series and downsample
+  the data to 14 day intervals.
+
+  We use a fault geometry from \cite{W2011}, which was determined
+  using teleseismic, GPS, and InSAR data.  
+
+  After the El Mayor-Cucapah earthquake, additional GPS stations were
+  installed In Baja California to record postseismic deformation with
+  better spatial coverage.  Two of the stations PTAX and PHJX were
+  installed near the epicenter in the Cucapah Mountains.  We do not
+  include these two stations in our analysis because the geometry of
+  the faults that ruptured during the earthquake is more complicated
+  than our assumed fault geometry \cite{O2012} and the near field
+  stations would be most sensitive to error in our geometry. We also
+  leave of these near field stations in order to avoid any near field
+  processes which we do not consider in this paper \cite{GO2014}.
+
+   
+  Numerous stations exhibit extraneous signals which can be at  
+
+
+  \cite{A2007}
+\section*{Results}
+\section*{Acknowledgements}
+  This material is based on EarthScope Plate Boundary Observatory data
+  services provided by UNAVCO through the GAGE Facility with support
+  from the National Science Foundation (NSF) and National Aeronautics
+  and Space Administration (NASA) under NSF Cooperative Agreement
+  No. EAR-1261833.
+
+\begin{thebibliography}{}
+
+\bibitem[Savage and Svarc (2009)]{SS2009} Savage, J.C. and Svarc,
+  J.L. Postseismic relaxation following the 1992 M 7 . 3 Landers and
+  1999 M 7.1 Hector Mine earthquakes, southern California. 2009. 114,
+  1-12. doi:10.1029/2008JB005938.
+
+\bibitem[Spliner et al. (2015)]{S2015} Spliner, J.C., Bennett, R.A.,
+  Walls, C., Lawrence, S., Garcia, J.J.G. Assessing long-term
+  postseismic deformation following the M7.2 April 2010, El
+  Mayor-Cucapah earthquake with implications for lithospheric rheology
+  in the Salton Trough. 2015. \textit{J Geophys Res.}
+  2015. doi:10.1002/2014JB011613.Received.
+
+\bibitem[Gonzalez-Ortega et al. (2014)]{GO2014} Gonzalez-Ortega A.,
+  Fialko, Y., Sandwell D., et al. El Mayor-Cucapah (mw7.2) earthquake:
+  Early near-field postseismic deformation from the InSAR and GPS
+  observations. 2014. \textit{J Geophys Res.} 119,
+  1482-1497. doi:10.1002/2013JB010193
+
+\bibitem[Oskin et al. (2012)]{O2012} Oskin, M.E., Arrowsmith, R.,
+  Corona A.H., et al. 2012. Near-Field Deformation from the El
+  Mayor-Cucapah Earthquake Revealed by Differential
+  LIDAR. \textit{Science}. February,
+  702-705. doi:10.1126/science.1213778.
+
+\bibitem[Wei et al. (2011)]{W2011} Wei, S., Fielding, E., Leprince,
+  S., et al 2011. Superficial simplicity of the 2010 El Mayor–Cucapah
+  earthquake of Baja California in Mexico. \textit{Nat
+  Geosci}, 4, 615-618, doi: 10.1038/ngeo1213.
+
+\bibitem[Aagard et al. (2013)]{A2007} Aagaard, B.T., Knepley, M.G. \&
+  Williams, C.A., 2013. A domain decomposition approach to
+  implementing fault slip in finite-element models of quasi-static and
+  dynamic crustal deformation, \textit{J. Geophys.  Res. Solid Earth},
+  118, doi: 10.1002/jgrb.50217.
+
+\end{thebibliography}
+\end{document}
+
