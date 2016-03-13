@@ -7,6 +7,7 @@
 \usepackage{listings}
 \usepackage{courier}
 \usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
 
 %set up the header
 \pagestyle{fancy}
@@ -29,6 +30,95 @@ El Mayor Postseismic
 \begin{document}
 \maketitle
 \section*{Introduction}
+\begin{figure}
+\includegraphics[scale=0.2]{Figures/ContextMap}
+\centering
+\caption{test}
+\end{figure}
+  sdfdf
+    
+  Previous studies which have modeled postseismic deformation
+  following the El Mayor-Cucapah earthquake include \citet{P2012},
+  \citet{GO2014}, \citet{S2015}, and \citet{R2015}. \citet{GO2014} was
+  able to describe five months of near field ($\lesssim 50$ km from
+  the epicenter) postseismic defomation observed by InSAR and campaign
+  GPS with afterslip and fault contraction on the coseismically
+  ruptured fault. \citet{GO2014} also noted that their preferred model
+  underestimated the GPS displacements for stations $\gtrsim 25$ km
+  from the rupture and suggested that it could be the result of
+  unmodeled viscoelastic relaxation.  Using continuous GPS stations
+  within 200 km of the El Mayor-Cucapah epicent, which consists mostly
+  of stations north of the US-Mexico border, \citet{R2015} found that
+  three years of postseismic deformation can be adequately explained
+  by afterslip in an elastic lithosphere, albeit with an implausibly
+  large amount of afterslip inferred on the least constrained southern
+  most fault segment which may be acting as a proxy for distributed
+  relaxation in the lower crust or upper mantle. In this paper, we
+  reiterate this finding by \citet{R2015} and but note that a purely
+  elastic dislocation model is incapable of describing deformation
+  observed at GPS stations greater than ~200 km from the El
+  Mayor-Cucapah epicenter.  
+
+  Given the inability to describe both near and far field deformation
+  with fault slip in an elastic lithosphere, \citet{P2012},
+  \citet{R2015} and \citet{S2015} have explored viscoelastic
+  relaxation in the lower crust and upper mantle as a potential
+  deformation mechanism. The lithospheric rheology is largely unknown
+  and so modeling postseismic deformation with viscoelastic relaxation
+  requires one to assume a rheologic model and find the best fitting
+  model parameters, which is generally a computationally expensive
+  nonlinear inverse problem. Consequently, a simplified structure for
+  the lithosphere must be made to minimize the number of rheologic
+  parameters that need to be estimated.  For example, it is commonly
+  assumed that the lithosphere consits of only three homogeneously
+  Maxwell viscoelastic layers, which may be an inadequate
+  representation of the lithosphere
+  \citep{HH2013,RG2009}. Additionally, it is necessary to make
+  simplifying assumptions about the nature of afterslip.  For example,
+  \citet{P2012} and \citet{S2015} assumed that afterslip does not
+  persist beyond six months and one year respectively and subsequent
+  displacements were assumed to be the result of only viscoelastic
+  relaxation. However, it is not unheard of for afterslip to persist
+  for decades after a large earthquake \citep{C2014}.  Indeed, the
+  preferred viscoelastic model from \citet{P2012} underpredicts near
+  field velocities, which could be indicative of unmodeled continued
+  afterslip.
+
+  All of the aforementioned studies model displacements observered at
+  stations within 200 km of the El Mayor-Cucapah epicenter, while
+  postseismic deformation in this region following previous
+  earthquakes of similar magnitude has been observed at distances
+  extended out to about 300 km \citep{F2007}. In the present study we
+  examine stations within 400 km of the El Mayor-Cucapah epicenter,
+  which turns out to be crucial for discerning the postseismic
+  deformation mechanism.
+
+  Clearly, both afterslip and viscoelastic relaxation are involved in
+  postseismic deformation neglecting to model one of these deformation
+  mechanisms could result in a biased estimate of the other.  In this
+  paper we use the inverse method described in \citet{HH2015} to
+  estimate the afterslip an effective viscosity necessary to describe
+  the transience postseismic deformation over the first ten months
+  after the El Mayor-Cucapah earthquake. We then form a suite of
+  models which have various lithospheric rheologies but viscosities
+  that are consistent with the effective viscosity estimated from the
+  early postseismic deformation. Of the suite of models tested, we
+  find that five years of postseismic deformation can be explained by
+  a combination of sustained afterslip on the coseismicly ruptured
+  fault and a Zener rheology upper mantle with viscosity that decays
+  from
+
+
+We then use the inferred
+  effective viscosities to model 
+
+  viscoelastic viscosity from postseismic deformation following the El
+  Mayor-Cucapah earthquake.
+method described by \citet{HH2015} is early  an 
+
+We briefly summarize the method below.
+
+
 
 \section*{Data Processing}
 
@@ -48,16 +138,18 @@ El Mayor Postseismic
   earthquake had its own series of aftershocks (Haukson), neither
   earthquake produced transient deformation that is detectable with
   GPS. We thus model $u_\mathrm{obs}(t)$ as 
-  \begin{equation}
+  \begin{equation}\label{TimeSeriesModel}
   \begin{split}  
-    u_\mathrm{obs}(t) = &u(t) + a + bt + \\
-                       &c\sin(2\pi t) + d\cos(2\pi t) + e\sin(4\pi t) + f\cos(4\pi t) + \\
-                       &gH(t-t_\mathrm{oc}) + hH(t-t_\mathrm{bs}).
+    u_\mathrm{obs}(t) = &u(t) + c_0 + c_1t + \\
+                       &c_2\sin(2\pi t) + c_3\cos(2\pi t) + c_4\sin(4\pi t) + c_5\cos(4\pi t) + \\
+                       &c_6H(t-t_\mathrm{oc}) + c_7H(t-t_\mathrm{bs}) + \epsilon.
   \end{split}
   \end{equation}
   Where $t_\mathrm{oc}$ and $t_\mathrm{bs}$ are the times of the
   Ocotillo earthquake and Brawley swarm respectively, $H(t)$ is the
-  Heaviside function, and $a$ through $g$ are unknown coefficients.
+  Heaviside function, $c_0$ through $c_7$ are unknown coefficients,
+  and $\epsilon$ is noise with zero mean and variance that is assumed
+  known.
 
   Stations which recorded signals that clearly cannot be described by
   the aforementioned processes are not included in our analysis. This
@@ -74,28 +166,6 @@ El Mayor Postseismic
   postseismic displacements rather than potentially dubious estimates
   of postseismic velocities.
 
-  To estimate $u(t)$ we do not assume a parametric form for $u(t)$,
-  (e.g. Rollins, Ergintav), but rather we model $u(t)$ as integrated
-  Brownian motion and use a Kalman filtering approach to estimate
-  $u(t)$ and the unkown parameters in the above equation.
-  \begin{equation}
-    u(t) = \int_0^t B(s) ds.
-  \end{equation}
-  where
-  \begin{equation}
-    B(t) = \int_0^t \alpha^2 w(s) ds.
-  \end{equation}
-
-This means include Since we seek to model postseismic
-  deformation, which is the deformation that deviates from steady
-  tectonic deformation, we only include stations which have recorded
-  at least six months of deformation prior to the EMC earthquake.
-  Notably, this means that we are not using the stations installed in
-  Baja California imediately after the earthquake.  Our motivation f
-  While previous studies have used elastic block models to estimate
-  the tectonic deformation for these Baja stations, we
-
-  Stations which
   The October 16, 1999 Hector Mine earthquake, which occurred within
   our study region about 270 km north of the EMC epicenter, has
   produce transient postseismic deformation which we do not wish to
@@ -107,100 +177,87 @@ This means include Since we seek to model postseismic
   Hector Mine epicenter, postseismic transience persists for only
   about two years \cite{S2015}.
 
+  We do not assume a parametric form for $u(t)$, (e.g. \cite{R2015}),
+  but rather we model $u(t)$ as integrated Brownian motion, so that
+  \begin{equation}
+    \dot{u}(t) = \sigma^2\int_0^t w(s) ds.
+  \end{equation}    
+  where $w(t)$ is white noise and the variance of $\dot{u}(t)$
+  increases linearly with time by a factor of $\sigma^2$. We use a
+  Kalman filtering approach to estimate $u(t)$ and the unknown
+  parameters in eq. \ref{TimeSeriesModel} which we describe now. 
 
-
-
-before postseismic found that
-  the two years of was sufficient for deformation , which as sume that
-  postseismic deformation following the Hector Mine earthquake has
-  returned to a steady rate of deformation within do not use any GPS
-  data ponly consider deformation take do not attempt to model in the
-  present paper.  .  The We describe model the earthquakes These
-  earthquakes did not The postseismic earthquakes We then describe
-  $u_{obs}$ as
-
-  Where $t_{oc}$ is the time of the Ocotillo aftershock on 
-namely related to seasonal hydrological
-  effects, position consists of additional signals which we need to
-  estimate and remove.
-
-of the additional
-
-We make the assumption that the deformation
-  recorded by the GPS stations, $u_\mathrm{obs}(t)$, consists of the
-  postseismic signal we are interested in; secular tectonic
-  deformation at an unknown rate, $v$; jumps with unknown amplitude at times of significant earthquakes in the region, namely the .and a seasonal signal which we
-  model as sines and cosines with unknown amplitudes and periods of
-  one year and six months. The observed deformation time series is
-  then described as
-
-
- The , which is the deformation
-
-   recorded and in 
-
-The signal which we are trying to mo  
-
-
-
-  
-
-that deviations We also 
-  only use   
-
-
-
-
-obvisously 
-  
-  time series consist of significant jumps which cannot be attributed to earthquakes 
-
-or other obviously
-  non-tectonic processes.
-
-  in their time series or signals which
-  obviously signals which cannot be attributed to processes which we
-  explicitly model, tectonic or seasonal processes.
-
-  contain large jumps or signals which are obviously due 
-
-  due to because these stations contain clear
-
-We only use stations which have recorded at least six
-  months of deformation prior to the EMC earthquake. This 
-
-
-
-southern California provided by UNAVCO for the 316
-  stations which are within a 400 km radius about the El Mayor
-  epicenter.  We seek to describe deformation resulting from
-  postseismic processes; although numerous GPS stations in our study
-  area have recorded signals from non-tectonic processes, such as
-  groundwater pumping from geothermal powerplants in the Imperial
-  Valley. We identify the stations which have extraneous signals by
-  assessing how well the deformation time series can be fit by a
-  function consisting of a linear term to describe tectonic
-  deformation, step functions at times of significant earthquakes, and
-  logarithmic functions to describe postseimic deformation. Namely we
-  fit
-  
-  \begin{equation}\label{Logs}
-    a + bt + 
-    c\mathcal H(t-t_{E}) + 
-    d\mathcal H(t-t_{B}) + 
-    e\mathcal H(t-t_{O}) 
-    + \sum_{i=1}^3 f_i \mathcal H(t-t_{E})\ln\left(1 + \frac{t-t_{E}}{\tau_i}\right)
+  In the context of Kalman filtering, our time varying state vector is
+  \begin{equation}
+    \mathbf{X}(t) = [u(t),\dot u(t), c_0, ..., c_7]
   \end{equation}
-  
-  to the north, east, and vertical components of the time series,
-  where $a$ through $f_i$ are free parameters.  Stations which have a
-  $\chi^2$ per degree of freedom less than 1 are deemed to contain an
-  extraneous signal and are not used in our analysis.
+  and eq. \ref{TimeSeriesModel} is the observation function which maps
+  the state vector to the GPS observations. We initiate the Kalman
+  filter by assuming a prior estimate of $\mathbf{X}(t)$ at time $t_0$ which
+  has a sufficiently large covariance to effectively make our prior
+  uninformed.  For each time epoch, $t_i$, Bayesian linear regression
+  is used to incorperate GPS derived estimates of displacement with
+  our prior estimate of the state, $\mathbf{X}_{i|i-1}$, to form a postserior
+  estimate of the state, $\mathbf{X}_{i|i}$, which has covariance
+  $\mathbf{\Sigma}_{i|i}$.  
 
-  In the interest of making our analysis computationally tractable, we
-  apply a running mean over the daily GPS time series and downsample
-  the data to 14 day intervals.
+  We then use the posterior estimate of the state at time $t_i$ to
+  form a prior estimate of the state at time $t_{i+1}$ through the
+  transition function
+  \begin{equation}\label{predict}
+    \mathbf{X}_{i+1|i} = \mathbf{F}_{i+1}\mathbf{X}_{i|i} + \mathbf{\delta}_{i+1} 
+  \end{equation}
+  where 
+  \begin{equation}
+    \mathbf{F}_{i+1} = 
+    \left[
+    \begin{array}{ccc}
+    1           & (t_{i+1} - t_i) & \mathbf{0}\\
+    0           & 1              & \mathbf{0}\\
+    \mathbf{0}  & \mathbf{0}     & \mathbf{I}
+    \end{array}
+    \right]
+  \end{equation}
+  and $\mathbf{\delta}_{i+1}$ is the process noise, which has zero
+  mean and covariance described by
+  \begin{equation}
+    \mathbf{Q}_{i+1} = 
+    \sigma^2 \left[
+    \begin{array}{ccc}
+    \frac{(t_{i+1} - t_i)^3}{3} & \frac{(t_{i+1} - t_{i})^2}{2} & \mathbf{0}\\
+    \frac{(t_{i+1} - t_i)^2}{2} & (t_{i+1} - t_{i}) & \mathbf{0}\\ 
+    \mathbf{0} & \mathbf{0} & \mathbf{0}
+    \end{array}
+    \right].
+  \end{equation}
 
+  The covariance of the new prior state, $\mathbf{X}_{i+1|i}$, is then described by
+  \begin{equation}
+    \mathbf{\Sigma}_{i+1|i} = \mathbf{F}_{i+1}\mathbf{\Sigma}_{i|i}\mathbf{F}^T_{i+1} + \mathbf{Q}_{i+1}.
+  \end{equation}
+
+  This process is repeated for each of the $N$ time epochs at which
+  point we use Rauch-Tung-Striebel smoothing to find $X_{i|N}$, which
+  is an estimate of the state at time $t_i$ that incorporates all $N$
+  GPS observation.  Our final estimates of $u(t)$ are used in
+  subsequent analysis, while the remaining components of of the state
+  vector are considered nuisance parameters. In the interests of
+  computational tractability, we downsample our smoothed time series
+  from daily solutions down to weekly solutions.
+
+  We illustrate the effect of filtering in figure ().  We assume a
+  constant $\sigma^2$ for each station, which is chosen to be just
+  large enough for the earliest transient deformation at the most
+  nearfield site, P496?, to be faithfully described by the filtered
+  solution.
+
+  Cite Freed 2007 for far reaching postseismic after Landers/Hector Mine.
+
+\section*{Observations}
+
+\section*{Prior Studies}
+
+\section*{Postseismic Modeling}
   We use a fault geometry from \cite{W2011}, which was determined
   using teleseismic, GPS, and InSAR data.  
 
@@ -217,9 +274,10 @@ southern California provided by UNAVCO for the 316
 
    
   Numerous stations exhibit extraneous signals which can be at  
-
-
   \cite{A2007}
+
+\section*{Rheological constraints}
+
 \section*{Results}
 \section*{Acknowledgements}
   This material is based on EarthScope Plate Boundary Observatory data
@@ -229,6 +287,48 @@ southern California provided by UNAVCO for the 316
   No. EAR-1261833.
 
 \begin{thebibliography}{}
+
+\bibitem[Cakir et al.(2014)]{C2014} Cakir, Z., Ergintav, S., Akoglu,
+  A.M., et al.\ 2014, Onset and Mechanisms of Surface Creep on Strike
+  Slip Faults: Clues from the North Anatolian Fault and Comparisons
+  with the San Andreas Fault. AGU Fall Meeting Abstracts
+
+\bibitem[Freed et al. (2007)]{F2007} Freed A.M., Bürgmann R, Herring
+  T. Far-reaching transient motions after Mojave earthquakes require
+  broad mantle flow beneath a strong crust. Geophys Res
+  Lett. 2007;34:1-5. doi:10.1029/2007GL030959.
+
+\bibitem[Riva Govers (2009)]{RG2009} Riva R. E. M.,
+  R. Govers. 2009. Relating viscosities from postseismic relaxation to
+  a realistic viscosity structure for the lithosphere. \textit{Geophys
+    J Int.} 2009;176:614-624. doi:10.1111/j.1365-246X.2008.04004.x.
+
+\bibitem[Hines Hetland (2013)]{HH2013} Hines T. T.,
+  E. A. Hetland. 2013. Bias in estimates of lithosphere viscosity from
+  interseismic deformation. \textit{Geophys Res
+  Lett.} 2013;40(16):4260-4265. doi:10.1002/grl.50839.
+
+\bibitem[Hines Hetland (2013)]{HH2013} Hines T. T.,
+  E. A. Hetland. 2013. Bias in estimates of lithosphere viscosity from
+  interseismic deformation. \textit{Geophys Res
+  Lett.} 2013;40(16):4260-4265. doi:10.1002/grl.50839.
+
+\bibitem[Hines Hetland (2015)]{HH2015} Hines T. T.,
+  E. A. Hetland. Rapid and simultaneous estimation of fault slip and
+  heterogeneous lithospheric viscosity from post-seismic
+  deformation. 2015. \textit{Geophys J
+  Int.} 2015;204(1):569-582. doi:10.1093/gji/ggv477.
+
+\bibitem[Pollitz et al. (2012)]{P2012} Pollitz, F. F., R. Bürgmann,
+  W. Thatcher. Illumination of rheological mantle heterogeneity by the
+  M7.2 2010 El Mayor-Cucapah earthquake. 2012. \textit{Geochemistry,
+    Geophys Geosystems.} 13(6), 1-17. doi:10.1029/2012GC004139.
+
+\bibitem[Rollins et al. (2015)]{R2015} Rollins, C., Barbot, S.,
+  Avouac, J.P. Postseismic Deformation Following the 2010 M7.2 El
+  Mayor-Cucapah Earthquake: Observations, Kinematic Inversions, and
+  Dynamic Models. 2015. \textit{Pure Appl Geophys.}
+  doi:10.1007/s00024-014-1005-6.
 
 \bibitem[Savage and Svarc (2009)]{SS2009} Savage, J.C. and Svarc,
   J.L. Postseismic relaxation following the 1992 M 7 . 3 Landers and
