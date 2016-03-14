@@ -25,17 +25,10 @@ El Mayor Postseismic
 \rule{\headwidth}{1.0pt}
 }
 
-
 \begin{document}
 \maketitle
 \section*{Introduction}
-\begin{figure}
-\includegraphics[scale=0.2]{Figures/ContextMap}
-\centering
-\caption{test}
-\end{figure}
-  sdfdf
-    
+
 Previous studies which have modeled postseismic deformation following the El Mayor-Cucapah earthquake include \cite{Pollitz2012}, \cite{Gonzalez-ortega2014}, \cite{Spinler2015}, and \cite{Rollins2015}. \cite{Gonzalez-ortega2014} was able to describe five months of near field ($\lesssim 50$ km from the epicenter) postseismic defomation observed by InSAR and campaign GPS with afterslip and fault contraction on the coseismically ruptured fault. \cite{Gonzalez-ortega2014} also noted that their preferred model underestimated the GPS displacements for stations $\gtrsim 25$ km from the rupture and suggested that it could be the result of unmodeled viscoelastic relaxation.  Using continuous GPS stations within 200 km of the El Mayor-Cucapah epicent, which consists mostly of stations north of the US-Mexico border, \cite{Rollins2015} found that three years of postseismic deformation can be adequately explained by afterslip in an elastic lithosphere, albeit with an implausibly large amount of afterslip inferred on the least constrained southern most fault segment which may be acting as a proxy for distributed relaxation in the lower crust or upper mantle. In this paper, we reiterate this finding by \cite{Rollins2015} and note that a purely elastic dislocation model is incapable of describing deformation observed at GPS stations greater than ~200 km from the El Mayor-Cucapah epicenter.  
 
 Given the inability to describe both near and far field deformation with fault slip in an elastic lithosphere, \cite{Pollitz2012}, \cite{Rollins2015} and \cite{Spinler2015} have explored viscoelastic relaxation in the lower crust and upper mantle as a potential deformation mechanism. The lithospheric rheology is largely unknown and so modeling postseismic deformation with viscoelastic relaxation requires one to assume a rheologic model and find the best fitting model parameters, which is generally a computationally expensive nonlinear inverse problem. Consequently, a simplified structure for the lithosphere must be made to minimize the number of rheologic parameters that need to be estimated.  For example, it is commonly assumed that the lithosphere consits of only three homogeneously Maxwell viscoelastic layers, which may be an inadequate representation of the lithosphere \cite{Hines2013}\cite{Riva2009}. Additionally, it is necessary to make simplifying assumptions about the nature of afterslip.  For example \cite{Pollitz2012} and \cite{Spinler2015} assumed that afterslip does not persist beyond six months and one year respectively and subsequent displacements were assumed to be the result of only viscoelastic relaxation. However, numerous observations of interseismic fault creep has been recognized in this and similar tectonic settings and it has been speculated that such creep can be initiated as a postseismic process \cite{Cakir2012} \cite{Cetin2014}.
@@ -50,14 +43,18 @@ Clearly, both afterslip and viscoelastic relaxation are involved in postseismic 
 
 We use continuous GPS position time series provided by University Navstar Consortium (UNAVCO) for Plate Boundary Observatory (PBO) stations within a 400 km radius about the El Mayor-Cucapah epicenter. Our analysis is on the coseismic and postseismic deformation resulting from the EMC earthquake, which we collectively describe as $u(t)$. We consider GPS position time series, $u_\mathrm{obs}(t)$, to be the superposition of $u(t)$, secular tectonic deformation, annual and semi-annual fluctuations, and coseismic offsets from sigificant earthquakes over the time span of this study.  The June 14, 2010 Mw5.8 Ocotillo earthquake and the August 26, 2012 Brawley swarm, which consisted of a Mw5.5 and Mw5.3 event, are the only earthquakes after the EMC earthquake that produced noticeable offsets recorded by GPS. Although the Ocotillo earthquake had its own series of aftershocks (Haukson), neither earthquake produced transient deformation that is detectable with GPS. We thus model $u_\mathrm{obs}(t)$ as 
 
+\begin{equation}
+  u_\mathrm{obs}(t) = u_\mathrm{pred}(t) + \epsilon
+\end{equation}
+where
 \begin{equation}\label{TimeSeriesModel}
   \begin{split}  
-    u_\mathrm{obs}(t) = &u(t) + c_0 + c_1t + \\
-                       &c_2\sin(2\pi t) + c_3\cos(2\pi t) + c_4\sin(4\pi t) + c_5\cos(4\pi t) + \\
-                       &c_6H(t-t_\mathrm{oc}) + c_7H(t-t_\mathrm{bs}) + \epsilon.
+    u_\mathrm{pred}(t) = &u(t) + c_0 + c_1t + \\
+                         &c_2\sin(2\pi t) + c_3\cos(2\pi t) + c_4\sin(4\pi t) + c_5\cos(4\pi t) + \\
+                         &c_6H(t-t_\mathrm{oc}) + c_7H(t-t_\mathrm{bs}).
   \end{split}
 \end{equation}
-Where $t_\mathrm{oc}$ and $t_\mathrm{bs}$ are the times of the Ocotillo earthquake and Brawley swarm respectively, $H(t)$ is the Heaviside function, $c_0$ through $c_7$ are unknown coefficients, and $\epsilon$ is noise with zero mean and variance that is assumed known.
+In the above equations, $t_\mathrm{oc}$ and $t_\mathrm{bs}$ are the times of the Ocotillo earthquake and Brawley swarm respectively, $H(t)$ is the Heaviside function, $c_0$ through $c_7$ are unknown coefficients, and $\epsilon$ is noise with zero mean and variance that assumed known.
 
 Stations which recorded signals that clearly cannot be described by the aforementioned processes are not included in our analysis. This includes stations in the Los Angeles basin, which record deformation that is largely anthropogenic. In order to ensure an accurate estimation of the secular deformation, we only use stations that were installed at least six months prior to El Mayor-Cucapah earthquake. While several stations were installed after the EMC earthquake to improve the spatial resolution of postseismic deformation \cite{Spinler2015}, our inverse method uses postseismic displacements rather than velocities (e.g. ...), which requires the knowledge of the stations preseismic position. Despite our inability to utilize potentially rich data, we prefer to use postseismic displacements rather than potentially dubious estimates of postseismic velocities.
 
@@ -109,19 +106,173 @@ The covariance of the new prior state, $\mathbf{X}_{i+1|i}$, is then described b
 
 This process is repeated for each of the $N$ time epochs at which point we use Rauch-Tung-Striebel smoothing to find $X_{i|N}$, which is an estimate of the state at time $t_i$ that incorporates all $N$ GPS observation.  Our final estimates of $u(t)$ are used in subsequent analysis, while the remaining components of of the state vector are considered nuisance parameters. In the interests of computational tractability, we down sample our smoothed time series from daily solutions down to weekly solutions.
 
-The smoothness of $u(t)$ is controlled by the chosen value of $\sigma^2$, which describes how rapidly we expect the postseismic signal to vary over time. As one endmember, setting $\sigma^2$ equal to zero will effectively result in modeling $u(t)$ as a straight line. The other endmember, where $\sigma^2$ is infinitely large, will result in $u(t)$ fitting what is obviously noise in the data. While one can use a maximum likelihood based approach to picking $\sigma^2$ (e.g. \cite{Segall1997}), we rather take a subjective approach and choose a value for $\sigma^2$, which is used when filtering time series for each station, that is just large enough to faithfully describes the early rapid rate of postseismic deformation at the most near field station in our study, P496.  This ensures that $\sigma^2$ will be sufficiently large so that our estimate of $u(t)$ does not smooth out potentially valuable postseismic signla.  Figure 1 shows the .... While formal errors are estimated for $u(t)$ it is important to know that the true uncertainty in $u(t)$ is much larger due to assumptions made in formulating eq. (1).  For example, we assume that the background rate of tectonic deformation can be approximated a linear rate, while is appears to hold true based on inspection of the time series, mechanical models would suggest this to not be true on earthquake cycle timescales 
 
-             
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/figure_1}
+\centering
+\caption{GPS displacement solution from UNAVCO (black) and predicted displacements after applying a Kalman filter where $\sigma^2=0.05 \mathrm{m}^2/\mathrm{yr}^3$. Red line indicates the time of the Ocotillo earthquake where a jump in the time series is estimated}
+\label{P496Fit}
+\end{figure}
 
-We illustrate the effect of filtering in figure ().  We assume a constant $\sigma^2$ for each station, which is chosen to be just large enough for the earliest transient deformation at the most nearfield site, P496?, to be faithfully described by the filtered solution.
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/figure_2}
+\centering
+\caption{Postseismic displacements estimated after applying a Kalman filter to the GPS displacement solution from UNAVCO.  Displacements shown have had a background secular trend removed as well as an estimated seasonal signal.} 
+\label{P496PS}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/figure_3}
+\centering
+\caption{GPS displacement solution from UNAVCO (black) and predicted displacements after applying a Kalman filter where $\sigma^2=0.05 \mathrm{m}^2/\mathrm{yr}^3$. Red line indicates the time of the Ocotillo earthquake where a jump in the time series is estimated}
+\label{P619Fit}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[scale=0.6]{Figures/figure_4}
+\centering
+\caption{Postseismic displacements estimated after applying a Kalman filter to the GPS displacement solution from UNAVCO.  Displacements shown do not include the estimated secular trend, seasonal signals, and displacements resulting from the Ocotillo earthquake.} 
+\label{P619PS}
+\end{figure}
+
+The smoothness of $u(t)$ is controlled by the chosen value of $\sigma^2$, which describes how rapidly we expect the postseismic signal to vary over time.  Setting $\sigma^2$ equal to zero will effectively result in modeling $u(t)$ as a straight line which is insufficient to describe the expected transient behavior in postseismic deformation \cite{Savage2005a}. The other endmember, where $\sigma^2$ is infinitely large, will result in $u_\mathrm{pred}(t)$ fitting what is obviously noise in the data. While one can use a maximum likelihood based approach to picking $\sigma^2$ (e.g. \cite{Segall1997}), we rather take a subjective approach and choose a value for $\sigma^2$, which is used when filtering time series for each station, that is just large enough to faithfully describes the early rapid rate of postseismic deformation at the most near field station in our study, P496.  This ensures that $\sigma^2$ will be sufficiently large so that our estimate of $u(t)$ does not smooth out potentially valuable postseismic signal. We find that when using $\sigma^2 = 0.05 \mathrm{m}^2 / \mathrm{yr}^3$, we are able to adequately describe all but the first week of postseismic deformation at station P496, which gets incorporated into our estimate of coseismic displacements (figure \ref{P496Fit}).  Since we assume that the first week of deformation is overwhelmingly the result of afterslip, any unmodeled afterslip over the first week following the El Mayor-Cucapah earthquake will be added into our estimates of coseismic slip in section ().  Figure \ref{P496PS} shows the estimate of coseismic and postseismic deformation, $u(t)$, for station P496 along with its formal uncertainties. 
+
+It is important to note that the shown uncertainties in $u(t)$ do not account for our uncertainty in eq. \ref{TimeSeriesModel}.  For example, we assume that the background rate of deformation can be approximated as having a constant rate, while mechanical models would suggest this to not be true on earthquake cycle timescales \cite{Thatcher1983}. Although based on inspection,  assuming a constant rate of background deformation appears to be appropriate for all stations except for perhaps the stations closest to the Hector Mine epicenter, where postseismic deformation persists.  Also, our model for seasonal deformation in eq. \ref{TimeSeriesModel} assumes a constant amplitude over time, which means that years of particularly heavy or light rainfall cannot be adequately described.  This deficiency in our seasonal model causes our estimate of $u(t)$ to describe some of the unmodeled oscillations (figure \ref{P619PS}).          
+
+note that stations jumps are only estimated for stations within 40 km of BS or OC
+
+
+
+         
+
 
 Cite Freed 2007 for far reaching postseismic after Landers/Hector Mine.
 
-\section*{Observations}
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/near_field_data_1}
+\centering 
+\caption{near field coseismic}
+\label{nearfield1}
+\end{figure}
 
-\section*{Prior Studies}
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/near_field_data_2}
+\centering 
+\caption{near field coseismic}
+\label{nearfield2}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/near_field_data_3}
+\centering 
+\caption{near field coseismic}
+\label{nearfield3}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/near_field_data_4}
+\centering 
+\caption{near field coseismic}
+\label{nearfield4}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/far_field_data_1}
+\centering 
+\caption{near field coseismic}
+\label{farfield1}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/far_field_data_2}
+\centering 
+\caption{near field coseismic}
+\label{farfield2}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/far_field_data_3}
+\centering 
+\caption{near field coseismic}
+\label{farfield3}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.6]{Figures/far_field_data_4}
+\centering 
+\caption{near field coseismic}
+\label{farfield4}
+\end{figure}
+
+We show the difference in $u(t)$ for each station from 0 to 0.8 years (figure \ref{nearfield2} and \ref{farfield2}), 0.8 to 3.2 years (figure \ref{nearfield3} and \ref{farfield3}), and from 3.2 to 5.0 years (figure \ref{nearfield4} and \ref{farfield4}).  For far field stations (figure \ref{farfield2}, \ref{farfield3}, and \ref{farfield4}), we can see a clear south trending displacement throughout the first 3.2 years in stations as far as 400 km from of the El Mayor Cucapah epicenter.  These displacements are most pronounced along the direction of the El Mayor-Cucapah P and S axis, as would be expected for postseismic deformation.  Beyond 3.2 years, The southward trending far field postseismic deformation is barely perceptible. There is however, an eastward trend in far field stations just west of the Hector Mine epicenter.  We suspect this this deformation, which is inconsistent with the pattern expected for El Mayor-Postseismic, is the result of continued transient postseismic deformation following the Hector Mine earthquake.  The vertical deformation in the far field is difficult to attribute to postseismic processes.  Most far field stations display an initial subsidence for the first year after the El Mayor-Cucapah earthquake followed by continued uplift.  This trend in vertical deformation can be observed in all three of the qaudrants where postseismic data is available, which means that the vertical deformation does not exhibit an anti-symetric quadrant pattern, as would be expected for postseismic processes.  Although we use vertical deformation in our subsequent analysis, we do not put an emphasis on trying to describe the vertical deformation as it likely has non-tectonic origins.        
+
+Near field deformation is show in figures \ref{nearfield2}, \ref{nearfield3}, and \ref{nearfield4}.  The near field deformation is notably sustained when compared to the far field deformation.  Namely, the station in this study which is closest to the El Mayor-Cucapah epicenter, P496, is moving at a steady rate of ~1.4 cm/yr to the south five years after the El Mayor-Cucapah earthquake.  Vertical postseismic deformation in the near field does display a quadrant pattern which is consistent with the coseismic vertical deformation, suggesting that it is indeed resulting from tectonic processes.  However, the vertical postseismic deformation signal is only apparent in the early postseismic period (figure \ref{nearfield2}).  As with the far field deformation, there is a general trend of uplift in the near field one year after the earthquake which we do not consider to be related to postseismic processes.  
 
 \section*{Postseismic Modeling}
+
+outline:
+
+-dismiss poroelastic rebound
+
+-Discuss justification of afterslip as a mechanism
+ -vertical deformation argument
+ -Kayla's paper and Haukson
+ -discuss fault geometry
+ 
+-Discuss viscoelastic relaxation
+  - discuss rheologic models and parameters needed to estimate
+
+-Discuss approximation, implications for all rheologic models
+-discretization of the lithosphere
+-discuss the nitty gritty inverse method
+
+- issue with nonuniqueness of deep afterslip and crustal flow
+
+-discuss fault geometry and modeling assumptions. including elastic properties. and Kayla's paper
+
+-Discuss discretization of slip and viscosity
+
+-discuss early postseismic approximation
+
+In this paper, we seek to find the mechanisms driving five years of postseismic deformation following the El Mayor-Cucapah. We consider afterslip and viscoelastic relaxation in the lithosphere and/or asthenosphere as candidate mechansism.  Poroelastic has also been used to model postseismic deformation (cite); however, the analysis of \cite{Gonzalez-ortega2014} suggests found that any contribution to postseismic deformation from poroelastic rebound would be negligable.  Additionally, we are considering stations which are sufficiently far away from the main rupture that poroelastic rebound should be insignificant.  
+
+In this study we estimate coseismic and time dependent postseismic fault slip, both which are assumed to occur on the fault geometry estimated by \cite{Wei2011a} with some modifications.  Field studies and other coseismic slip models have found a significantly more complicated geometry for the coseismically ruptured fault \cite{Fletcher2009} \cite{Oskin2012}; however, the relatively simple coseismic fault geometry from \cite{Wei2011a} is sufficient to describe the data in this study because most of the stations used here are sufficiently far from the epicenter that they are insensitive to the detailed fault geometry found by \cite{Fletcher2009} and \cite{Oskin2012}. We do, however, modify the fault geometry from \cite{Wei2011a} by extending segment 2 northward by 40 km which is motivated by the clustering of aftershocks on the northern tip of coseismic rupture zone \cite{Kroll2013} \cite{Hauksson2011}. This extended fault segment was also found to be necessary by \cite{Rollins2015} and \cite{Pollitz2012} for describing postseismic deformation.     
+
+To model postseismic deformation we must first assume a rheologic model.  The simplest viscoelastic rheologic model would be a Maxwell model, where shear stresses and strains can be described with the mechanical analogy of a spring and dashpot connected in series.  If coseismic and postseismic slip, described by $s(\xi,t)$, occurs on a fault $F$, and viscoelastic relaxation of subsequent stresses occurs in a Maxwell viscoelastic medium $L$, which has a spatially variable viscosity, $\eta(\zeta)$, then coseismic and postseismic deformation can be described by 
+\begin{equation}\label{GeneralForward}
+  u(x,t) = \int_F s(\xi,t)g(x,\xi)d\xi + 
+           \int_0^t\int_F s(\tau,\xi) f(t-\tau,x,\xi) d\xi d\tau
+\end{equation}
+where $g(x,\xi)$ is the elastic Green's function relating slip at $\xi$ to instantaneous displacement at $x$ and $f(t,x,\xi)$ describes the rate of deformation at $x$ and time $t$ resulting from viscoelastic relaxation of stresses induced by slip  at $\xi$.  The variables which we are primarily concerned with estimating in this study are $s(\xi,t)$ and $\eta(\zeta)$.  Numerous experimental and geophysical studies suggest that a Maxwell rheology is inappropriate to describe the behaviour of the uppermost mantle \cite{Chopra1997} \cite{Pollitz2003} \cite{Freed2004} and so we do not limit ourselves to exploring Maxwell viscolesticity.  When considering other stress-linear viscoelastic models, such as a Zener or Burgers model, the description of displacements remains unchanged from eq \ref{GeneralForward} except that $f$ is parameterized by additional rheologic parameters which must also be estimated.  The difficulty in  determining an appropriate rheologic model and then estimating $s(\xi,t)$ and the unkown rheologic parameters from observations of $u(x,t)$ is that it is a nonlinear inverse problem with many unknown parameters and a computationally expensive forward problem.  We can greatly simplify the inverse problem by first considering the early postseismic period where we can approximate $u(x,t)$ for any stress-linear viscoelastic rheology as
+\begin{equation}\label{ApproxForward}
+  u(x,t) = \int_F s(\xi,t)g(x,\xi)d\xi + 
+           \int_0^t\int_F\int_L \frac{s(\tau,\xi)}{\eta_\mathrm{eff}(\zeta)} h(x,\xi,\zeta) d\zeta d\xi d\tau
+\end{equation}
+
+
+
+
+It can be shown (\cite{Hines2015}),     
+
+other rheologic models in this study      viscoelasticity is We also test rheologic models other than viscoelasticity to describe    
+
+
+
+
+There are numerous other parameters which are not known, but will be considered known in this study.   
+
+
+   Inherent in f is also a stress-linear viscoelastic model.   In this study we will be be known while try to consider             
+
+Numerous researchers have used vertical deformation   
+as a discriminant for discerning whether afterslip or viscoelastic relaxation is the dominant postseismic mechanism (\cite{Hetland2014}, \cite{Pollitz2012} \cite{Rollins2015}).  As noted by \cite{Rollins2015} the uplift just north of the epicenter is suggestive of afterslip at seismogenic depths, as opposed to deeper afterslip which would predict subsidence north of the fault.    
+
+   The early near field postseismic vertical deformation does show a quadrant pattern and is also consistent with the coseismic vertical deformation.  Given         
+
+that would not becomes there is no longer a coherent far field deformation signal. This is in contrast to near field displacements which persists for the entire 5.0 years of data used in this study. Figure () further illustrates the difference in deformation regimes between near field and far field station.  
+
+
 
 We use a fault geometry from \cite{Wei2011}, which was determined using teleseismic, GPS, and InSAR data.  
 

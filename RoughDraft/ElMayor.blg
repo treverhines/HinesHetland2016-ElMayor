@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ElMayor.aux
 The style file: apalike.bst
 Database file #1: mybib.bib
-You've used 15 entries,
+You've used 25 entries,
             1935 wiz_defined-function locations,
-            578 strings with 7803 characters,
-and the built_in function-call counts, 7480 in all, are:
-= -- 694
-> -- 490
-< -- 5
-+ -- 178
-- -- 178
-* -- 730
-:= -- 1345
-add.period$ -- 45
-call.type$ -- 15
-change.case$ -- 164
-chr.to.int$ -- 15
-cite$ -- 15
-duplicate$ -- 206
-empty$ -- 409
-format.name$ -- 203
-if$ -- 1383
-int.to.chr$ -- 1
+            647 strings with 9650 characters,
+and the built_in function-call counts, 11605 in all, are:
+= -- 1113
+> -- 647
+< -- 11
++ -- 231
+- -- 230
+* -- 1103
+:= -- 2058
+add.period$ -- 75
+call.type$ -- 25
+change.case$ -- 240
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 346
+empty$ -- 702
+format.name$ -- 271
+if$ -- 2176
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 15
-newline$ -- 78
-num.names$ -- 45
-pop$ -- 131
+missing$ -- 25
+newline$ -- 128
+num.names$ -- 75
+pop$ -- 181
 preamble$ -- 1
-purify$ -- 164
+purify$ -- 240
 quote$ -- 0
-skip$ -- 159
+skip$ -- 264
 stack$ -- 0
-substring$ -- 458
-swap$ -- 15
+substring$ -- 819
+swap$ -- 25
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
+type$ -- 150
 warning$ -- 0
-while$ -- 52
+while$ -- 92
 width$ -- 0
-write$ -- 196
+write$ -- 326
