@@ -1,5 +1,9 @@
 \begin{thebibliography}{}
 
+\bibitem[Aagaard et~al., 2009]{Aagaard2009}
+Aagaard, B., Williams, C., Knepley, M., Kientz, S., and Strand, L. (2009).
+\newblock {PyLith}.
+
 \bibitem[{\c{C}}akir et~al., 2012]{Cakir2012}
 {\c{C}}akir, Z., Ergintav, S., {\"{O}}zener, H., Dogan, U., Akoglu, A.~M.,
   Meghraoui, M., and Reilinger, R. (2012).
@@ -27,11 +31,6 @@ Fletcher, J.~M., Teran, O.~J., Rockwell, T.~K., Oskin, M.~E., Hudnut, K.~W.,
   rupture kinematics of the 4 April 2010 El Mayor-Cucapah (Mexico) Mw 7.2
   earthquake}.
 \newblock {\em Geosphere}, 10(4):797--827.
-
-\bibitem[Freed and B{\"{u}}rgmann, 2004]{Freed2004}
-Freed, A.~M. and B{\"{u}}rgmann, R. (2004).
-\newblock {Evidence of power-law flow in the Mojave desert mantle.}
-\newblock {\em Nature}, 430(6999):548--551.
 
 \bibitem[Freed et~al., 2006]{Freed2006a}
 Freed, A.~M., B{\"{u}}rgmann, R., Calais, E., Freymueller, J., and
@@ -85,17 +84,36 @@ Hines, T.~T. and Hetland, E.~A. (2015).
   lithospheric viscosity from post-seismic deformation}.
 \newblock {\em Geophysical Journal International}, 204(1):569--582.
 
+\bibitem[Jacobs et~al., 2002]{Jacobs2002}
+Jacobs, A., Sandwell, D., Fialko, Y., and Sichoix, L. (2002).
+\newblock {The 1999 (Mw7.1) Hector Mine, California, Earthquake: Near-Field
+  Postseismic Deformation from ERS Interferometry}.
+\newblock {\em Bulletin of the Seismological Society of America},
+  92(May):1433--1442.
+
 \bibitem[Johnson et~al., 2009]{Johnson2009}
 Johnson, K.~M., B{\"{u}}rgmann, R., and Freymueller, J.~T. (2009).
 \newblock {Coupled afterslip and viscoelastic flow following the 2002 Denali
   Fault, Alaska earthquake}.
 \newblock {\em Geophysical Journal International}, 176(3):670--682.
 
+\bibitem[Johnson et~al., 2007]{Johnson2007}
+Johnson, K.~M., Hilley, G.~E., and B{\"{u}}rgmann, R. (2007).
+\newblock {Influence of lithosphere viscosity structure on estimates of fault
+  slip rate in the Mojave region of the San Andreas fault system}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 112:1--15.
+
 \bibitem[Johnson and Segall, 2004]{Johnson2004}
 Johnson, K.~M. and Segall, P. (2004).
 \newblock {Viscoelastic earthquake cycle models with deep stress-driven creep
   along the San Andreas fault system}.
 \newblock {\em Journal of Geophysical Research B: Solid Earth}, 109:1--19.
+
+\bibitem[Jonsson et~al., 2003]{Jonsson2003}
+Jonsson, S., Segall, P., Pedersen, R., and Bjornsson, G. (2003).
+\newblock {Post-earthquake ground movements correlated to pore-pressure
+  transients}.
+\newblock {\em Nature}, 424(July):179--183.
 
 \bibitem[Kroll et~al., 2013]{Kroll2013}
 Kroll, K.~A., Cochran, E.~S., Richards-Dinger, K.~B., and Sumy, D.~F. (2013).
@@ -134,6 +152,12 @@ Marone, C.~J., Scholz, C.~H., and Bilham, R. (1991).
 \newblock {On the mechanics of earthquake afterslip}.
 \newblock {\em Journal of Geophysical Research}, 96(B5):8441--8452.
 
+\bibitem[McGuire and Segall, 2003]{McGuire2003}
+McGuire, J.~J. and Segall, P. (2003).
+\newblock {Imaging of aseismic fault slip transients recorded by dense geodetic
+  networks}.
+\newblock {\em Geophysical Journal International}, 155(3):778--788.
+
 \bibitem[Nur and Mavko, 1974]{Nur1974}
 Nur, A. and Mavko, G. (1974).
 \newblock {Postseismic viscoelastic rebound}.
@@ -147,11 +171,11 @@ Oskin, M.~E., Arrowsmith, J.~R., {Hinojosa Corona}, A., Elliott, A.~J.,
   by differential LIDAR}.
 \newblock {\em Science}, 335(6069):702--705.
 
-\bibitem[Peltier et~al., 1981]{Peltier1981}
-Peltier, W.~R., Wu, P., and Yuen, D.~A. (1981).
-\newblock {The viscosities of the earth's mantle}.
-\newblock {\em Anelasticity of the Earth's Mantle: American Geophysical Union
-  Geodynamic Series}, 4:59--77.
+\bibitem[Pollitz et~al., 2001]{Pollitz2001}
+Pollitz, F., Wicks, C., and Thatcher, W. (2001).
+\newblock {Mantle Flow Beneath a Continental Strike-Slip Fault : Postseismic
+  Deformation After the 1999 Hector Mine Earthquake}.
+\newblock {\em Science}, 1814(2001):1814--1818.
 
 \bibitem[Pollitz, 2003]{Pollitz2003}
 Pollitz, F.~F. (2003).
@@ -225,12 +249,6 @@ Thatcher, W. (1983).
   Fault}.
 \newblock {\em Journal of Geophysical Research}, 88(3):5893--5902.
 
-\bibitem[Thatcher and Pollitz, 2008]{Thatcher2008}
-Thatcher, W. and Pollitz, F.~F. (2008).
-\newblock {Temporal evolution of continental lithospheric strength in actively
-  deforming regions}.
-\newblock {\em GSA Today}, 18(4):4--11.
-
 \bibitem[Wei et~al., 2011a]{Wei2011a}
 Wei, M., Sandwell, D., Fialko, Y., and Bilham, R. (2011a).
 \newblock {Slip on faults in the Imperial Valley triggered by the 4 April 2010
@@ -244,6 +262,12 @@ Wei, S., Fielding, E., Leprince, S., Sladen, A., Avouac, J.-P., Helmberger, D.,
 \newblock {Superficial simplicity of the 2010 El Mayor–Cucapah earthquake of
   Baja California in Mexico}.
 \newblock {\em Nature Geoscience}, 4(9):615--618.
+
+\bibitem[Yamagiwa et~al., 2015]{Yamagiwa2014}
+Yamagiwa, S., Miyazaki, S., Hirahara, K., and Fukahata, Y. (2015).
+\newblock {Afterslip and viscoelastic relaxation following the 2011 Tohoku-oki
+  earthquake (Mw9.0) inferred from inland GPS and seafloor GPS/Acoustic data}.
+\newblock {\em Geophysical Research Letters}, 42:66--73.
 
 \bibitem[Yuen and Peltier, 1982]{Yuen1982}
 Yuen, D.~A. and Peltier, W.~R. (1982).

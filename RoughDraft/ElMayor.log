@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  18 MAR 2016 18:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  24 MAR 2016 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -200,21 +200,97 @@ Package color Info: Driver file: pdftex.def on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
-)) (./ElMayor.aux)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 50.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+\bx@AK=\insert215
+\bx@AL=\insert214
+\bx@AM=\insert213
+\bx@AN=\insert212
+\bx@AO=\insert211
+\bx@AP=\insert210
+\bx@AQ=\insert209
+\bx@AR=\insert208
+\bx@AS=\insert207
+\bx@AT=\insert206
+\bx@AU=\insert205
+\bx@AV=\insert204
+\bx@AW=\insert203
+\bx@AX=\insert202
+)
+(./ElMayor.aux
+
+LaTeX Warning: Label `FluidityLCurve' multiply defined.
+
+
+LaTeX Warning: Label `ShearRatio' multiply defined.
+
+
+LaTeX Warning: Label `ShearRatio' multiply defined.
+
+
+LaTeX Warning: Label `ShearRatio' multiply defined.
+
+
+LaTeX Warning: Label `ShearRatio' multiply defined.
+
+)
 \openout1 = `ElMayor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -266,11 +342,6 @@ LaTeX Font Info:    ... okay on input line 28.
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -285,19 +356,6 @@ Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -308,210 +366,340 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count117
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (6.172pt too wide) in paragraph at lines 32--33
+Overfull \hbox (6.172pt too wide) in paragraph at lines 39--40
 \OT1/cmr/m/n/12 Previous stud-ies which have mod-eled post-seis-mic de-for-ma-t
 ion fol-low-ing the El Mayor-Cucapah
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<Figures/figure_1.pdf, id=21, 578.16pt x 433.62pt>
-File: Figures/figure_1.pdf Graphic file (type pdf)
- <use Figures/figure_1.pdf>
-Package pdftex.def Info: Figures/figure_1.pdf used on input line 110.
-(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
-
-<Figures/figure_2.pdf, id=22, 578.16pt x 433.62pt>
-File: Figures/figure_2.pdf Graphic file (type pdf)
- <use Figures/figure_2.pdf>
-Package pdftex.def Info: Figures/figure_2.pdf used on input line 117.
-(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
-
-<Figures/figure_3.pdf, id=23, 578.16pt x 433.62pt>
-File: Figures/figure_3.pdf Graphic file (type pdf)
- <use Figures/figure_3.pdf>
-Package pdftex.def Info: Figures/figure_3.pdf used on input line 124.
-(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
-
-<Figures/figure_4.pdf, id=24, 578.16pt x 433.62pt>
-File: Figures/figure_4.pdf Graphic file (type pdf)
- <use Figures/figure_4.pdf>
-Package pdftex.def Info: Figures/figure_4.pdf used on input line 132.
-(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
-
-[4] [5 <./Figures/figure_1.pdf> <./Figures/figure_2.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/figure_2.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
->] [6 <./Figures/figure_3.pdf> <./Figures/figure_4.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/figure_4.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
->] <Figures/near_field_data_1.pdf, id=287, 867.24pt x 433.62pt>
-File: Figures/near_field_data_1.pdf Graphic file (type pdf)
-
-<use Figures/near_field_data_1.pdf>
-Package pdftex.def Info: Figures/near_field_data_1.pdf used on input line 152.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 152--154
- [][] 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
+Overfull \hbox (41.05637pt too wide) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 [[]], [[]],[[]], [[]], [[]]).
  []
 
-<Figures/near_field_data_2.pdf, id=288, 867.24pt x 433.62pt>
-File: Figures/near_field_data_2.pdf Graphic file (type pdf)
-
-<use Figures/near_field_data_2.pdf>
-Package pdftex.def Info: Figures/near_field_data_2.pdf used on input line 159.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 159--161
- [][] 
+[7] [8]
+Overfull \hbox (83.84756pt too wide) in paragraph at lines 191--192
+[]\OT1/cmr/m/n/12 In or-der greatly sim-plify the posed in-verse prob-lem we us
+e to method de-scribe in [[]]
  []
 
-<Figures/near_field_data_3.pdf, id=289, 867.24pt x 433.62pt>
-File: Figures/near_field_data_3.pdf Graphic file (type pdf)
-
-<use Figures/near_field_data_3.pdf>
-Package pdftex.def Info: Figures/near_field_data_3.pdf used on input line 166.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 166--168
- [][] 
+[9] [10] [11]
+Overfull \hbox (26.40372pt too wide) in paragraph at lines 230--231
+\OT1/cmr/m/n/12 In the pre-vi-ous sec-tion we used the ef-fi-cient in-verse met
+hod de-scribed by [[]]
  []
 
-<Figures/near_field_data_4.pdf, id=290, 867.24pt x 433.62pt>
-File: Figures/near_field_data_4.pdf Graphic file (type pdf)
-
-<use Figures/near_field_data_4.pdf>
-Package pdftex.def Info: Figures/near_field_data_4.pdf used on input line 173.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 173--175
- [][] 
+[12] [13]
+Overfull \hbox (7.57336pt too wide) in paragraph at lines 281--282
+\OT1/cmr/m/n/12 We are grate-ful to Andy Freed for an il-lu-mi-nat-ing dis-cus-
+sion on the ma-te-rial in this manuscript. 
  []
 
-<Figures/far_field_data_1.pdf, id=291, 867.24pt x 433.62pt>
-File: Figures/far_field_data_1.pdf Graphic file (type pdf)
-
-<use Figures/far_field_data_1.pdf>
-Package pdftex.def Info: Figures/far_field_data_1.pdf used on input line 180.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 180--182
- [][] 
- []
-
-<Figures/far_field_data_2.pdf, id=292, 867.24pt x 433.62pt>
-File: Figures/far_field_data_2.pdf Graphic file (type pdf)
-
-<use Figures/far_field_data_2.pdf>
-Package pdftex.def Info: Figures/far_field_data_2.pdf used on input line 187.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 187--189
- [][] 
- []
-
-<Figures/far_field_data_3.pdf, id=293, 867.24pt x 433.62pt>
-File: Figures/far_field_data_3.pdf Graphic file (type pdf)
-
-<use Figures/far_field_data_3.pdf>
-Package pdftex.def Info: Figures/far_field_data_3.pdf used on input line 194.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 194--196
- [][] 
- []
-
-<Figures/far_field_data_4.pdf, id=294, 867.24pt x 433.62pt>
-File: Figures/far_field_data_4.pdf Graphic file (type pdf)
-
-<use Figures/far_field_data_4.pdf>
-Package pdftex.def Info: Figures/far_field_data_4.pdf used on input line 201.
-(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
-
-Overfull \hbox (50.593pt too wide) in paragraph at lines 201--203
- [][] 
- []
-
-[7 <./Figures/near_field_data_1.pdf>] [8 <./Figures/near_field_data_2.pdf> <./F
-igures/near_field_data_3.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/near_field_data_3.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->] [9 <./Figures/near_field_data_4.pdf> <./Figures/far_field_data_1.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/far_field_data_1.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
->] [10 <./Figures/far_field_data_2.pdf> <./Figures/far_field_data_3.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/far_field_data_3.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
->] [11 <./Figures/far_field_data_4.pdf>]
-Overfull \hbox (26.21391pt too wide) in paragraph at lines 237--238
-\OT1/cmr/m/n/12 has also been used to model post-seis-mic de-for-ma-tion (cite)
-; how-ever, [[]]
- []
-
-
-Overfull \hbox (9.47856pt too wide) in paragraph at lines 239--240
-\OT1/cmr/m/n/12 mod-i-fi-ca-tions. Field stud-ies [[]] and LI-DAR ob-ser-va-tio
-ns [[]]
- []
-
-[12]
-Overfull \hbox (56.39232pt too wide) in paragraph at lines 247--248
-\OT1/cmr/m/n/12 [[]], [[]], [[]],[[]], [[]],
- []
-
-[13] [14] (./ElMayor.bbl [15]
-Underfull \hbox (badness 1721) in paragraph at lines 37--42
+(./ElMayor.bbl [14]
+Underfull \hbox (badness 1721) in paragraph at lines 36--41
 []\OT1/cmr/m/n/12 Freed, A. M., B^^?urgmann, R., Calais, E., Frey-mueller, J., 
 and
  []
 
-[16] [17]
+[15] [16] [17]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [18]) [19] (./ElMayor.aux) ) 
+) <Figures/figure_1.pdf, id=70, 578.16pt x 433.62pt>
+File: Figures/figure_1.pdf Graphic file (type pdf)
+
+<use Figures/figure_1.pdf>
+Package pdftex.def Info: Figures/figure_1.pdf used on input line 289.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+ <Figures/figure_2.pdf, id=71, 578.16pt x 433.62pt>
+File: Figures/figure_2.pdf Graphic file (type pdf)
+
+<use Figures/figure_2.pdf>
+Package pdftex.def Info: Figures/figure_2.pdf used on input line 296.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+ <Figures/figure_3.pdf, id=72, 578.16pt x 433.62pt>
+File: Figures/figure_3.pdf Graphic file (type pdf)
+
+<use Figures/figure_3.pdf>
+Package pdftex.def Info: Figures/figure_3.pdf used on input line 303.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+ <Figures/figure_4.pdf, id=73, 578.16pt x 433.62pt>
+File: Figures/figure_4.pdf Graphic file (type pdf)
+
+<use Figures/figure_4.pdf>
+Package pdftex.def Info: Figures/figure_4.pdf used on input line 311.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+<Figures/near_field_data_1.pdf, id=74, 867.24pt x 433.62pt>
+File: Figures/near_field_data_1.pdf Graphic file (type pdf)
+
+<use Figures/near_field_data_1.pdf>
+Package pdftex.def Info: Figures/near_field_data_1.pdf used on input line 318.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 318--320
+ [][] 
+ []
+
+<Figures/near_field_data_2.pdf, id=75, 867.24pt x 433.62pt>
+File: Figures/near_field_data_2.pdf Graphic file (type pdf)
+
+<use Figures/near_field_data_2.pdf>
+Package pdftex.def Info: Figures/near_field_data_2.pdf used on input line 325.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 325--327
+ [][] 
+ []
+
+<Figures/near_field_data_3.pdf, id=76, 867.24pt x 433.62pt>
+File: Figures/near_field_data_3.pdf Graphic file (type pdf)
+
+<use Figures/near_field_data_3.pdf>
+Package pdftex.def Info: Figures/near_field_data_3.pdf used on input line 332.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 332--334
+ [][] 
+ []
+
+<Figures/near_field_data_4.pdf, id=77, 867.24pt x 433.62pt>
+File: Figures/near_field_data_4.pdf Graphic file (type pdf)
+
+<use Figures/near_field_data_4.pdf>
+Package pdftex.def Info: Figures/near_field_data_4.pdf used on input line 339.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 339--341
+ [][] 
+ []
+
+<Figures/far_field_data_1.pdf, id=78, 867.24pt x 433.62pt>
+File: Figures/far_field_data_1.pdf Graphic file (type pdf)
+
+<use Figures/far_field_data_1.pdf>
+Package pdftex.def Info: Figures/far_field_data_1.pdf used on input line 346.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 346--348
+ [][] 
+ []
+
+<Figures/far_field_data_2.pdf, id=79, 867.24pt x 433.62pt>
+File: Figures/far_field_data_2.pdf Graphic file (type pdf)
+
+<use Figures/far_field_data_2.pdf>
+Package pdftex.def Info: Figures/far_field_data_2.pdf used on input line 353.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 353--355
+ [][] 
+ []
+
+<Figures/far_field_data_3.pdf, id=80, 867.24pt x 433.62pt>
+File: Figures/far_field_data_3.pdf Graphic file (type pdf)
+
+<use Figures/far_field_data_3.pdf>
+Package pdftex.def Info: Figures/far_field_data_3.pdf used on input line 360.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 360--362
+ [][] 
+ []
+
+<Figures/far_field_data_4.pdf, id=81, 867.24pt x 433.62pt>
+File: Figures/far_field_data_4.pdf Graphic file (type pdf)
+
+<use Figures/far_field_data_4.pdf>
+Package pdftex.def Info: Figures/far_field_data_4.pdf used on input line 367.
+(pdftex.def)             Requested size: 520.34802pt x 260.17401pt.
+
+Overfull \hbox (50.593pt too wide) in paragraph at lines 367--369
+ [][] 
+ []
+
+<Figures/near_field_record_section.pdf, id=82, 433.62pt x 722.7pt>
+File: Figures/near_field_record_section.pdf Graphic file (type pdf)
+
+<use Figures/near_field_record_section.pdf>
+Package pdftex.def Info: Figures/near_field_record_section.pdf used on input li
+ne 374.
+(pdftex.def)             Requested size: 346.89647pt x 578.16078pt.
+
+<Figures/far_field_record_section.pdf, id=83, 433.62pt x 722.7pt>
+File: Figures/far_field_record_section.pdf Graphic file (type pdf)
+
+<use Figures/far_field_record_section.pdf>
+Package pdftex.def Info: Figures/far_field_record_section.pdf used on input lin
+e 380.
+(pdftex.def)             Requested size: 346.89647pt x 578.16078pt.
+
+<Figures/slip_lcurve.pdf, id=84, 433.62pt x 433.62pt>
+File: Figures/slip_lcurve.pdf Graphic file (type pdf)
+
+<use Figures/slip_lcurve.pdf>
+Package pdftex.def Info: Figures/slip_lcurve.pdf used on input line 387.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+
+<Figures/fluidity_lcurve.pdf, id=85, 433.62pt x 433.62pt>
+File: Figures/fluidity_lcurve.pdf Graphic file (type pdf)
+
+<use Figures/fluidity_lcurve.pdf>
+Package pdftex.def Info: Figures/fluidity_lcurve.pdf used on input line 394.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+
+<Figures/effective_viscosity.pdf, id=86, 361.35pt x 433.62pt>
+File: Figures/effective_viscosity.pdf Graphic file (type pdf)
+
+<use Figures/effective_viscosity.pdf>
+Package pdftex.def Info: Figures/effective_viscosity.pdf used on input line 401
+.
+(pdftex.def)             Requested size: 361.34912pt x 433.61894pt.
+
+<Figures/initial_coseismic.png, id=87, 4970.57pt x 2176.13pt>
+File: Figures/initial_coseismic.png Graphic file (type png)
+
+<use Figures/initial_coseismic.png>
+Package pdftex.def Info: Figures/initial_coseismic.png used on input line 408.
+(pdftex.def)             Requested size: 497.08612pt x 217.62575pt.
+
+Overfull \hbox (27.3311pt too wide) in paragraph at lines 408--409
+[][] 
+ []
+
+<Figures/initial_afterslip.png, id=88, 4368.32pt x 2449.15pt>
+File: Figures/initial_afterslip.png Graphic file (type png)
+
+<use Figures/initial_afterslip.png>
+Package pdftex.def Info: Figures/initial_afterslip.png used on input line 414.
+(pdftex.def)             Requested size: 436.85759pt x 244.92935pt.
+
+<Figures/initial_elastic_coseismic.png, id=89, 4440.59pt x 2023.56pt>
+File: Figures/initial_elastic_coseismic.png Graphic file (type png)
+
+<use Figures/initial_elastic_coseismic.png>
+Package pdftex.def Info: Figures/initial_elastic_coseismic.png used on input li
+ne 421.
+(pdftex.def)             Requested size: 444.08502pt x 202.36784pt.
+
+<Figures/initial_elastic_afterslip.png, id=90, 3982.88pt x 1790.69pt>
+File: Figures/initial_elastic_afterslip.png Graphic file (type png)
+
+<use Figures/initial_elastic_afterslip.png>
+Package pdftex.def Info: Figures/initial_elastic_afterslip.png used on input li
+ne 428.
+(pdftex.def)             Requested size: 398.31134pt x 179.07948pt.
+
+<Figures/shear_ratio.pdf, id=91, 433.62pt x 433.62pt>
+File: Figures/shear_ratio.pdf Graphic file (type pdf)
+
+<use Figures/shear_ratio.pdf>
+Package pdftex.def Info: Figures/shear_ratio.pdf used on input line 435.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+
+<Figures/final_coseismic.png, id=92, 3525.17pt x 1846.9pt>
+File: Figures/final_coseismic.png Graphic file (type png)
+
+<use Figures/final_coseismic.png>
+Package pdftex.def Info: Figures/final_coseismic.png used on input line 442.
+(pdftex.def)             Requested size: 352.53766pt x 184.70082pt.
+
+<Figures/final_afterslip_0-1.png, id=93, 3830.31pt x 1887.05pt>
+File: Figures/final_afterslip_0-1.png Graphic file (type png)
+
+<use Figures/final_afterslip_0-1.png>
+Package pdftex.def Info: Figures/final_afterslip_0-1.png used on input line 449
+.
+(pdftex.def)             Requested size: 383.05344pt x 188.71605pt.
+
+<Figures/final_afterslip_1-3.png, id=94, 4039.09pt x 2063.71pt>
+File: Figures/final_afterslip_1-3.png Graphic file (type png)
+
+<use Figures/final_afterslip_1-3.png>
+Package pdftex.def Info: Figures/final_afterslip_1-3.png used on input line 456
+.
+(pdftex.def)             Requested size: 403.93266pt x 206.38309pt.
+
+<Figures/final_afterslip_3-5.png, id=95, 4247.87pt x 2007.5pt>
+File: Figures/final_afterslip_3-5.png Graphic file (type png)
+
+<use Figures/final_afterslip_3-5.png>
+Package pdftex.def Info: Figures/final_afterslip_3-5.png used on input line 463
+.
+(pdftex.def)             Requested size: 424.81189pt x 200.76175pt.
+ [18] [19 <./Figures/figure_1.pdf> <./Figures/figure_2.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/figure_2.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>] [20 <./Figures/figure_3.pdf> <./Figures/figure_4.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/figure_4.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>] [21 <./Figures/near_field_data_1.pdf> <./Figures/near_field_data_2.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/near_field_data_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] [22 <./Figures/near_field_data_3.pdf> <./Figures/near_field_data_4.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/near_field_data_4.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] [23 <./Figures/far_field_data_1.pdf> <./Figures/far_field_data_2.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/far_field_data_2.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>] [24 <./Figures/far_field_data_3.pdf> <./Figures/far_field_data_4.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/far_field_data_4.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>] [25 <./Figures/near_field_record_section.pdf>] [26 <./Figures/far_field_reco
+rd_section.pdf>] [27 <./Figures/slip_lcurve.pdf>] [28 <./Figures/fluidity_lcurv
+e.pdf>] [29 <./Figures/effective_viscosity.pdf>] [30 <./Figures/initial_coseism
+ic.png (PNG copy)> <./Figures/initial_afterslip.png (PNG copy)>] [31 <./Figures
+/initial_elastic_coseismic.png (PNG copy)> <./Figures/initial_elastic_afterslip
+.png (PNG copy)>] [32 <./Figures/shear_ratio.pdf>] [33 <./Figures/final_coseism
+ic.png (PNG copy)> <./Figures/final_afterslip_0-1.png (PNG copy)>] [34 <./Figur
+es/final_afterslip_1-3.png (PNG copy)> <./Figures/final_afterslip_3-5.png (PNG 
+copy)>] (./ElMayor.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4556 strings out of 494985
- 63709 string characters out of 6180357
- 135420 words of memory out of 5000000
- 7693 multiletter control sequences out of 15000+600000
- 13064 words of font info for 50 fonts, out of 8000000 for 9000
+ 4699 strings out of 494985
+ 66957 string characters out of 6180357
+ 136923 words of memory out of 5000000
+ 7818 multiletter control sequences out of 15000+600000
+ 13371 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,15n,43p,1975b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/symbols/msam10.pfb>
-Output written on ElMayor.pdf (19 pages, 4924857 bytes).
+ 36i,15n,43p,2814b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on ElMayor.pdf (34 pages, 6697954 bytes).
 PDF statistics:
- 749 PDF objects out of 1000 (max. 8388607)
- 230 compressed objects within 3 object streams
+ 1106 PDF objects out of 1200 (max. 8388607)
+ 332 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
