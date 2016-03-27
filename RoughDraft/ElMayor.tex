@@ -7,7 +7,9 @@
 \usepackage{listings}
 \usepackage{courier}
 \usepackage[usenames,dvipsnames]{color}
-\usepackage[maxfloats=50]{morefloats}
+\usepackage[maxfloats=30]{morefloats}
+\usepackage{caption}
+\usepackage{subcaption}
 
 
 %set up the header
@@ -286,6 +288,13 @@ This material is based on EarthScope Plate Boundary Observatory data services pr
 \bibliography{mybib}
 
 \begin{figure}
+\includegraphics[scale=0.9]{Figures/context_map}
+\centering 
+\caption{}
+\label{ContextMap}
+\end{figure}
+
+\begin{figure}
 \includegraphics[scale=0.6]{Figures/figure_1}
 \centering
 \caption{GPS displacement solution from UNAVCO (black) and predicted displacements after applying a Kalman filter where $\sigma^2=0.05 \mathrm{m}^2/\mathrm{yr}^3$. Red line indicates the time of the Ocotillo earthquake where a jump in the time series is estimated}
@@ -317,67 +326,62 @@ This material is based on EarthScope Plate Boundary Observatory data services pr
 \begin{figure}
 \includegraphics[scale=0.6]{Figures/near_field_data_1}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{nearfield1}
 \end{figure}
-
 \begin{figure}
 \includegraphics[scale=0.6]{Figures/near_field_data_2}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{nearfield2}
 \end{figure}
-
 \begin{figure}
 \includegraphics[scale=0.6]{Figures/near_field_data_3}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{nearfield3}
 \end{figure}
-
 \begin{figure}
 \includegraphics[scale=0.6]{Figures/near_field_data_4}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{nearfield4}
 \end{figure}
 
+
 \begin{figure}
-\includegraphics[scale=0.6]{Figures/far_field_data_1}
+\includegraphics[scale=0.6,resolution=10]{Figures/far_field_data_1}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{farfield1}
 \end{figure}
-
 \begin{figure}
-\includegraphics[scale=0.6]{Figures/far_field_data_2}
+\includegraphics[scale=0.6,resolution=10]{Figures/far_field_data_2}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{farfield2}
 \end{figure}
-
 \begin{figure}
-\includegraphics[scale=0.6]{Figures/far_field_data_3}
+\includegraphics[scale=0.6,resolution=10]{Figures/far_field_data_3}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{farfield3}
 \end{figure}
-
 \begin{figure}
-\includegraphics[scale=0.6]{Figures/far_field_data_4}
+\includegraphics[scale=0.6,resolution=10]{Figures/far_field_data_4}
 \centering 
-\caption{near field coseismic}
+\caption{}
 \label{farfield4}
 \end{figure}
 
 \begin{figure}
-\includegraphics[scale=0.8]{Figures/near_field_record_section}
+\includegraphics[scale=0.9]{Figures/near_field_record_section}
 \centering 
 \caption{near field record section}
 \label{NearFieldRS}
 \end{figure}
 \begin{figure}
-\includegraphics[scale=0.8]{Figures/far_field_record_section}
+\includegraphics[scale=0.9]{Figures/far_field_record_section}
 \centering 
 \caption{far field record section}
 \label{FarFieldRS}
@@ -441,28 +445,42 @@ This material is based on EarthScope Plate Boundary Observatory data services pr
 \begin{figure}
 \includegraphics[scale=0.1]{Figures/final_coseismic}
 \centering 
-\caption{misfit with different shear modulus ratios}
-\label{ShearRatio}
+\caption{}
+\label{FinalCoseismic}
 \end{figure} 
 
 \begin{figure}
 \includegraphics[scale=0.1]{Figures/final_afterslip_0-1}
 \centering 
-\caption{misfit with different shear modulus ratios}
+\caption{}
 \label{ShearRatio}
 \end{figure} 
 
 \begin{figure}
 \includegraphics[scale=0.1]{Figures/final_afterslip_1-3}
 \centering 
-\caption{misfit with different shear modulus ratios}
+\caption{}
 \label{ShearRatio}
 \end{figure} 
 
 \begin{figure}
 \includegraphics[scale=0.1]{Figures/final_afterslip_3-5}
 \centering 
-\caption{misfit with different shear modulus ratios}
+\caption{}
+\label{ShearRatio}
+\end{figure} 
+
+\begin{figure}
+\includegraphics[scale=0.9]{Figures/near_field_final_record_section}
+\centering 
+\caption{}
+\label{ShearRatio}
+\end{figure} 
+
+\begin{figure}
+\includegraphics[scale=0.9]{Figures/far_field_final_record_section}
+\centering 
+\caption{}
 \label{ShearRatio}
 \end{figure} 
 
