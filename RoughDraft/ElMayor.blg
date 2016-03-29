@@ -4,45 +4,45 @@ The top-level auxiliary file: ElMayor.aux
 The style file: apalike.bst
 Database file #1: mybib.bib
 Warning--empty journal in Aagaard2009
-You've used 44 entries,
+You've used 42 entries,
             1935 wiz_defined-function locations,
-            771 strings with 13207 characters,
-and the built_in function-call counts, 19558 in all, are:
-= -- 1895
-> -- 1012
-< -- 15
-+ -- 355
-- -- 354
-* -- 1845
-:= -- 3457
-add.period$ -- 131
-call.type$ -- 44
-change.case$ -- 397
-chr.to.int$ -- 43
-cite$ -- 45
-duplicate$ -- 611
-empty$ -- 1234
-format.name$ -- 418
-if$ -- 3684
+            759 strings with 12793 characters,
+and the built_in function-call counts, 18699 in all, are:
+= -- 1808
+> -- 976
+< -- 14
++ -- 343
+- -- 342
+* -- 1766
+:= -- 3309
+add.period$ -- 125
+call.type$ -- 42
+change.case$ -- 381
+chr.to.int$ -- 41
+cite$ -- 43
+duplicate$ -- 583
+empty$ -- 1175
+format.name$ -- 402
+if$ -- 3519
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 44
-newline$ -- 222
-num.names$ -- 132
-pop$ -- 300
+missing$ -- 42
+newline$ -- 212
+num.names$ -- 126
+pop$ -- 289
 preamble$ -- 1
-purify$ -- 397
+purify$ -- 381
 quote$ -- 0
-skip$ -- 458
+skip$ -- 437
 stack$ -- 0
-substring$ -- 1420
-swap$ -- 43
+substring$ -- 1346
+swap$ -- 41
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 264
+type$ -- 252
 warning$ -- 1
-while$ -- 164
+while$ -- 156
 width$ -- 0
-write$ -- 570
+write$ -- 544
 (There was 1 warning)
