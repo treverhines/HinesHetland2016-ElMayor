@@ -11,6 +11,13 @@ Argus, D.~F., Heflin, M.~B., Peltzer, G., Cramp{\'{e}}, F., and Webb, F.~H.
   metropolitan Los Angeles}.
 \newblock {\em Journal of Geophysical Research B: Solid Earth}, 110(4):1--26.
 
+\bibitem[Bawden et~al., 2001]{Bawden2001}
+Bawden, G.~W., Thatcher, W., Stein, R.~S., Hudnut, K.~W., and Peltzer, G.
+  (2001).
+\newblock {Tectonic contraction across Los Angeles after removal of groundwater
+  pumping effects.}
+\newblock {\em Nature}, 412(August):812--815.
+
 \bibitem[{\c{C}}akir et~al., 2012]{Cakir2012}
 {\c{C}}akir, Z., Ergintav, S., {\"{O}}zener, H., Dogan, U., Akoglu, A.~M.,
   Meghraoui, M., and Reilinger, R. (2012).
@@ -27,6 +34,11 @@ Cetin, E., Cakir, Z., Meghraoui, M., Ergintav, S., and Akoglu, A.~M. (2014).
 Chopra, P.~N. (1997).
 \newblock {High-temperature transient creep in olivine rocks}.
 \newblock {\em Tectonophysics}, 279:93--111.
+
+\bibitem[Davis et~al., 2012]{Davis2012}
+Davis, J.~L., Wernicke, B.~P., and Tamisiea, M.~E. (2012).
+\newblock {On seasonal signals in geodetic time series}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 117(1):1--10.
 
 \bibitem[Fletcher et~al., 2014]{Fletcher2014}
 Fletcher, J.~M., Teran, O.~J., Rockwell, T.~K., Oskin, M.~E., Hudnut, K.~W.,
@@ -116,8 +128,8 @@ Johnson, K.~M. and Segall, P. (2004).
   along the San Andreas fault system}.
 \newblock {\em Journal of Geophysical Research B: Solid Earth}, 109:1--19.
 
-\bibitem[Jonsson et~al., 2003]{Jonsson2003}
-Jonsson, S., Segall, P., Pedersen, R., and Bjornsson, G. (2003).
+\bibitem[J{\'{o}}nsson et~al., 2003]{Jonsson2003}
+J{\'{o}}nsson, S., Segall, P., Pedersen, R., and Bjornsson, G. (2003).
 \newblock {Post-earthquake ground movements correlated to pore-pressure
   transients}.
 \newblock {\em Nature}, 424(July):179--183.
@@ -154,11 +166,6 @@ Luttrell, K., Sandwell, D., Smith-Konter, B., Bills, B., and Bock, Y. (2007).
   by lake loading}.
 \newblock {\em Journal of Geophysical Research: Solid Earth}, 112(8):1--15.
 
-\bibitem[Marone et~al., 1991]{Marone1991}
-Marone, C.~J., Scholz, C.~H., and Bilham, R. (1991).
-\newblock {On the mechanics of earthquake afterslip}.
-\newblock {\em Journal of Geophysical Research}, 96(B5):8441--8452.
-
 \bibitem[McGuire and Segall, 2003]{McGuire2003}
 McGuire, J.~J. and Segall, P. (2003).
 \newblock {Imaging of aseismic fault slip transients recorded by dense geodetic
@@ -170,6 +177,12 @@ Meade, B.~J. and Hager, B.~H. (2005).
 \newblock {Block models of crustal motion in southern California constrained by
   GPS measurements}.
 \newblock {\em Journal of Geophysical Research B: Solid Earth}, 110:1--19.
+
+\bibitem[Murray and Segall, 2005]{Murray2005}
+Murray, J.~R. and Segall, P. (2005).
+\newblock {Spatiotemporal evolution of a transient slip event on the San
+  Andreas fault near Parkfield, California}.
+\newblock {\em Journal of Geophysical Research : Solid Earth}, 110(9):1--12.
 
 \bibitem[Nur and Mavko, 1974]{Nur1974}
 Nur, A. and Mavko, G. (1974).
@@ -254,12 +267,6 @@ Spinler, J.~C., Bennett, R.~A., Walls, C., Shawn, L., and Garcia, J. J.~G.
   April 2010, El Mayor-Cucapah earthquake with implications for lithospheric
   rheology in the Salton Trough}.
 \newblock {\em Journal of Geophysical Research: Solid Earth}, 120:3664--3679.
-
-\bibitem[Thatcher, 1983]{Thatcher1983}
-Thatcher, W. (1983).
-\newblock {Nonlinear Strain Buildup and the Earthquake Cycle on the San Andreas
-  Fault}.
-\newblock {\em Journal of Geophysical Research}, 88(3):5893--5902.
 
 \bibitem[Wei et~al., 2015]{Wei2015}
 Wei, M., Liu, Y., Kaneko, Y., Mcguire, J.~J., and Bilham, R. (2015).
