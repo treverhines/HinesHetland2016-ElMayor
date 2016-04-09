@@ -18,6 +18,14 @@ Bawden, G.~W., Thatcher, W., Stein, R.~S., Hudnut, K.~W., and Peltzer, G.
   pumping effects.}
 \newblock {\em Nature}, 412(August):812--815.
 
+\bibitem[Bills and May, 1987]{Bills1987}
+Bills, B.~G. and May, G.~M. (1987).
+\newblock {Lake Bonneville: Constraints on Lithospheric Thickness and Upper
+  Mantle Viscosity From Isostatic Warping of Bonneville, Provo, and Gilbert
+  Stage Shorelines}.
+\newblock {\em Journal of Geophysical Research-Solid Earth and Planets},
+  92(B11):11493--11508.
+
 \bibitem[{\c{C}}akir et~al., 2012]{Cakir2012}
 {\c{C}}akir, Z., Ergintav, S., {\"{O}}zener, H., Dogan, U., Akoglu, A.~M.,
   Meghraoui, M., and Reilinger, R. (2012).
@@ -34,6 +42,13 @@ Cetin, E., Cakir, Z., Meghraoui, M., Ergintav, S., and Akoglu, A.~M. (2014).
 Chopra, P.~N. (1997).
 \newblock {High-temperature transient creep in olivine rocks}.
 \newblock {\em Tectonophysics}, 279:93--111.
+
+\bibitem[Crittenden, 1967]{Crittenden1967}
+Crittenden, M. (1967).
+\newblock {Viscosity and Finite Strength of the Mantle as Determined from Water
+  and Ice Loads*}.
+\newblock {\em Geophysical Journal of the Royal Astronomical {\ldots}}, pages
+  261--279.
 
 \bibitem[Davis et~al., 2012]{Davis2012}
 Davis, J.~L., Wernicke, B.~P., and Tamisiea, M.~E. (2012).
@@ -116,12 +131,6 @@ Johnson, K.~M., B{\"{u}}rgmann, R., and Freymueller, J.~T. (2009).
   Fault, Alaska earthquake}.
 \newblock {\em Geophysical Journal International}, 176(3):670--682.
 
-\bibitem[Johnson et~al., 2007]{Johnson2007}
-Johnson, K.~M., Hilley, G.~E., and B{\"{u}}rgmann, R. (2007).
-\newblock {Influence of lithosphere viscosity structure on estimates of fault
-  slip rate in the Mojave region of the San Andreas fault system}.
-\newblock {\em Journal of Geophysical Research: Solid Earth}, 112:1--15.
-
 \bibitem[Johnson and Segall, 2004]{Johnson2004}
 Johnson, K.~M. and Segall, P. (2004).
 \newblock {Viscoelastic earthquake cycle models with deep stress-driven creep
@@ -133,6 +142,12 @@ J{\'{o}}nsson, S., Segall, P., Pedersen, R., and Bjornsson, G. (2003).
 \newblock {Post-earthquake ground movements correlated to pore-pressure
   transients}.
 \newblock {\em Nature}, 424(July):179--183.
+
+\bibitem[Kaufmann and Amelung, 2000]{Kaufmann2000}
+Kaufmann, G. and Amelung, F. (2000).
+\newblock {Reservoir-induced deformation and continental rheology in vicinity
+  of Lake Mead, Nevada}.
+\newblock {\em Journal of Geophysical Research}, 105(B7):16341.
 
 \bibitem[Kroll et~al., 2013]{Kroll2013}
 Kroll, K.~A., Cochran, E.~S., Richards-Dinger, K.~B., and Sumy, D.~F. (2013).
@@ -160,12 +175,6 @@ Lundgren, P., Hetland, E.~A., Liu, Z., and Fielding, E.~J. (2009).
   aperture radar observations}.
 \newblock {\em Journal of Geophysical Research: Solid Earth}, 114(2):1--18.
 
-\bibitem[Luttrell et~al., 2007]{Luttrell2007}
-Luttrell, K., Sandwell, D., Smith-Konter, B., Bills, B., and Bock, Y. (2007).
-\newblock {Modulation of the earthquake cycle at the southern San Andreas fault
-  by lake loading}.
-\newblock {\em Journal of Geophysical Research: Solid Earth}, 112(8):1--15.
-
 \bibitem[McGuire and Segall, 2003]{McGuire2003}
 McGuire, J.~J. and Segall, P. (2003).
 \newblock {Imaging of aseismic fault slip transients recorded by dense geodetic
@@ -188,6 +197,11 @@ Murray, J.~R. and Segall, P. (2005).
 Nur, A. and Mavko, G. (1974).
 \newblock {Postseismic viscoelastic rebound}.
 \newblock {\em Science}, 183(4121):204--206.
+
+\bibitem[O'Connell, 1971]{OConnell1971}
+O'Connell, R.~J. (1971).
+\newblock {Rheology of the Mantle}.
+\newblock {\em EOS, Transactions, American Geophysical Union}, 52:140--142.
 
 \bibitem[Oskin et~al., 2012]{Oskin2012}
 Oskin, M.~E., Arrowsmith, J.~R., {Hinojosa Corona}, A., Elliott, A.~J.,
