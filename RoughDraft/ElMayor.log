@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  8 APR 2016 23:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  9 APR 2016 02:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -98,40 +98,13 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `ElMayor.spl'.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count95
-\Gm@cntv=\count96
-\c@Gm@tempcnt=\count97
-\Gm@bindingoffset=\dimen109
-\Gm@wd@mp=\dimen110
-\Gm@odd@mp=\dimen111
-\Gm@even@mp=\dimen112
-\Gm@layoutwidth=\dimen113
-\Gm@layoutheight=\dimen114
-\Gm@layouthoffset=\dimen115
-\Gm@layoutvoffset=\dimen116
-\Gm@dimlist=\toks17
-))
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
+\@emptytoks=\toks17
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -147,65 +120,65 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks19
-\ex@=\dimen117
+\@emptytoks=\toks18
+\ex@=\dimen109
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen118
+\pmbraise@=\dimen110
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count98
+\inf@bad=\count95
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count99
-\leftroot@=\count100
+\uproot@=\count96
+\leftroot@=\count97
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count101
-\DOTSCASE@=\count102
+\classnum@=\count98
+\DOTSCASE@=\count99
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box30
 \strutbox@=\box31
-\big@size=\dimen119
+\big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count103
-\c@MaxMatrixCols=\count104
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
 \dotsspace@=\muskip10
-\c@parentequation=\count105
-\dspbrk@lvl=\count106
-\tag@help=\toks20
-\row@=\count107
-\column@=\count108
-\maxfields@=\count109
-\andhelp@=\toks21
-\eqnshift@=\dimen120
-\alignsep@=\dimen121
-\tagshift@=\dimen122
-\tagwidth@=\dimen123
-\totwidth@=\dimen124
-\lineht@=\dimen125
-\@envbody=\toks22
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks19
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks20
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks21
 \multlinegap=\skip48
 \multlinetaggap=\skip49
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
 \thm@preskip=\skip50
 \thm@postskip=\skip51
 \thm@headsep=\skip52
-\dth@everypar=\toks29
+\dth@everypar=\toks28
 LaTeX Info: Redefining \qed on input line 283.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/morefloats/morefloats.sty
@@ -274,19 +247,24 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen126
+\scratchcounter=\count107
+\scratchdimen=\dimen118
 \scratchbox=\box32
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen127
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen119
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -311,43 +289,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* hratio: 1:1
-* vratio: 1:1
-* modes: 
-* h-part:(L,W,R)=(106.75394pt, 384.0pt, 106.75394pt)
-* v-part:(T,H,B)=(141.52342pt, 562.0pt, 141.52342pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=384.0pt
-* \textheight=562.0pt
-* \oddsidemargin=34.48395pt
-* \evensidemargin=34.48395pt
-* \topmargin=7.25343pt
-* \headheight=50.0pt
-* \headsep=12.0pt
-* \topskip=10.0pt
-* \footskip=12.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=24.0pt plus 2.0pt minus 12.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -355,68 +298,81 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (0.584pt too wide) in paragraph at lines 44--45
-[]\OT1/cmr/m/n/10 Previous stud-ies which have mod-elled post-seis-mic de-for-m
-a-tion fol-low-ing the El Mayor-
- []
+) [1
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Figures/ContextMap.pdf, id=15, 512.63477pt x 295.79564pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<Figures/ContextMap.pdf, id=17, 512.63477pt x 295.79564pt>
 File: Figures/ContextMap.pdf Graphic file (type pdf)
 
 <use Figures/ContextMap.pdf>
 Package pdftex.def Info: Figures/ContextMap.pdf used on input line 51.
 (pdftex.def)             Requested size: 358.84189pt x 207.05553pt.
- [2] [3 <./Figures/ContextMap.pdf>] [4] [5]
-<Figures/FilterP496.pdf, id=541, 550.0058pt x 216.80998pt>
+
+Overfull \hbox (13.84189pt too wide) in paragraph at lines 51--52
+[][] 
+ []
+
+[3] [4 <./Figures/ContextMap.pdf>]
+Overfull \hbox (4.84212pt too wide) in paragraph at lines 71--73
+\OT1/cmr/m/n/10 earth-quake, Ocotillo earth-quake, and the Braw-ley swarm, re-s
+pec-tively, $\OML/cmm/m/it/10 c[]$ \OT1/cmr/m/n/10 through
+ []
+
+[5] [6] [7] <Figures/FilterP496.pdf, id=548, 550.0058pt x 216.80998pt>
 File: Figures/FilterP496.pdf Graphic file (type pdf)
 
 <use Figures/FilterP496.pdf>
 Package pdftex.def Info: Figures/FilterP496.pdf used on input line 125.
 (pdftex.def)             Requested size: 385.00143pt x 151.76595pt.
 
-Overfull \hbox (1.00143pt too wide) in paragraph at lines 125--127
+Overfull \hbox (40.00143pt too wide) in paragraph at lines 125--127
  [][] 
  []
 
-<Figures/FilterP619.pdf, id=542, 549.25098pt x 216.80998pt>
+<Figures/FilterP619.pdf, id=549, 549.25098pt x 216.80998pt>
 File: Figures/FilterP619.pdf Graphic file (type pdf)
 
 <use Figures/FilterP619.pdf>
 Package pdftex.def Info: Figures/FilterP619.pdf used on input line 132.
 (pdftex.def)             Requested size: 384.47305pt x 151.76595pt.
- [6 <./Figures/FilterP496.pdf> <./Figures/FilterP619.pdf
 
-pdfTeX warning: pdflatex (file ./Figures/FilterP619.pdf): PDF inclusion: multip
-le pdfs with page group included in a single page
->] <Figures/MapViewNearField.pdf, id=58082, 503.58167pt x 338.81616pt>
+Overfull \hbox (39.47305pt too wide) in paragraph at lines 132--134
+ [][] 
+ []
+
+[8 <./Figures/FilterP496.pdf>] [9 <./Figures/FilterP619.pdf>]
+<Figures/MapViewNearField.pdf, id=58093, 503.58167pt x 338.81616pt>
 File: Figures/MapViewNearField.pdf Graphic file (type pdf)
 
 <use Figures/MapViewNearField.pdf>
 Package pdftex.def Info: Figures/MapViewNearField.pdf used on input line 143.
 (pdftex.def)             Requested size: 352.50476pt x 237.1697pt.
 
-<Figures/MapViewFarField.pdf, id=58083, 524.8541pt x 334.56522pt>
+Overfull \hbox (7.50476pt too wide) in paragraph at lines 143--145
+ [][] 
+ []
+
+<Figures/MapViewFarField.pdf, id=58094, 524.8541pt x 334.56522pt>
 File: Figures/MapViewFarField.pdf Graphic file (type pdf)
 
 <use Figures/MapViewFarField.pdf>
 Package pdftex.def Info: Figures/MapViewFarField.pdf used on input line 150.
 (pdftex.def)             Requested size: 367.39536pt x 234.19405pt.
- [7] [8 <./Figures/MapViewNearField.pdf> <./Figures/MapViewFarField.pdf
 
-pdfTeX warning: pdflatex (file ./Figures/MapViewFarField.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->] [9] <Figures/ElasticSlip.pdf, id=58205, 295.97818pt x 533.9447pt>
+Overfull \hbox (22.39536pt too wide) in paragraph at lines 150--152
+ [][] 
+ []
+
+[10 <./Figures/MapViewNearField.pdf>] [11 <./Figures/MapViewFarField.pdf>]
+[12] [13] <Figures/ElasticSlip.pdf, id=58220, 295.97818pt x 533.9447pt>
 File: Figures/ElasticSlip.pdf Graphic file (type pdf)
 
 <use Figures/ElasticSlip.pdf>
 Package pdftex.def Info: Figures/ElasticSlip.pdf used on input line 198.
 (pdftex.def)             Requested size: 207.1833pt x 373.75874pt.
 
-<Figures/RecordSectionElastic.pdf, id=58206, 528.37402pt x 462.52798pt>
+<Figures/RecordSectionElastic.pdf, id=58221, 528.37402pt x 462.52798pt>
 File: Figures/RecordSectionElastic.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionElastic.pdf>
@@ -424,63 +380,73 @@ Package pdftex.def Info: Figures/RecordSectionElastic.pdf used on input line 20
 4.
 (pdftex.def)             Requested size: 369.85928pt x 323.76736pt.
 
-<Figures/rheology.pdf, id=58207, 286.78453pt x 211.85481pt>
+Overfull \hbox (24.85928pt too wide) in paragraph at lines 204--205
+[][] 
+ []
+
+<Figures/rheology.pdf, id=58222, 286.78453pt x 211.85481pt>
 File: Figures/rheology.pdf Graphic file (type pdf)
 
 <use Figures/rheology.pdf>
 Package pdftex.def Info: Figures/rheology.pdf used on input line 221.
 (pdftex.def)             Requested size: 200.74779pt x 148.29735pt.
- [10] [11 <./Figures/ElasticSlip.pdf>] [12 <./Figures/RecordSectionElastic.pdf>
+ [14] [15 <./Figures/ElasticSlip.pdf>] [16 <./Figures/RecordSectionElastic.pdf>
  <./Figures/rheology.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/rheology.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
->] <Figures/Cancellation.pdf, id=58642, 867.24pt x 361.35pt>
+>] [17] <Figures/Cancellation.pdf, id=58660, 867.24pt x 361.35pt>
 File: Figures/Cancellation.pdf Graphic file (type pdf)
 
 <use Figures/Cancellation.pdf>
 Package pdftex.def Info: Figures/Cancellation.pdf used on input line 241.
 (pdftex.def)             Requested size: 433.61894pt x 180.67456pt.
 
-Overfull \hbox (49.61894pt too wide) in paragraph at lines 241--242
+Overfull \hbox (88.61894pt too wide) in paragraph at lines 241--242
 [][] 
  []
 
-[13] [14 <./Figures/Cancellation.pdf>]
-<Figures/RecordSectionDuration.pdf, id=58706, 528.6676pt x 462.52798pt>
+[18 <./Figures/Cancellation.pdf>]
+<Figures/RecordSectionDuration.pdf, id=58720, 528.6676pt x 462.52798pt>
 File: Figures/RecordSectionDuration.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionDuration.pdf>
 Package pdftex.def Info: Figures/RecordSectionDuration.pdf used on input line 2
 51.
 (pdftex.def)             Requested size: 370.06479pt x 323.76736pt.
- [15 <./Figures/RecordSectionDuration.pdf>] <Figures/EffectiveViscosity.pdf, id
-=59219, 361.35pt x 433.62pt>
+
+Overfull \hbox (25.06479pt too wide) in paragraph at lines 251--253
+ [][] 
+ []
+
+[19] [20 <./Figures/RecordSectionDuration.pdf>]
+<Figures/EffectiveViscosity.pdf, id=59237, 361.35pt x 433.62pt>
 File: Figures/EffectiveViscosity.pdf Graphic file (type pdf)
 
 <use Figures/EffectiveViscosity.pdf>
 Package pdftex.def Info: Figures/EffectiveViscosity.pdf used on input line 270.
 
 (pdftex.def)             Requested size: 252.94327pt x 303.53192pt.
-
-<Figures/InitialSlip.pdf, id=59220, 296.08238pt x 286.20789pt>
+ [21] [22 <./Figures/EffectiveViscosity.pdf>] <Figures/InitialSlip.pdf, id=5929
+1, 296.08238pt x 286.20789pt>
 File: Figures/InitialSlip.pdf Graphic file (type pdf)
 
 <use Figures/InitialSlip.pdf>
 Package pdftex.def Info: Figures/InitialSlip.pdf used on input line 279.
 (pdftex.def)             Requested size: 207.25624pt x 200.34415pt.
- [16] [17 <./Figures/EffectiveViscosity.pdf> <./Figures/InitialSlip.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/InitialSlip.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
->] <Figures/RatioMisfit.pdf, id=59282, 433.62pt x 433.62pt>
+ [23 <./Figures/InitialSlip.pdf>] [24]
+<Figures/RatioMisfit.pdf, id=59308, 433.62pt x 433.62pt>
 File: Figures/RatioMisfit.pdf Graphic file (type pdf)
 
 <use Figures/RatioMisfit.pdf>
 Package pdftex.def Info: Figures/RatioMisfit.pdf used on input line 298.
 (pdftex.def)             Requested size: 346.89647pt x 346.89647pt.
 
-<Figures/RecordSectionFinal.pdf, id=59283, 528.08553pt x 462.52798pt>
+Overfull \hbox (1.89647pt too wide) in paragraph at lines 298--300
+ [][] 
+ []
+
+<Figures/RecordSectionFinal.pdf, id=59309, 528.08553pt x 462.52798pt>
 File: Figures/RecordSectionFinal.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionFinal.pdf>
@@ -488,56 +454,61 @@ Package pdftex.def Info: Figures/RecordSectionFinal.pdf used on input line 305.
 
 (pdftex.def)             Requested size: 422.469pt x 370.02287pt.
 
-Overfull \hbox (38.469pt too wide) in paragraph at lines 305--307
+Overfull \hbox (77.469pt too wide) in paragraph at lines 305--307
  [][] 
  []
 
-[18] [19 <./Figures/RatioMisfit.pdf>] [20 <./Figures/RecordSectionFinal.pdf>]
-<Figures/FinalSlip.pdf, id=59790, 296.16669pt x 534.28465pt>
+[25] [26 <./Figures/RatioMisfit.pdf>] [27 <./Figures/RecordSectionFinal.pdf>]
+<Figures/FinalSlip.pdf, id=59815, 296.16669pt x 534.28465pt>
 File: Figures/FinalSlip.pdf Graphic file (type pdf)
 
 <use Figures/FinalSlip.pdf>
 Package pdftex.def Info: Figures/FinalSlip.pdf used on input line 317.
 (pdftex.def)             Requested size: 236.93365pt x 427.4283pt.
- [21] [22 <./Figures/FinalSlip.pdf>] [23]
-(./ElMayor.bbl [24] [25]
-Missing character: There is no â in font cmr8!
-Missing character: There is no ‰ in font cmr8!
-Missing character: There is no ¥ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no € in font cmr8!
-Missing character: There is no “ in font cmr8!
-) [26] (./ElMayor.aux) ) 
+ [28] [29 <./Figures/FinalSlip.pdf>] [30] [31]
+[32] (./ElMayor.bbl [33] [34] [35] [36] [37]
+Missing character: There is no â in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+ [38]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+) [39] (./ElMayor.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3817 strings out of 494985
- 51247 string characters out of 6180357
- 122024 words of memory out of 5000000
- 6946 multiletter control sequences out of 15000+600000
+ 3340 strings out of 494985
+ 44244 string characters out of 6180356
+ 106353 words of memory out of 5000000
+ 6478 multiletter control sequences out of 15000+600000
  11673 words of font info for 44 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 36i,15n,30p,2716b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on ElMayor.pdf (26 pages, 12107011 bytes).
+ 36i,15n,30p,2716b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb>
+Output written on ElMayor.pdf (39 pages, 12113167 bytes).
 PDF statistics:
- 59880 PDF objects out of 66169 (max. 8388607)
- 39591 compressed objects within 396 object streams
+ 59927 PDF objects out of 66169 (max. 8388607)
+ 39624 compressed objects within 397 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
