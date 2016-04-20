@@ -55,6 +55,12 @@ Davis, J.~L., Wernicke, B.~P., and Tamisiea, M.~E. (2012).
 \newblock {On seasonal signals in geodetic time series}.
 \newblock {\em Journal of Geophysical Research: Solid Earth}, 117(1):1--10.
 
+\bibitem[Feigl and Thatcher, 2006]{Feigl2006}
+Feigl, K.~L. and Thatcher, W. (2006).
+\newblock {Geodetic observations of post-seismic transients in the context of
+  the earthquake deformation cycle}.
+\newblock {\em Comptes Rendus - Geoscience}, 338:1012--1028.
+
 \bibitem[Fletcher et~al., 2014]{Fletcher2014}
 Fletcher, J.~M., Teran, O.~J., Rockwell, T.~K., Oskin, M.~E., Hudnut, K.~W.,
   Mueller, K.~J., Spelz, R.~M., Akciz, S.~O., Masana, E., Faneros, G.,
@@ -94,6 +100,12 @@ Hauksson, E., Stock, J., Hutton, K., Yang, W., Vidal-Villegas, J.~A., and
   along the Mexican pacific margin}.
 \newblock {\em Pure and Applied Geophysics}, 168(3918):1255--1277.
 
+\bibitem[Hearn, 2003]{Hearn2003}
+Hearn, E.~H. (2003).
+\newblock {What can GPS data tell us about the dynamics of post-seismic
+  deformation ?}
+\newblock (2003):753--777.
+
 \bibitem[Hearn et~al., 2009]{Hearn2009}
 Hearn, E.~H., McClusky, S., Ergintav, S., and Reilinger, R.~E. (2009).
 \newblock {Izmit earthquake postseismic deformation and dynamics of the North
@@ -106,14 +118,20 @@ Hetland, E.~A. (2003).
 \newblock {Postseismic relaxation across the Central Nevada Seismic Belt}.
 \newblock {\em Journal of Geophysical Research}, 108(Figure 2):1--13.
 
+\bibitem[Hetland and Zhang, 2014]{Hetland2014}
+Hetland, E.~A. and Zhang, G. (2014).
+\newblock {Effect of shear zones on post-seismic deformation with application
+  to the 1997 Mw 7.6 manyi earthquake}.
+\newblock {\em Geophysical Journal International}, 198:259--269.
+
 \bibitem[Hines and Hetland, 2013]{Hines2013}
 Hines, T.~T. and Hetland, E.~A. (2013).
 \newblock {Bias in estimates of lithosphere viscosity from interseismic
   deformation}.
 \newblock {\em Geophysical Research Letters}, 40(16):4260--4265.
 
-\bibitem[Hines and Hetland, 2015]{Hines2015}
-Hines, T.~T. and Hetland, E.~A. (2015).
+\bibitem[Hines and Hetland, 2016]{Hines2016}
+Hines, T.~T. and Hetland, E.~A. (2016).
 \newblock {Rapid and simultaneous estimation of fault slip and heterogeneous
   lithospheric viscosity from post-seismic deformation}.
 \newblock {\em Geophysical Journal International}, 204(1):569--582.

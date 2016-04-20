@@ -1,0 +1,172 @@
+
+In response to this comment, in latex.comments.docx:
+
+----
+When converting a latex file into a merged pdf with figures, GEMS will
+insert graphics into the merged pdf. We should consult with EJPress
+and include instructions in the template on how the author should
+upload the latex into GEMS so the merged outputs figures with captions
+underneat (that is, so the GEMS merged pdf includes graphics).
+
+We should include instruction in the Word SI template and LaTeX SI
+template that authors should upload the formatted PDF instead of the
+doc or latex—unless EJPress can export the built PDF…Jeanette, have
+they indicated they can? If an author uploads the doc or tex SI
+template, that’s what’s published. I think many are not aware of this,
+so we should declare it in more places, especially in the
+instructional text of the templates. 
+
+>> Let me know if you'd like anything changed regarding these points.
+
+----
+
+Re: the “Leave this section to be filled in by AGU production”: Did
+Wiley Production request this text? IF not, we don’t need it.
+
+>> Deleted
+
+
+DOCS.PDF
+
+	Page 1: Authors should also not use \providecommand (in addition to the other macro options listed)
+== Done
+
+	Page 2: When will AGU receive the “final version” without the DRAFT option? Does Wiley collect this? 
+== ??  I don't know what Wiley will do, but if you don't ask for draft style you will get the final style,
+no double spacing and raggedright. \documentclass{agujournal} will give you the final style.
+
+	Can we get an option to single-space the “draft”? Reviewers request this to save paper when printing
+
+==  \documentclass{agujournal} will give you the final style.
+See if you like the appearance. I could also make the text width wider or any other change to yield a
+   more polished output. Let me know.
+
+	At revision, authors must supply both the “final version”
+without markup and the “draft version” with markup. Should we change
+this policy, or should Amy add text about making two documents?
+== Let me know if you need to change the documentation. The track changes information will
+only print in draft mode.
+
+	Page 8: Instructions say to use certain figure extensions
+depending on the program they’re using to render the PDF. However, for
+revisions and resubmissions, authors don’t give us the rendered PDF,
+they give us the source file. The question then becomes, what program
+does GEMS use to render the TEX files into PDF? We should encourage
+authors to use file extensions that match it. (We use plain LaTeX in
+house with varying options on the graphicx package.)
+
+== Let me know what you'd like me to change
+
+
+Page 11: The Tip at the bottom doesn’t make sense to me;
+should the second instance of “figone” instead be “figtwo”?
+
+== Fixed
+
+===============
+AGUJOURNALTEMPLATE.TEX
+	Line 14: Suggestion to add “ etc.” to cover all bases
+== done
+
+AGUJOURNAL.CLS
+
+• Line 57: The TIMES.STY and TIMES package consistently give us errors
+about missing a file named MTMACS. I usually wind up disabling it.
+Should we be including in the new CLS file?
+
+== I put the text of times.sty into the .cls file. I don't know what is
+calling mtmacs, but perhaps this will help.
+
+	Line 1083: I get an undefined control sequence (\refname) when
+trying to build any document with a bibliography. Is a delimiter
+missing?
+== fixed. 
+
+
+
+	In journals list, Global Biochemical Cycles should be Global
+Biogeochemical Cycles and Water Resource Research should be Water
+Resources Research
+== done
+	
+	I tested the template and got the same \refname error that
+Nick noted. In the draft format, this prevented the file from printing
+any references, either at the end or in-text. In the “final” format,
+the references printed fine.
+== strange that it would be different depending on draft or final format, but
+it is defined now.
+	
+	Also, in the draft format the figure captions and in-text
+figure references didn’t print, but they were fine in the “final”
+version.
+== would need to see a sample file to figure out what is going on here. Please send.
+	
+I’m a little confused about the difference between draft and final.
+Are we going to ask authors to submit both a draft file (for review)
+and a final file (for Wiley) at each revision stage? Or will we ask
+them to submit a final file after acceptance, or will Wiley request
+this file? 
+== I'm happy to change the documentation, but I don't know what Wiley will want.
+
+For the Track Changes file, is this going to be how
+the article file is submitted? Or is this just a tool for authors to
+make their Response file? If we’re not going to accept Track Changes
+files as the article file, we need to make that clear – authors will
+need to make two files.  
+
+ Re: Paige’s comment on inserting graphics
+into the file – is this something we are going to modify GEMS to be
+able to do? Is there a benefit to having GEMS do this instead of just
+putting the figures at the end of the merged file as it currently
+does? We could also include instructions to authors to upload their
+own pdf with the figures incorporated if necessary.  
+== Let me know when these things are decided if you'd like changes to the
+documentation.
+
+Otherwise, here are other things observed.  
+
+In the documentation file (docs.pdf) 
+Page 2
+	Typo in ‘Setting the Documentclass Options’ section. numberline should be linenumbers 
+== done
+
+	This abovementioned typo about line numbers may be moot if we
+elect to instruct authors on how to submit a final version instead of
+the draft formatting (I thought we were moving away from
+doublespaced/linenumbered submissions?) 
+== Let me know if you need changes from me.
+
+Page 3
+	Sample author entry using \thanks{} command. Should we use an
+example showing an author having a second affiliation instead of
+funding? (see also below). 
+== as many affiliations as wanted are allowed.
+
+Shouldn’t funding info be captured in the
+submission metadata? It can also be mentioned in the acknowledgments
+right?  D.  E. Author\affil{3,4}\thanks{Also funded by Monsanto.}}
+== This is the way it is shown in docs.pdf now, should anything be changed?
+
+Page 18
+Second to last paragraph contains extraneous characters (shown below)
+== Fixed.
+ 
+(Minor FYI) the topic based tabs in the documentation are not
+clickable when viewing through a mobile device (android). 
+== sorry! I don't think I can do anything about that.
+
+======================================
+
+agujournaltemplate.tex and agusuppinfosample.tex files 
+
+I am getting an error message regarding a missing xcolor.sty file.
+The new CLS file calls xcolor out specifically. I guess we can search
+and download this but suspect it would be a headache for authors
+unless its provided in our package. Rebecca did you get this same
+error?
+
+== No problem, I included the code found in xcolor.sty in the agujournal.cls file.
+
+===================
+Also made improvement on the track changes macros, so that now
+you can add time of change or other information using []:
