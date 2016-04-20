@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{55}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -16,6 +16,11 @@ Argus, D.~F., M.~B. Heflin, G.~Peltzer, F.~Cramp{\'{e}}, and F.~H. Webb (2005),
   {Interseismic strain accumulation and anthropogenic motion in metropolitan
   Los Angeles}, \textit{Journal of Geophysical Research B: Solid Earth},
   \textit{110}(4), 1--26, \doi{10.1029/2003JB002934}.
+
+\bibitem[{\textit{Aster et~al.}(2011)\textit{Aster, Borchers, and
+  Thurber}}]{Aster2011}
+Aster, R.~C., B.~Borchers, and C.~H. Thurber (2011), \textit{{Parameter
+  Estimation and Inverse Problems}}, vol.~90, 360 pp.
 
 \bibitem[{\textit{Bawden et~al.}(2001)\textit{Bawden, Thatcher, Stein, Hudnut,
   and Peltzer}}]{Bawden2001}
@@ -37,6 +42,14 @@ Bills, B.~G., and G.~M. May (1987), {Lake Bonneville: Constraints on
   M.~Meghraoui, and R.~Reilinger (2012), {Onset of aseismic creep on major
   strike-slip faults}, \textit{Geology}, \textit{40}(12), 1115--1118,
   \doi{10.1130/G33522.1}.
+
+\bibitem[{\textit{Cavali{\'{e}} et~al.}(2007)\textit{Cavali{\'{e}}, Doin,
+  Lasserre, and Briole}}]{Cavalie2007}
+Cavali{\'{e}}, O., M.~P. Doin, C.~Lasserre, and P.~Briole (2007), {Ground
+  motion measurement in the Lake Mead area, Nevada, by differential synthetic
+  aperture radar interferometry time series analysis: Probing the lithosphere
+  rheological structure}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{112}(3), 1--18, \doi{10.1029/2006JB004344}.
 
 \bibitem[{\textit{Cetin et~al.}(2014)\textit{Cetin, Cakir, Meghraoui, Ergintav,
   and Akoglu}}]{Cetin2014}
@@ -338,6 +351,11 @@ Wei, S., E.~Fielding, S.~Leprince, A.~Sladen, J.-P. Avouac, D.~Helmberger,
   (2011{\natexlab{b}}), {Superficial simplicity of the 2010 El Mayor–Cucapah
   earthquake of Baja California in Mexico}, \textit{Nature Geoscience},
   \textit{4}(9), 615--618, \doi{10.1038/ngeo1213}.
+
+\bibitem[{\textit{Yang and Toks{\"{o}}z}(1981)}]{Yang1981}
+Yang, M., and M.~N. Toks{\"{o}}z (1981), {Time-dependent deformation and stress
+  relaxation after strike-slip earthquakes}, \textit{J. Geophys. Res.},
+  \textit{86}(80), 2889--2901.
 
 \bibitem[{\textit{Yuen and Peltier}(1982)}]{Yuen1982}
 Yuen, D.~A., and W.~R. Peltier (1982), {Normal modes of the viscoelastic
