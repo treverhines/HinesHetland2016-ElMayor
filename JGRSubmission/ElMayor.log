@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  22 APR 2016 09:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  2 MAY 2016 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,9 +793,49 @@ Overfull \hbox (15.0851pt too wide) in paragraph at lines 51--52
 pah and a Zener rhe-ol-ogy in the up- 
  []
 
+<Figures/ContextMap.pdf, id=20, 471.38287pt x 273.25458pt>
+File: Figures/ContextMap.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `fig:ContextMap' on page 3 undefined on input line 60.
+<use Figures/ContextMap.pdf>
+Package pdftex.def Info: Figures/ContextMap.pdf used on input line 54.
+(pdftex.def)             Requested size: 377.1068pt x 218.60394pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\OT1/ptm/b/n/9 Figure  1. \OT1/ptm/m/n/9 Map of the re-gion con-sid-ered in t
+his study. The large fo-cal mech-a-nism is for the El Mayor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/ptm/m/n/9 Cucapah earth-quake, and the three small fo-cal mech-a-nisms are
+ for the Ocotillo earth-quake and the two main
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/ptm/m/n/9 shocks dur-ing the Braw-ley swarm. The black dots in-di-cate the
+ lo-ca-tions of GPS sta-tions used in this study.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/ptm/m/n/9 The fault ge-om-e-try used in this study is shown in cyan where 
+dashed lines in-di-cate buried edges of the fault
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/ptm/m/n/9 seg-ments. The green and red boxes de-mar-cate the ex-tent of th
+e near-field and far-field maps (Fig-ures 4[] and 5[]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/ptm/m/n/9 Sta-tions in-side the blue sec-tor, which high-lights the area w
+ithin 10$[]$ of the El Mayor-Cucapah P axis, are used
+ []
 
 
 Overfull \hbox (13.94807pt too wide) in paragraph at lines 60--61
@@ -843,9 +883,9 @@ in-cluded an Mw5.5 and an
  []
 
 
-Overfull \hbox (9.559pt too wide) in paragraph at lines 60--61
-\OT1/ptm/m/n/10 Mw5.4 event on Au-gust 26, 2012, (Fig-ure []) are the only eart
-h-quakes that pro-duced no-tice- 
+Overfull \hbox (4.559pt too wide) in paragraph at lines 60--61
+\OT1/ptm/m/n/10 Mw5.4 event on Au-gust 26, 2012, (Fig-ure 1[]) are the only ear
+th-quakes that pro-duced no-tice- 
  []
 
 
@@ -898,7 +938,7 @@ Overfull \hbox (5.09612pt too wide) in paragraph at lines 73--75
 -ser-va-tion noise. We only es-ti-mate jumps as-so-ci-ated with the Ocotillo 
  []
 
-[3]
+[3] [4 <./Figures/ContextMap.pdf>]
 Overfull \hbox (15.42772pt too wide) in paragraph at lines 76--77
 []\OT1/ptm/m/n/10 Stations which recorded dis-place-ments that clearly can-not 
 be de-scribed by the afore-men- 
@@ -1119,7 +1159,7 @@ n/10 to form a prior es-ti-mate of the state at time $\OML/cmm/m/it/10 t[]$ \OT
 1/ptm/m/n/10 through the tran- 
  []
 
-[4]
+[5]
 Overfull \hbox (3.43985pt too wide) in paragraph at lines 123--125
 \OT1/ptm/m/n/10 This pro-cess is re-peated for each of the $\OML/cmm/m/it/10 N$
  \OT1/ptm/m/n/10 time epochs at which point we use Rauch-Tung- 
@@ -1225,7 +1265,7 @@ ts in-cor-po-rated into our es-ti-mate
 
 
 Overfull \hbox (9.35748pt too wide) in paragraph at lines 126--127
-\OT1/ptm/m/n/10 of co-seis-mic dis-place-ments (Fig-ure 1[]). We as-sume that t
+\OT1/ptm/m/n/10 of co-seis-mic dis-place-ments (Fig-ure 2[]). We as-sume that t
 he first week of de-for-ma-tion is over- 
  []
 
@@ -1253,7 +1293,7 @@ Overfull \hbox (14.33124pt too wide) in paragraph at lines 126--127
 arly see far reach-ing post-seis- 
  []
 
-<Figures/FilterP496.pdf, id=31, 528.90703pt x 210.2912pt>
+<Figures/FilterP496.pdf, id=548, 528.90703pt x 210.2912pt>
 File: Figures/FilterP496.pdf Graphic file (type pdf)
 
 <use Figures/FilterP496.pdf>
@@ -1264,11 +1304,9 @@ Overfull \hbox (25.6412pt too wide) in paragraph at lines 129--131
  [][] 
  []
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
 
 Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]\OT1/ptm/b/n/9 Figure  1. \OT1/ptm/m/n/9 Left pan-els show GPS time se-ries f
+[]\OT1/ptm/b/n/9 Figure  2. \OT1/ptm/m/n/9 Left pan-els show GPS time se-ries f
 rom UN-AVCO (black) and the pre-dicted dis-place-ment (blue)
  []
 
@@ -1285,7 +1323,7 @@ eis-mic dis-place-ments $\OML/cmm/m/it/9 u[]$ \OT1/ptm/m/n/9 which are ex-tract
 ed
  []
 
-<Figures/FilterP619.pdf, id=32, 538.917pt x 210.2912pt>
+<Figures/FilterP619.pdf, id=549, 538.917pt x 210.2912pt>
 File: Figures/FilterP619.pdf Graphic file (type pdf)
 
 <use Figures/FilterP619.pdf>
@@ -1355,7 +1393,7 @@ ed an-nual and semi-annual os-cil-la-
 
 
 Overfull \hbox (3.54471pt too wide) in paragraph at lines 144--145
-[]\OT1/ptm/m/n/10 We show in Fig-ures 3[] and 4[] the near and far-field post-s
+[]\OT1/ptm/m/n/10 We show in Fig-ures 4[] and 5[] the near and far-field post-s
 eis-mic dis-place-ments ac-cu-mu- 
  []
 
@@ -1431,11 +1469,11 @@ Overfull \hbox (0.3206pt too wide) in paragraph at lines 144--145
  likely does not have post-seis-mic ori- 
  []
 
-[5] [6 <./Figures/FilterP496.pdf> <./Figures/FilterP619.pdf
+[6] [7 <./Figures/FilterP496.pdf> <./Figures/FilterP619.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/FilterP619.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
->] <Figures/MapViewNearField.pdf, id=28157, 529.22792pt x 456.0083pt>
+>] <Figures/MapViewNearField.pdf, id=28675, 529.22792pt x 456.0083pt>
 File: Figures/MapViewNearField.pdf Graphic file (type pdf)
 
 <use Figures/MapViewNearField.pdf>
@@ -1448,7 +1486,7 @@ Overfull \hbox (25.89792pt too wide) in paragraph at lines 147--149
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 149--149
-[]\OT1/ptm/b/n/9 Figure  3. \OT1/ptm/m/n/9 Near-field co-seis-mic and cu-mu-la-
+[]\OT1/ptm/b/n/9 Figure  4. \OT1/ptm/m/n/9 Near-field co-seis-mic and cu-mu-la-
 tive post-seis-mic dis-place-ments over the in-di-cated time pe-ri-ods
  []
 
@@ -1470,7 +1508,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--149
 t is not well con-strained in Mex-ico where there is no
  []
 
-<Figures/MapViewFarField.pdf, id=28158, 538.79173pt x 456.0083pt>
+<Figures/MapViewFarField.pdf, id=28676, 538.79173pt x 456.0083pt>
 File: Figures/MapViewFarField.pdf Graphic file (type pdf)
 
 <use Figures/MapViewFarField.pdf>
@@ -1521,10 +1559,10 @@ es. How-ever, the ver-ti-cal post-seis-mic
 
 Overfull \hbox (7.46434pt too wide) in paragraph at lines 160--161
 \OT1/ptm/m/n/10 sig-nal is only ap-par-ent for the first year af-ter the earth-
-quake (Fig-ure 3[]). As with the far-field 
+quake (Fig-ure 4[]). As with the far-field 
  []
 
-[7 <./Figures/MapViewNearField.pdf>] [8 <./Figures/MapViewFarField.pdf>]
+[8 <./Figures/MapViewNearField.pdf>] [9 <./Figures/MapViewFarField.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []\OT1/ptm/b/n/9 Table 1. \OT1/ptm/m/n/9 As-sumed and es-ti-mated ma-te-rial pr
 op-er-ties. $\OML/cmm/m/it/9 ^^U$ \OT1/ptm/m/n/9 and $\OML/cmm/m/it/9 ^^V$ \OT1
@@ -1575,10 +1613,6 @@ Overfull \hbox (2.59454pt too wide) in paragraph at lines 179--180
 \OT1/ptm/m/n/10 the El Mayor-Cucapah earth-quake. Fur-ther-more, we con-sider s
 ta-tions which are suf-fi-ciently 
  []
-
-
-LaTeX Warning: Reference `fig:ContextMap' on page 9 undefined on input line 181
-.
 
 
 Overfull \hbox (9.28047pt too wide) in paragraph at lines 181--182
@@ -1632,9 +1666,9 @@ ult ge-om-e-try used in
  []
 
 
-Overfull \hbox (7.42787pt too wide) in paragraph at lines 181--182
-\OT1/ptm/m/n/10 this study (Fig-ure []) con-sists of the two main fault seg-men
-ts in-ferred by \OT1/ptm/m/it/10 Wei et al. \OT1/ptm/m/n/10 [2011b], 
+Overfull \hbox (2.42787pt too wide) in paragraph at lines 181--182
+\OT1/ptm/m/n/10 this study (Fig-ure 1[]) con-sists of the two main fault seg-me
+nts in-ferred by \OT1/ptm/m/it/10 Wei et al. \OT1/ptm/m/n/10 [2011b], 
  []
 
 
@@ -1736,7 +1770,7 @@ Overfull \hbox (8.89261pt too wide) in paragraph at lines 184--185
  km). Our for-ward prob-lem de-scrib-ing pre-dicted post-seis-mic de- 
  []
 
-[9]
+[10]
 Overfull \hbox (8.73488pt too wide) in paragraph at lines 188--190
 \OT1/ptm/m/n/10 where $\OML/cmm/m/it/10 F$ \OT1/ptm/m/n/10 de-notes the fault a
 nd $\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; ^^X\OT1/cmr/m/n/10 )
@@ -1791,7 +1825,7 @@ Overfull \hbox (11.7684pt too wide) in paragraph at lines 195--197
 
 Overfull \hbox (6.40413pt too wide) in paragraph at lines 198--199
 []\OT1/ptm/m/n/10 Our co-seis-mic slip and af-ter-slip so-lu-tions are shown in
- Fig-ure 5[]. As with \OT1/ptm/m/it/10 Rollins et al. 
+ Fig-ure 6[]. As with \OT1/ptm/m/it/10 Rollins et al. 
  []
 
 
@@ -1828,7 +1862,7 @@ Overfull \hbox (0.31389pt too wide) in paragraph at lines 198--199
 
 
 Overfull \hbox (6.37367pt too wide) in paragraph at lines 198--199
-\OT1/ptm/m/n/10 stresses. Fig-ure 6[] shows the time se-ries for the ob-served 
+\OT1/ptm/m/n/10 stresses. Fig-ure 7[] shows the time se-ries for the ob-served 
 and pre-dicted post-seis-mic dis-place- 
  []
 
@@ -1880,7 +1914,7 @@ Overfull \hbox (2.80713pt too wide) in paragraph at lines 198--199
 -slip and is un-able to pre-dict far-field 
  []
 
-<Figures/ElasticSlip.pdf, id=28369, 540.60239pt x 243.81137pt>
+<Figures/ElasticSlip.pdf, id=28887, 540.60239pt x 243.81137pt>
 File: Figures/ElasticSlip.pdf Graphic file (type pdf)
 
 <use Figures/ElasticSlip.pdf>
@@ -1893,11 +1927,11 @@ Overfull \hbox (34.9975pt too wide) in paragraph at lines 201--202
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 202--202
-[]\OT1/ptm/b/n/9 Figure  5. \OT1/ptm/m/n/9 Co-seis-mic slip and cu-mu-la-tive a
+[]\OT1/ptm/b/n/9 Figure  6. \OT1/ptm/m/n/9 Co-seis-mic slip and cu-mu-la-tive a
 f-ter-slip over the in-di-cated in-ter-vals for the elas-tic model from
  []
 
-<Figures/RecordSectionElastic.pdf, id=28370, 516.51147pt x 413.52374pt>
+<Figures/RecordSectionElastic.pdf, id=28888, 516.51147pt x 413.52374pt>
 File: Figures/RecordSectionElastic.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionElastic.pdf>
@@ -1911,7 +1945,7 @@ Overfull \hbox (15.72475pt too wide) in paragraph at lines 207--208
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 208--208
-[]\OT1/ptm/b/n/9 Figure  6. \OT1/ptm/m/n/9 Scaled ra-dial com-po-nent of ob-ser
+[]\OT1/ptm/b/n/9 Figure  7. \OT1/ptm/m/n/9 Scaled ra-dial com-po-nent of ob-ser
 ved post-seis-mic dis-place-ments $\OML/cmm/m/it/9 u[]$ \OT1/ptm/m/n/9 (black) 
 and dis-place-ments
  []
@@ -1971,11 +2005,11 @@ on-sid-ered in this study are shown in Fig-
 
 
 Overfull \hbox (1.22108pt too wide) in paragraph at lines 220--222
-\OT1/ptm/m/n/10 ure 7[]. We dis-cuss these rhe-o-logic mod-els and their use in
+\OT1/ptm/m/n/10 ure 8[]. We dis-cuss these rhe-o-logic mod-els and their use in
  geo-phys-i-cal stud-ies in Sec-tion 4[].  
  []
 
-<Figures/rheology.pdf, id=28371, 239.37053pt x 176.8289pt>
+<Figures/rheology.pdf, id=28889, 239.37053pt x 176.8289pt>
 File: Figures/rheology.pdf Graphic file (type pdf)
 
 <use Figures/rheology.pdf>
@@ -1983,7 +2017,7 @@ Package pdftex.def Info: Figures/rheology.pdf used on input line 224.
 (pdftex.def)             Requested size: 191.49667pt x 141.4633pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 226--226
-[]\OT1/ptm/b/n/9 Figure  7. \OT1/ptm/m/n/9 Schematic il-lus-tra-tion of the rhe
+[]\OT1/ptm/b/n/9 Figure  8. \OT1/ptm/m/n/9 Schematic il-lus-tra-tion of the rhe
 -o-logic mod-els con-sid-ered in this pa-per as well as their ef-fec-tive
  []
 
@@ -2029,7 +2063,7 @@ Overfull \hbox (6.48022pt too wide) in paragraph at lines 230--232
 /10 ^^Q[]$\OT1/ptm/m/n/10 . Us-ing one-dimensional vis-coelas-tic mod-els, we 
  []
 
-[10] [11 <./Figures/ElasticSlip.pdf> <./Figures/RecordSectionElastic.pdf
+[11] [12 <./Figures/ElasticSlip.pdf> <./Figures/RecordSectionElastic.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/RecordSectionElastic.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
@@ -2156,7 +2190,7 @@ Overfull \hbox (15.37094pt too wide) in paragraph at lines 249--250
 on of slip with re-spect to time to be suf- 
  []
 
-[12 <./Figures/rheology.pdf>]
+[13 <./Figures/rheology.pdf>]
 Overfull \hbox (6.31985pt too wide) in paragraph at lines 251--252
 []\OT1/ptm/m/n/10 We es-ti-mate co-seis-mic slip and af-ter-slip with the same 
 spa-tial and tem-po-ral dis-cretiza- 
@@ -2219,7 +2253,7 @@ ill-posedness is il-lus-trated in Fig-ure
 
 
 Overfull \hbox (11.24445pt too wide) in paragraph at lines 251--252
-\OT1/ptm/m/n/10 8[], which shows the dis-place-ments re-sult-ing from a me-ter 
+\OT1/ptm/m/n/10 9[], which shows the dis-place-ments re-sult-ing from a me-ter 
 of slip on a fault ex-tend-ing from 15 
  []
 
@@ -2283,7 +2317,7 @@ Overfull \hbox (15.74745pt too wide) in paragraph at lines 251--252
 l-low-ing the El Mayor-Cucpah earth-quake 
  []
 
-<Figures/Cancellation.pdf, id=28444, 456.5322pt x 185.0767pt>
+<Figures/Cancellation.pdf, id=28962, 456.5322pt x 185.0767pt>
 File: Figures/Cancellation.pdf Graphic file (type pdf)
 
 <use Figures/Cancellation.pdf>
@@ -2291,7 +2325,7 @@ Package pdftex.def Info: Figures/Cancellation.pdf used on input line 254.
 (pdftex.def)             Requested size: 365.22624pt x 148.06155pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 255--255
-[]\OT1/ptm/b/n/9 Figure  8. \OT1/ptm/m/n/9 Dis-place-ments re-sult-ing from fau
+[]\OT1/ptm/b/n/9 Figure  9. \OT1/ptm/m/n/9 Dis-place-ments re-sult-ing from fau
 lt slip at lower crustal depths (a), and ini-tial ve-loc-i-ties re-sult-ing
  []
 
@@ -2406,15 +2440,22 @@ eis-mic pe-riod and un-der-es-ti-mates the
  []
 
 
-Overfull \hbox (17.31429pt too wide) in paragraph at lines 259--260
-\OT1/ptm/m/n/10 rate of de-for-ma-tion in the early pe-riod (Fig-ure 9[]). Due 
-to the low signal-to-noise ra-tios for far- 
+Overfull \hbox (4.85109pt too wide) in paragraph at lines 259--260
+\OT1/ptm/m/n/10 rate of de-for-ma-tion in the early pe-riod (Fig-ure 10[]). Due
+ to the low signal-to-noise ra-tios for 
  []
 
 
-Overfull \hbox (11.84047pt too wide) in paragraph at lines 259--260
-\OT1/ptm/m/n/10 field sta-tions, it is dif-fi-cult to de-ter-mine at what point
- eq. (14[]) is no longer able to pre-dict the 
+Overfull \hbox (10.41718pt too wide) in paragraph at lines 259--260
+\OT1/ptm/m/n/10 far-field sta-tions, it is dif-fi-cult to de-ter-mine at what p
+oint eq. (14[]) is no longer able to pre-dict 
+ []
+
+
+Overfull \hbox (12.17235pt too wide) in paragraph at lines 259--260
+\OT1/ptm/m/n/10 the ob-served dis-place-ments; how-ever, we set-tle on $\OML/cm
+m/m/it/10 t[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8$ \OT1/ptm/
+m/n/10 years af-ter the earth-quake, while 
  []
 
 
@@ -2449,8 +2490,8 @@ Overfull \hbox (9.74751pt too wide) in paragraph at lines 259--260
 irst 0.8 years of post-seis-mic de-for-ma- 
  []
 
-[13 <./Figures/Cancellation.pdf>]
-<Figures/RecordSectionDuration.pdf, id=28504, 516.94884pt x 413.52374pt>
+[14 <./Figures/Cancellation.pdf>]
+<Figures/RecordSectionDuration.pdf, id=29020, 516.94884pt x 413.52374pt>
 File: Figures/RecordSectionDuration.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionDuration.pdf>
@@ -2464,11 +2505,11 @@ Overfull \hbox (16.07465pt too wide) in paragraph at lines 262--264
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 264--264
-[]\OT1/ptm/b/n/9 Figure  9. \OT1/ptm/m/n/9 Ob-served post-seis-mic dis-place-me
-nts (black) and best fit-ting pre-dic-tions of eq. (14[]) to 5.0 (blue),
+[]\OT1/ptm/b/n/9 Figure  10. \OT1/ptm/m/n/9 Ob-served post-seis-mic dis-place-m
+ents (black) and best fit-ting pre-dic-tions of eq. (14[]) to 5.0 (blue),
  []
 
-[14 <./Figures/RecordSectionDuration.pdf>]
+[15 <./Figures/RecordSectionDuration.pdf>]
 Overfull \hbox (4.04567pt too wide) in paragraph at lines 276--278
 \OT1/ptm/m/n/10 where $\OML/cmm/m/it/10 u[]$ \OT1/ptm/m/n/10 con-sists of the f
 irst 0.8 years of post-seis-mic de-for-ma-tion and $\OML/cmm/m/it/10 u[]$ \OT1/
@@ -2529,7 +2570,7 @@ it/10 s$ \OT1/ptm/m/n/10 is to en-sure that the slip driv-ing vis-coelas-tic re
 
 Overfull \hbox (13.1777pt too wide) in paragraph at lines 279--280
 []\OT1/ptm/m/n/10 Our es-ti-mated ef-fec-tive vis-cosi-ties, and cor-re-spond-i
-ng flu-idi-ties, are shown in Fig-ure 10[]. 
+ng flu-idi-ties, are shown in Fig-ure 11[]. 
  []
 
 
@@ -2605,7 +2646,7 @@ Overfull \hbox (11.06697pt too wide) in paragraph at lines 279--280
 on in that layer, mean-ing that it is ef- 
  []
 
-<Figures/EffectiveViscosity.pdf, id=28510, 247.27501pt x 302.37466pt>
+<Figures/EffectiveViscosity.pdf, id=29026, 247.27501pt x 302.37466pt>
 File: Figures/EffectiveViscosity.pdf Graphic file (type pdf)
 
 <use Figures/EffectiveViscosity.pdf>
@@ -2614,7 +2655,7 @@ Package pdftex.def Info: Figures/EffectiveViscosity.pdf used on input line 282.
 (pdftex.def)             Requested size: 197.82027pt x 241.90005pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 284--284
-[]\OT1/ptm/b/n/9 Figure  10. \OT1/ptm/m/n/9 Ef-fec-tive vis-cosi-ties and as-so
+[]\OT1/ptm/b/n/9 Figure  11. \OT1/ptm/m/n/9 Ef-fec-tive vis-cosi-ties and as-so
 -ci-ated flu-idi-ties in-ferred by fit-ting eq. (14[]) to the first 0.8 years o
 f
  []
@@ -2633,7 +2674,7 @@ e af-ter-slip over the first 0.8 years
 
 
 Overfull \hbox (25.11084pt too wide) in paragraph at lines 288--289
-\OT1/ptm/m/n/10 af-ter the El Mayor-Cucapah earth-quake are shown in Fig-ure 11
+\OT1/ptm/m/n/10 af-ter the El Mayor-Cucapah earth-quake are shown in Fig-ure 12
 []. Sim-i-lar to our elas-tic slip model 
  []
 
@@ -2698,7 +2739,7 @@ Overfull \hbox (0.90358pt too wide) in paragraph at lines 288--289
 ic re-lax-ation that is more lo-cal-ized 
  []
 
-<Figures/InitialSlip.pdf, id=28511, 270.30116pt x 261.28465pt>
+<Figures/InitialSlip.pdf, id=29027, 270.30116pt x 261.28465pt>
 File: Figures/InitialSlip.pdf Graphic file (type pdf)
 
 <use Figures/InitialSlip.pdf>
@@ -2706,7 +2747,7 @@ Package pdftex.def Info: Figures/InitialSlip.pdf used on input line 291.
 (pdftex.def)             Requested size: 216.24121pt x 209.028pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 292--292
-[]\OT1/ptm/b/n/9 Figure  11. \OT1/ptm/m/n/9 Co-seis-mic slip and af-ter-slip in
+[]\OT1/ptm/b/n/9 Figure  12. \OT1/ptm/m/n/9 Co-seis-mic slip and af-ter-slip in
 -ferred by fit-ting eq. (14[]) to the first 0.8 years of post-seis-mic
  []
 
@@ -2752,7 +2793,7 @@ Overfull \hbox (7.35814pt too wide) in paragraph at lines 298--299
 om Sec-tion 3.2[]. We ap-praise each 
  []
 
-[15] [16 <./Figures/EffectiveViscosity.pdf> <./Figures/InitialSlip.pdf
+[16] [17 <./Figures/EffectiveViscosity.pdf> <./Figures/InitialSlip.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/InitialSlip.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
@@ -2785,7 +2826,7 @@ Overfull \hbox (12.62032pt too wide) in paragraph at lines 305--306
 
 
 Overfull \hbox (22.45735pt too wide) in paragraph at lines 305--306
-\OT1/ptm/m/n/10 ter about three years (Fig-ure 13[]). Since our ini-tial es-ti-
+\OT1/ptm/m/n/10 ter about three years (Fig-ure 14[]). Since our ini-tial es-ti-
 mates of $\OML/cmm/m/it/10 ^^Q[]$ \OT1/ptm/m/n/10 may be bi-ased to-wards over-
  
  []
@@ -2899,14 +2940,14 @@ c dis-place-ments is found to be $\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m
 
 Overfull \hbox (11.37315pt too wide) in paragraph at lines 307--308
 \OT1/ptm/m/n/10 which pro-duces a mis-fit of $[] \OT1/cmr/m/n/10 = 31\OML/cmm/m
-/it/10 :\OT1/cmr/m/n/10 2$ \OT1/ptm/m/n/10 (Fig-ure 12[]). The im-prove-ment in
+/it/10 :\OT1/cmr/m/n/10 2$ \OT1/ptm/m/n/10 (Fig-ure 13[]). The im-prove-ment in
  the Zener model over 
  []
 
 
 Overfull \hbox (5.8979pt too wide) in paragraph at lines 307--308
 \OT1/ptm/m/n/10 the Maxwell model can be clearly seen in the fit to the far-fie
-ld data (Fig-ure 13[]). The Zener 
+ld data (Fig-ure 14[]). The Zener 
  []
 
 
@@ -2915,7 +2956,7 @@ Overfull \hbox (2.6741pt too wide) in paragraph at lines 307--308
 ran-sient rate of far-field de-for-ma-tion 
  []
 
-<Figures/RatioMisfit.pdf, id=28537, 245.72348pt x 245.08922pt>
+<Figures/RatioMisfit.pdf, id=29054, 245.72348pt x 245.08922pt>
 File: Figures/RatioMisfit.pdf Graphic file (type pdf)
 
 <use Figures/RatioMisfit.pdf>
@@ -2923,11 +2964,11 @@ Package pdftex.def Info: Figures/RatioMisfit.pdf used on input line 310.
 (pdftex.def)             Requested size: 196.57904pt x 196.07162pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 312--312
-[]\OT1/ptm/b/n/9 Figure  12. \OT1/ptm/m/n/9 Mean chi-squared value for the best
+[]\OT1/ptm/b/n/9 Figure  13. \OT1/ptm/m/n/9 Mean chi-squared value for the best
  fit-ting slip model as a func-tion of the tran-sient shear mod-u-
  []
 
-<Figures/RecordSectionFinal.pdf, id=28538, 517.12552pt x 410.89261pt>
+<Figures/RecordSectionFinal.pdf, id=29055, 517.12552pt x 410.89261pt>
 File: Figures/RecordSectionFinal.pdf Graphic file (type pdf)
 
 <use Figures/RecordSectionFinal.pdf>
@@ -2941,7 +2982,7 @@ Overfull \hbox (16.21599pt too wide) in paragraph at lines 317--319
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 319--319
-[]\OT1/ptm/b/n/9 Figure  13. \OT1/ptm/m/n/9 Ob-served post-seis-mic dis-place-m
+[]\OT1/ptm/b/n/9 Figure  14. \OT1/ptm/m/n/9 Ob-served post-seis-mic dis-place-m
 ents (black). Pre-dicted post-seis-mic dis-place-ments for the best
  []
 
@@ -3007,7 +3048,7 @@ Overfull \hbox (7.4713pt too wide) in paragraph at lines 325--326
 
 
 Overfull \hbox (18.20316pt too wide) in paragraph at lines 325--326
-\OT1/ptm/m/n/10 is shown in Fig-ure 14[]. The in-ferred co-seis-mic po-tency is
+\OT1/ptm/m/n/10 is shown in Fig-ure 15[]. The in-ferred co-seis-mic po-tency is
  $\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10 ^^B \OT
 1/cmr/m/n/10 10[] m[]$\OT1/ptm/m/n/10 , equiv-a-lent to a Mw7.26 
  []
@@ -3093,18 +3134,18 @@ er one year, while still re-quir-ing about
  []
 
 
-Overfull \hbox (11.12419pt too wide) in paragraph at lines 325--326
+Overfull \hbox (1.65462pt too wide) in paragraph at lines 325--326
 \OT1/ptm/m/n/10 the same amount of af-ter-slip over the first year. We do be-li
-eve that the early shal-low af-ter-slip 
+eve that the early, shal-low af-ter- 
  []
 
 
-Overfull \hbox (1.90483pt too wide) in paragraph at lines 325--326
-\OT1/ptm/m/n/10 on the Sierra Cu-ca-pah seg-ment is a ro-bust fea-ture in our p
-re-ferred model, while we are not 
+Overfull \hbox (3.57462pt too wide) in paragraph at lines 325--326
+\OT1/ptm/m/n/10 slip on the Sierra Cu-ca-pah seg-ment is a ro-bust fea-ture in 
+our pre-ferred model, while we are 
  []
 
-[17] [18 <./Figures/RatioMisfit.pdf> <./Figures/RecordSectionFinal.pdf
+[18] [19 <./Figures/RatioMisfit.pdf> <./Figures/RecordSectionFinal.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/RecordSectionFinal.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
@@ -3116,7 +3157,7 @@ d model are shown in Fig-ures
 
 
 Overfull \hbox (7.20148pt too wide) in paragraph at lines 327--328
-\OT1/ptm/m/n/10 3[], 4[] and 13[]. Over-all, the trends in the near-field and f
+\OT1/ptm/m/n/10 4[], 5[] and 14[]. Over-all, the trends in the near-field and f
 ar-field tran-sient de-for-ma-tion are ac-cu- 
  []
 
@@ -3134,7 +3175,7 @@ Overfull \hbox (23.64413pt too wide) in paragraph at lines 327--328
 
 
 Overfull \hbox (11.46776pt too wide) in paragraph at lines 327--328
-\OT1/ptm/m/n/10 tic man-tle (Fig-ure 13[]). There are a few ar-eas where we hav
+\OT1/ptm/m/n/10 tic man-tle (Fig-ure 14[]). There are a few ar-eas where we hav
 e no-table mis-fit. Most of our mis- 
  []
 
@@ -3192,7 +3233,7 @@ Overfull \hbox (0.51207pt too wide) in paragraph at lines 327--328
  through-out South-ern Cal-i-for- 
  []
 
-<Figures/FinalSlip.pdf, id=28564, 540.60233pt x 243.81044pt>
+<Figures/FinalSlip.pdf, id=29082, 540.60233pt x 243.81044pt>
 File: Figures/FinalSlip.pdf Graphic file (type pdf)
 
 <use Figures/FinalSlip.pdf>
@@ -3205,7 +3246,7 @@ Overfull \hbox (34.99745pt too wide) in paragraph at lines 330--332
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 332--332
-[]\OT1/ptm/b/n/9 Figure  14. \OT1/ptm/m/n/9 In-ferred co-seis-mic slip and af-t
+[]\OT1/ptm/b/n/9 Figure  15. \OT1/ptm/m/n/9 In-ferred co-seis-mic slip and af-t
 er-slip when as-sum-ing a Maxwell rhe-ol-ogy in the lower crust and
  []
 
@@ -3300,7 +3341,7 @@ s hor-i-zon-tal de-for-ma-tion re-sult-ing from
 
 Overfull \hbox (6.2369pt too wide) in paragraph at lines 338--339
 \OT1/ptm/m/n/10 vis-coelas-tic re-lax-ation of sub-se-quent stresses in the low
-er crust (Fig-ure 8[]). As a re-sult, there 
+er crust (Fig-ure 9[]). As a re-sult, there 
  []
 
 
@@ -3321,7 +3362,7 @@ Overfull \hbox (3.15341pt too wide) in paragraph at lines 338--339
  to re-sult in over-es-ti-mated af-ter-slip 
  []
 
-[19 <./Figures/FinalSlip.pdf>]
+[20 <./Figures/FinalSlip.pdf>]
 Overfull \hbox (3.56694pt too wide) in paragraph at lines 340--341
 []\OT1/ptm/m/n/10 Most post-seis-mic stud-ies as-sume Maxwell vis-coelas-tic-it
 y in the lower crust and up-per 
@@ -3712,83 +3753,82 @@ t with the steady-state vis-cosi-ties
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
+ [21]
 Overfull \hbox (7.78777pt too wide) in paragraph at lines 350--351
 []\OT1/ptm/m/n/10 We have ex-tracted a fil-tered and smoothed es-ti-mate of pos
 t-seis-mic de-for-ma-tion fol-low- 
  []
 
 
-Overfull \hbox (3.44095pt too wide) in paragraph at lines 350--351
+Overfull \hbox (17.03065pt too wide) in paragraph at lines 350--351
 \OT1/ptm/m/n/10 ing the El Mayor-Cucapah earth-quake from GPS dis-place-ment ti
-me se-ries. We treated post- 
+me se-ries. Our es-ti-mated post- 
  []
 
 
-Overfull \hbox (16.82375pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 seis-mic de-for-ma-tion as a stochas-tic pro-cess where we did 
-not pre-sume any char-ac-ter-is-tic shape 
+Overfull \hbox (4.82216pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 seis-mic de-for-ma-tion re-veals far-field (epi-cen-tral dis-ta
+nces be-yond $[]\OT1/cmr/m/n/10 200$ \OT1/ptm/m/n/10 km) tran-sient de-for- 
  []
 
 
-Overfull \hbox (2.18651pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 of the post-seis-mic time se-ries. Our es-ti-mated post-seis-mi
-c de-for-ma-tion re-veals far-field (epi- 
+Overfull \hbox (5.66753pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 ma-tion which is largely un-de-tectable af-ter about three year
+s. Near-field de-for-ma-tion ex-hibits 
  []
 
 
-Overfull \hbox (6.10555pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 cen-tral dis-tances be-yond $[]\OT1/cmr/m/n/10 200$ \OT1/ptm/m/
-n/10 km) tran-sient de-for-ma-tion which is largely un-de-tectable af-ter 
+Overfull \hbox (16.16429pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 tran-sience that de-cays to a sus-tained, el-e-vated rate af-te
+r about one or two years. We found that 
  []
 
 
-Overfull \hbox (3.34074pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 about three years. Near-field de-for-ma-tion ex-hibits tran-sie
-nce that de-cays to a sus-tained, el-e- 
+Overfull \hbox (12.78064pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 near-field tran-sient de-for-ma-tion can be ex-plained with sha
+l-low af-ter-slip, and the sus-tained rate 
  []
 
 
-Overfull \hbox (11.49138pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 vated rate af-ter about one or two years. We found that near-fi
-eld tran-sient de-for-ma-tion can be 
+Overfull \hbox (2.74086pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 of near-field de-for-ma-tion can ei-ther be ex-plained with con
+-tin-ued af-ter-slip or vis-coelas-tic re- 
  []
 
 
-Overfull \hbox (16.75104pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 be ex-plained with con-tin-ued af-ter-slip or re-lax-ation in a
- lower crustal with a vis-cos-ity of $[]\OT1/cmr/m/n/10 10[]$ 
+Overfull \hbox (3.5509pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 lax-ation in the lower crust. Far-field tran-sient de-for-ma-ti
+on can be more defini-tively as-cribed 
  []
 
 
-Overfull \hbox (0.87074pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 Pa s. Far-field tran-sient de-for-ma-tion can be more defini-ti
-vely as-cribed to vis-coelas-tic re-lax- 
+Overfull \hbox (5.94508pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 to vis-coelas-tic re-lax-ation at depths greater than $[]\OT1/c
+mr/m/n/10 60$ \OT1/ptm/m/n/10 km. Be-neath that depth, a tran-sient vis- 
  []
 
 
-Overfull \hbox (7.06258pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 ation at depths greater than $[]\OT1/cmr/m/n/10 60$ \OT1/ptm/m/
-n/10 km. Be-neath that depth, a tran-sient vis-cos-ity of $[]\OT1/cmr/m/n/10 10
-[]$ \OT1/ptm/m/n/10 Pa s 
+Overfull \hbox (2.2516pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 cos-ity of $[]\OT1/cmr/m/n/10 10[]$ \OT1/ptm/m/n/10 Pa s is re-
+quired to de-scribe the rate of far-field de-for-ma-tion through-out the 
  []
 
 
-Overfull \hbox (2.39468pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 is re-quired to de-scribe the rate of far-field de-for-ma-tion 
-through-out the five years con-sid-ered 
+Overfull \hbox (6.41077pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 five years con-sid-ered in this study. By de-scrib-ing the avai
+l-able post-seis-mic de-for-ma-tion with 
  []
 
 
-Overfull \hbox (1.82063pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 in this study. By de-scrib-ing the avail-able post-seis-mic de-
-for-ma-tion with a tran-sient rhe-ol-ogy 
+Overfull \hbox (0.61784pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 a tran-sient rhe-ol-ogy in the man-tle, our pre-ferred model do
+es not con-flict with the gen-er-ally 
  []
 
 
-Overfull \hbox (13.94742pt too wide) in paragraph at lines 350--351
-\OT1/ptm/m/n/10 in the man-tle, our pre-ferred model does not con-flict with th
-e gen-er-ally higher steady-state vis- 
+Overfull \hbox (10.52405pt too wide) in paragraph at lines 350--351
+\OT1/ptm/m/n/10 higher steady-state vis-cosi-ties in-ferred from geo-phys-i-cal
+ pro-cesses oc-cur-ring over longer time 
  []
 
 
@@ -3827,10 +3867,7 @@ Overfull \hbox (13.985pt too wide) in paragraph at lines 353--354
 nce Foun-da-tion un-der Grant Num- 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 384--387
 []\OT1/ptm/m/n/10 Aagaard, B. T., M. G. Kne-p-ley, and C. A. Williams (2013). A
  do-main de-com-po-si-tion 
@@ -4058,9 +4095,6 @@ ong crust, \OT1/ptm/m/it/10 Geo-phys-i-cal
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
 Underfull \hbox (badness 10000) in paragraph at lines 491--496
 []\OT1/ptm/m/n/10 Gonzalez-Ortega, A., Y. Fi-alko, D. Sandwell, F. A. Nava-pich
 ardo, J. Fletcher, 
@@ -4086,6 +4120,9 @@ hys-i-cal Re-search\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 119\OT1/ptm/m/n/10 , 1482
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
 Underfull \hbox (badness 10000) in paragraph at lines 499--504
 []\OT1/ptm/m/n/10 Hauksson, E., J. Stock, K. Hut-ton, W. Yang, J. A. Vidal-Vill
 egas, and H. Kanamori 
@@ -4289,9 +4326,6 @@ va-tions, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
 Underfull \hbox (badness 10000) in paragraph at lines 599--603
 []\OT1/ptm/m/n/10 McGuire, J. J., and P. Segall (2003), Imag-ing of aseis-mic f
 ault slip tran-sients recorded 
@@ -4305,6 +4339,9 @@ our-nal In-ter-na-tional\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 155\OT1/ptm/m/n/10 (
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
 Underfull \hbox (badness 10000) in paragraph at lines 605--609
 []\OT1/ptm/m/n/10 Meade, B. J., and B. H. Hager (2005), Block mod-els of crusta
 l mo-tion in south-ern Cal- 
@@ -4502,9 +4539,6 @@ earch: Solid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 120\OT1/ptm/m/n/10 , 3664-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
 Underfull \hbox (badness 10000) in paragraph at lines 708--712
 []\OT1/ptm/m/n/10 Wei, M., D. Sandwell, Y. Fi-alko, and R. Bil-ham (2011a), Sli
 p on faults in the Im-pe-rial 
@@ -4516,6 +4550,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 708--712
 earth-quake re-vealed by 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no ‰ in font ptmr7t!
 Missing character: There is no ¥ in font ptmr7t!
@@ -4577,44 +4615,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 735--738
 5- 
  []
 
-[25] (./ElMayor.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[26] (./ElMayor.aux) ) 
 Here is how much of TeX's memory you used:
- 4189 strings out of 494985
- 56007 string characters out of 6180356
- 124858 words of memory out of 5000000
- 7294 multiletter control sequences out of 15000+600000
+ 4194 strings out of 494985
+ 56128 string characters out of 6180357
+ 124870 words of memory out of 5000000
+ 7298 multiletter control sequences out of 15000+600000
  30567 words of font info for 72 fonts, out of 8000000 for 9000
  42 hyphenation exceptions out of 8191
  38i,15n,35p,2724b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/couri
-er/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ElMayor.pdf (25 pages, 8912370 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.en
+c}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ElMayor.pdf (26 pages, 9065035 bytes).
 PDF statistics:
- 28681 PDF objects out of 31911 (max. 8388607)
- 18995 compressed objects within 190 object streams
+ 29198 PDF objects out of 31911 (max. 8388607)
+ 19337 compressed objects within 194 object streams
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
