@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  2 JUL 2016 00:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  2 JUL 2016 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1519,13 +1519,19 @@ tive post-seis-mic dis-place-ments over the in-di-cated time pe-ri-ods
 
 Underfull \hbox (badness 10000) in paragraph at lines 150--150
 \OT1/ptm/m/n/9 (black) and pre-dicted dis-place-ments for our pre-ferred model 
-from Sec-tion 3.3[] (green). Ob-served ver-ti-cal
+from Sec-tion 3.3[] (green). The black er-ror el-lipses
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 150--150
-\OT1/ptm/m/n/9 dis-place-ments are shown as an in-ter-po-lated field and pre-di
-cted ver-ti-cal dis-place-ments are shown within the
+\OT1/ptm/m/n/9 show the 68% con-fi-dence in-ter-val for the ob-served hor-i-zon
+-tal dis-place-ments. Ob-served ver-ti-cal dis-place-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/ptm/m/n/9 are shown as an in-ter-po-lated field and pre-dicted ver-ti-cal 
+dis-place-ments are shown within the green cir-cles.
  []
 
 <Figures/MapViewFarField.pdf, id=8409, 538.79173pt x 456.0083pt>
@@ -4732,7 +4738,7 @@ ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016JB013114.pdf (25 pages, 7738732 bytes).
+Output written on 2016JB013114.pdf (25 pages, 7738781 bytes).
 PDF statistics:
  30068 PDF objects out of 31911 (max. 8388607)
  19914 compressed objects within 200 object streams
