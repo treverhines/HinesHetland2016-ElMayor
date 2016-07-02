@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  1 JUL 2016 18:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  2 JUL 2016 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,12 +332,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 288--292
 (./2016JB013114_SI.aux) ) 
 Here is how much of TeX's memory you used:
  2361 strings out of 494985
- 31521 string characters out of 6180357
+ 31521 string characters out of 6180356
  101218 words of memory out of 5000000
  5584 multiletter control sequences out of 15000+600000
  12970 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,6n,23p,820b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,23p,827b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
@@ -347,7 +347,7 @@ are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on 2016JB013114_SI.pdf (3 pages, 703385 bytes).
+Output written on 2016JB013114_SI.pdf (3 pages, 703276 bytes).
 PDF statistics:
  319 PDF objects out of 1000 (max. 8388607)
  213 compressed objects within 3 object streams
