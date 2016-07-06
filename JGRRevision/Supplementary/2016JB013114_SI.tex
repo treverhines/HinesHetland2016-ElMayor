@@ -171,103 +171,6 @@ Ann Arbor, MI 48109-1005. (hinest@umich.edu)}
 \end{enumerate}
 \noindent\textbf{Introduction}
 
-This document contains additional information about the inversion in Section 3.2 of the main text. 
-
-
-%%% End of body of article:
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Optional Notation section goes here
-%
-% Notation -- End each entry with a period.
-% \begin{notation}
-% Term & definition.\\
-% Second term & second definition.\\
-% \end{notation}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%% ------------------------------------------------------------------------ %%
-%%  REFERENCE LIST AND TEXT CITATIONS
-%
-% Either type in your references using
-% \begin{thebibliography}{}
-% \bibitem{}
-% Text
-% \end{thebibliography}
-%
-% Or,
-%
-% If you use BiBTeX for your references, please use the agufull08.bst file (available at % ftp://ftp.agu.org/journals/latex/journals/Manuscript-Preparation/) to produce your .bbl
-% file and copy the contents into your paper here.
-%
-% Follow these steps:
-% 1. Run LaTeX on your LaTeX file.
-%
-% 2. Make sure the bibliography style appears as \bibliographystyle{agufull08}. Run BiBTeX on your LaTeX
-% file.
-%
-% 3. Open the new .bbl file containing the reference list and
-%   copy all the contents into your LaTeX file here.
-%
-% 4. Comment out the old \bibliographystyle and \bibliography commands.
-%
-% 5. Run LaTeX on your new file before submitting.
-%
-% AGU does not want a .bib or a .bbl file. Please copy in the contents of your .bbl file here.
-
-%\begin{thebibliography}{}
-
-%\providecommand{\natexlab}[1]{#1}
-%\expandafter\ifx\csname urlstyle\endcsname\relax
-%  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
-%  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
-%  \urlstyle{rm}\Url}\fi
-%
-%\bibitem[{\textit{Atkinson and Sloan}(1991)}]{AtkinsonSloan}
-%Atkinson, K., and I.~Sloan (1991), The numerical solution of first-kind
-%  logarithmic-kernel integral equations on smooth open arcs, \textit{Math.
-%  Comp.}, \textit{56}(193), 119--139.
-%
-%\bibitem[{\textit{Colton and Kress}(1983)}]{ColtonKress1}
-%Colton, D., and R.~Kress (1983), \textit{Integral Equation Methods in
-%  Scattering Theory}, John Wiley, New York.
-%
-%\bibitem[{\textit{Hsiao et~al.}(1991)\textit{Hsiao, Stephan, and
-%  Wendland}}]{StephanHsiao}
-%Hsiao, G.~C., E.~P. Stephan, and W.~L. Wendland (1991), On the {D}irichlet
-%  problem in elasticity for a domain exterior to an arc, \textit{J. Comput.
-%  Appl. Math.}, \textit{34}(1), 1--19.
-%
-%\bibitem[{\textit{Lu and Ando}(2012)}]{LuAndo}
-%Lu, P., and M.~Ando (2012), Difference of scattering geometrical optics
-%  components and line integrals of currents in modified edge representation,
-%  \textit{Radio Sci.}, \textit{47},  RS3007, \doi{10.1029/2011RS004899}.
-
-%\end{thebibliography}
-
-%Reference citation examples:
-
-%...as shown by \textit{Kilby} [2008].
-%...as shown by {\textit  {Lewin}} [1976], {\textit  {Carson}} [1986], {\textit  {Bartholdy and Billi}} [2002], and {\textit  {Rinaldi}} [2003].
-%...has been shown [\textit{Kilby et al.}, 2008].
-%...has been shown [{\textit  {Lewin}}, 1976; {\textit  {Carson}}, 1986; {\textit  {Bartholdy and Billi}}, 2002; {\textit  {Rinaldi}}, 2003].
-%...has been shown [e.g., {\textit  {Lewin}}, 1976; {\textit  {Carson}}, 1986; {\textit  {Bartholdy and Billi}}, 2002; {\textit  {Rinaldi}}, 2003].
-
-%...as shown by \citet{jskilby}.
-%...as shown by \citet{lewin76}, \citet{carson86}, \citet{bartoldy02}, and \citet{rinaldi03}.
-%...has been shown \citep{jskilbye}.
-%...has been shown \citep{lewin76,carson86,bartoldy02,rinaldi03}.
-%...has been shown \citep [e.g.,][]{lewin76,carson86,bartoldy02,rinaldi03}.
-%
-% Please use ONLY \citet and \citep for reference citations.
-% DO NOT use other cite commands (e.g., \cite, \citeyear, \nocite, \citealp, etc.).
-
-%% ------------------------------------------------------------------------ %%
-%
-%  END ARTICLE
-%
-%% ------------------------------------------------------------------------ %%
 \end{article}
 \clearpage
 
@@ -276,7 +179,7 @@ This document contains additional information about the inversion in Section 3.2
 % enter figures and tables here:
 \begin{figure}
 \setfigurenum{S1} %%Change number for each figure
-\noindent\includegraphics[scale=1.0]{Figures/Lcurves}
+\noindent\includegraphics[scale=1.0]{Figures/2016jb013114-fS01}
 \caption{
 Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lambda_\eta$ in eq. (15) of the main text.  The left panel shows the trade-off curve for the fault slip penalty parameter, $\lambda_s$.  We pick $\lambda_s$ while keeping the penalty parameter for fluidity, $\lambda_\eta$, fixed at zero.  The right panel shows the trade of curve for selecting $\lambda_\eta$, where we fix $\lambda_s$ at the chosen value from the left panel. Chosen values are indicated with the larger marker.  When picking $\lambda_s$, we try to find a good balance between the mean chi squared value, $\bar{\chi}^2$, and the size of the slip parameters, $||s||$.  Our choice of $\lambda_\eta$ is a balance between $\bar{\chi}^2$ and the size of the Laplacian of fluidity, $||\nabla \eta_\mathrm{eff}^{-1}||$. 
 }
@@ -285,10 +188,9 @@ Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lamb
 
 \begin{figure}
 \setfigurenum{S2} %%Change number for each figure
-\noindent\includegraphics[scale=1.0]{Figures/CheckerBoard}
+\noindent\includegraphics[scale=1.0]{Figures/2016jb013114-pS02}
 \caption{
-Checkerboard test used to asses the resolving power of the inversion in Section 3.2 of the main text.  We create synthetic data by evaluating eq. (14) with the above coseismic slip distribution and fluidity distributions. Our fluidity model has a jump from 0.0 to $10^{-18}$ Pa$^{-1}$ s$^{-1}$ at 60 km depth, which corresponds to a viscosity jump from infinity to $10^{18}$ Pa s.  
-Our synthetic model does not include afterslip although we estimate afterslip along with coseismic slip and fluidity in this test.  We estimate these values in the same way as described in the main text and we also use the same penalty parameters.  We do not add any noise to our synthetic data meaning that the recovered model just indicates how much the regularization is influencing the solution.  Note that our ability to recover slip decreases towards the south where there is less data available.  Also note that the smoothing constraint on fluidity largely obscures the jump in the synthetic model.
+Checkerboard test used to asses the resolving power of the inversion in Section 3.2 of the main text.  We create synthetic data at all of the GPS stations considered in this study by evaluating eq. (14) with the synthetic coseismic slip distribution and fluidity distributions. Our synthetic fluidity model has a jump from 0.0 to $10^{-18}$ Pa$^{-1}$ s$^{-1}$ at 60 km depth.  Our synthetic slip model does not include afterslip, although we estimate afterslip along with coseismic slip and fluidity in this test.  We estimate these values in the same way as described in the main text and we also use the same penalty parameters.  We do not add any noise to our synthetic data so that the recovered model just indicates how much the regularization influences the solution.  Note that our ability to recover slip decreases towards the southern end of the fault, farthest from the available data.  Also note that the smoothing constraint on fluidity largely obscures the jump in the synthetic model.
 }
 \label{fig:S2}
 \end{figure}
