@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  6 JUL 2016 21:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  6 JUL 2016 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3268,27 +3268,27 @@ ch has been ex-plored by \OT1/ptm/m/it/10 Pol-litz et al. \OT1/ptm/m/n/10 [2012
  []
 
 
-Overfull \hbox (6.12079pt too wide) in paragraph at lines 321--322
+Overfull \hbox (3.88408pt too wide) in paragraph at lines 321--322
 \OT1/ptm/m/n/10 and \OT1/ptm/m/it/10 Rollins et al. \OT1/ptm/m/n/10 [2015]. We 
-do no-tice re-gion-ally uni-form sea-sonal os-cil-la-tions in the lat-eral 
+do no-tice re-gional scale sea-sonal os-cil-la-tions in the lat-eral and 
  []
 
 
-Overfull \hbox (10.53044pt too wide) in paragraph at lines 321--322
-\OT1/ptm/m/n/10 and ver-ti-cal com-po-nents of the resid-u-als with an am-pli-t
-ude of 1-2 mil-lime-ters. This is the re- 
+Overfull \hbox (3.87689pt too wide) in paragraph at lines 321--322
+\OT1/ptm/m/n/10 ver-ti-cal com-po-nents of the resid-u-als with an am-pli-tude 
+of 1-2 mil-lime-ters. This is the re-sult 
  []
 
 
-Overfull \hbox (2.27126pt too wide) in paragraph at lines 321--322
-\OT1/ptm/m/n/10 sult of our method for data pro-cess-ing which is not able to c
-om-pletely re-move the sea-sonal 
+Overfull \hbox (2.82132pt too wide) in paragraph at lines 321--322
+\OT1/ptm/m/n/10 of our method for data pro-cess-ing which is not able to com-pl
+etely re-move the sea-sonal sig- 
  []
 
 
-Overfull \hbox (18.84041pt too wide) in paragraph at lines 321--322
-\OT1/ptm/m/n/10 sig-nal in the GPS data, which was dis-cussed in Sec-tion 2[]. 
-Ad-di-tion-ally, we see sys-tem-atic mis- 
+Overfull \hbox (7.17062pt too wide) in paragraph at lines 321--322
+\OT1/ptm/m/n/10 nal in the GPS data, which was dis-cussed in Sec-tion 2[]. Ad-d
+i-tion-ally, we see sys-tem-atic mis- 
  []
 
 
@@ -3932,39 +3932,39 @@ he data used in this study. We
  []
 
 
-Overfull \hbox (13.06464pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 also thank F. Pol-litz and an anony-mous re-viewer for com-ment
-s that im-proved this manuscript, 
+Overfull \hbox (4.69142pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 thank Fred Pol-litz and an anony-mous re-viewer for com-ments t
+hat im-proved this manuscript. 
  []
 
 
-Overfull \hbox (11.07127pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 and Ed-i-tor Martha Sav-age. This ma-te-rial is based on Earth-
-Scope Plate Bound-ary Ob-ser-va-tory 
+Overfull \hbox (8.73787pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 We also thank the ed-i-tor, Martha Sav-age. This ma-te-rial is 
+based on Earth-Scope Plate Bound- 
  []
 
 
-Overfull \hbox (0.72534pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 data ser-vices pro-vided by UN-AVCO through the GAGE Fa-cil-ity
- with sup-port from the Na- 
+Overfull \hbox (12.69196pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 ary Ob-ser-va-tory data ser-vices pro-vided by UN-AVCO through 
+the GAGE Fa-cil-ity with sup-port 
  []
 
 
-Overfull \hbox (13.7445pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 tional Sci-ence Foun-da-tion (NSF) and Na-tional Aero-nau-tics 
-and Space Ad-min-is-tra-tion (NASA) 
+Overfull \hbox (4.088pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 from the Na-tional Sci-ence Foun-da-tion (NSF) and Na-tional Ae
+ro-nau-tics and Space Ad-min-is- 
  []
 
 
-Overfull \hbox (25.0389pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 un-der NSF Co-op-er-a-tive Agree-ment No. EAR-1261833. The data
- used in this study can be found 
+Overfull \hbox (9.69202pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 tra-tion (NASA) un-der NSF Co-op-er-a-tive Agree-ment No. EAR-1
+261833. The data used in this 
  []
 
 
-Overfull \hbox (19.3853pt too wide) in paragraph at lines 347--348
-\OT1/ptm/m/n/10 at www.unavco.org. This ma-te-rial is based upon work sup-porte
-d by the Na-tional Sci-ence Foun- 
+Overfull \hbox (1.75908pt too wide) in paragraph at lines 347--348
+\OT1/ptm/m/n/10 study can be found at www.unavco.org. This ma-te-rial is based 
+upon work sup-ported by the 
  []
 
 
@@ -4760,7 +4760,7 @@ ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016JB013114.pdf (26 pages, 7739524 bytes).
+Output written on 2016JB013114.pdf (26 pages, 7739526 bytes).
 PDF statistics:
  30071 PDF objects out of 31911 (max. 8388607)
  19916 compressed objects within 200 object streams
