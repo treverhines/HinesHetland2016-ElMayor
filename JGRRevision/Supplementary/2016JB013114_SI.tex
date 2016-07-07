@@ -1,110 +1,11 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% AGUtmpl.tex: this template file is for articles formatted with LaTeX2e,
-% Modified November 2013
-%
-% This template includes commands and instructions
-% given in the order necessary to produce a final output that will
-% satisfy AGU requirements.
-%
-% PLEASE DO NOT USE YOUR OWN MACROS
-% DO NOT USE \newcommand, \renewcommand, or \def.
-%
-% FOR FIGURES, DO NOT USE \psfrag
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% All questions should be e-mailed to latex@agu.org.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Step 1: Set the \documentclass
-%
-% There are two options for article format: two column (default)
-% and draft.
-%
-% PLEASE USE THE DRAFT OPTION TO SUBMIT YOUR PAPERS.
-% The draft option produces double spaced output.
-%
-% Choose the journal abbreviation for the journal you are
-% submitting to:
-
-% jgrga JOURNAL OF GEOPHYSICAL RESEARCH
-% gbc   GLOBAL BIOCHEMICAL CYCLES
-% grl   GEOPHYSICAL RESEARCH LETTERS
-% pal   PALEOCEANOGRAPHY
-% ras   RADIO SCIENCE
-% rog   REVIEWS OF GEOPHYSICS
-% tec   TECTONICS
-% wrr   WATER RESOURCES RESEARCH
-% gc    GEOCHEMISTRY, GEOPHYSICS, GEOSYSTEMS
-% sw    SPACE WEATHER
-% ms    JAMES
-% ef    EARTH'S FUTURE
-%
-%
-%
-% (If you are submitting to a journal other than jgrga,
-% substitute the initials of the journal for "jgrga" below.)
-
 \documentclass[draft,jgrga]{agutex}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%  SUPPORTING INFORMATION TEMPLATE
-%
-%% ------------------------------------------------------------------------ %%
-%
-%
-%Please use this template when formatting and submitting your Supporting Information.
-
-%This template serves as both a “table of contents” for the supporting information for your article and as a summary of files.
-%
-%
-%OVERVIEW
-%
-%Please note that all supporting information will be peer reviewed with your manuscript.
-%In general, the purpose of the supporting information is to enable authors to provide and archive auxiliary information such as data %tables, method information, figures, video, or computer software, in digital formats so that other scientists can use it.
-%The key criteria are that the data:
-% 1. supplement the main scientific conclusions of the paper but are not essential to the conclusions (with the exception of
-%    including %data so the experiment can be reproducible);
-% 2. are likely to be usable or used by other scientists working in the field;
-% 3. are described with sufficient precision that other scientists can understand them, and
-% 4. are not exe files.
-%
-%USING THIS TEMPLATE
-%
-%***All references should be included in the reference list of the main paper so that they can be indexed, linked, and counted as citations.  The reference section does not count toward length limits.
-%
-%All Supporting text and figures should be included in this document. Insert supporting information content into each appropriate section of the template. %Figures and tables should appear above each caption.  To add additional captions, simply copy and paste each sample caption as needed.
-
-%Tables may be included, but can also be uploaded separately, especially if they are larger than 1 page, or if necessary for retaining table formatting. Data sets, large tables, movie files, and audio files should be uploaded separately, following AGU naming conventions. Include their captions in this document and list the file name with the caption. You will be prompted to upload these files on the Upload Files tab during the submission process, using file type “Supporting Information (SI)”
-
-%IMPORTANT NOTE ON FIGURES AND TABLES
-% Placeholders for figures and tables appear after the \end{article} command, after references.
-% DO NOT USE \psfrag or \subfigure commands.
-%
 %  Uncomment the following command to include .eps files
 \usepackage{graphicx}
 %
 %  Uncomment the following command to allow illustrations to print
 %   when using Draft:
 \setkeys{Gin}{draft=false}
-%
-% Substitute one of the following for [dvips] above
-% if you are using a different driver program and want to
-% proof your illustrations on your machine:
-%
-% [xdvi], [dvipdf], [dvipsone], [dviwindo], [emtex], [dviwin],
-% [pctexps],  [pctexwin],  [pctexhp],  [pctex32], [truetex], [tcidvi],
-% [oztex], [textures]
-%
-%
-%% ------------------------------------------------------------------------ %%
-%
-%  ENTER PREAMBLE
-%
-%% ------------------------------------------------------------------------ %%
 
 % Author names in capital letters:
 \authorrunninghead{HINES AND HETLAND}
@@ -120,57 +21,24 @@ Ann Arbor, MI 48109-1005. (hinest@umich.edu)}
 
 \begin{document}
 
-%% ------------------------------------------------------------------------ %%
-%
-%  TITLE
-%
-%% ------------------------------------------------------------------------ %%
-
-%\includegraphics{agu_pubart-white_reduced.eps}
-
 \title{Supporting Information for ``Rheologic constraints on the upper mantle from five years of postseismic deformation following the El Mayor-Cucapah earthquake"}
 
-%DOI: 10.1002/%insert paper number here%
-
-%% ------------------------------------------------------------------------ %%
-%
-%  AUTHORS AND AFFILIATIONS
-%
-%% ------------------------------------------------------------------------ %%
-
-
-%Use \author{\altaffilmark{}} and \altaffiltext{}
 \authors{Trever T. Hines,\altaffilmark{1}
          Eric A. Hetland,\altaffilmark{1}}
 
 \altaffiltext{1}{Department of Earth and Environmental Sciences, University of Michigan, Ann Arbor, Michigan, USA.}
 
-%% ------------------------------------------------------------------------ %%
-%
-%  BEGIN ARTICLE
-%
-%% ------------------------------------------------------------------------ %%
-
-% The body of the article must start with a \begin{article} command
-%
-% \end{article} must follow the references section, before the figures
-%  and tables.
-
 \begin{article}
-
-%% ------------------------------------------------------------------------ %%
-%
-%  TEXT
-%
-%% ------------------------------------------------------------------------ %%
 
 \noindent\textbf{Contents of this file}
 %%%Remove or add items as needed%%%
 \begin{enumerate}
-\item Figures S1 and S2
+\item Figures S1 to S4
 \end{enumerate}
 \noindent\textbf{Introduction}
 
+Figures S1 and S2 provide additional information about the inversion in Section 3.2 of the main text. Figures S3 and S4 show the predicted displacements, which have been decomposed into elastic and viscoelastic components, for the preferred model from Section 3.3.  
+  
 \end{article}
 \clearpage
 
@@ -190,7 +58,7 @@ Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lamb
 \setfigurenum{S2} %%Change number for each figure
 \noindent\includegraphics[scale=1.0]{Figures/2016jb013114-pS02}
 \caption{
-Checkerboard test used to asses the resolving power of the inversion in Section 3.2 of the main text.  We create synthetic data at all of the GPS stations considered in this study by evaluating eq. (14) with the synthetic coseismic slip distribution and fluidity distributions. Our synthetic fluidity model has a jump from 0.0 to $10^{-18}$ Pa$^{-1}$ s$^{-1}$ at 60 km depth.  Our synthetic slip model does not include afterslip, although we estimate afterslip along with coseismic slip and fluidity in this test.  We estimate these values in the same way as described in the main text and we also use the same penalty parameters.  We do not add any noise to our synthetic data so that the recovered model just indicates how much the regularization influences the solution.  Note that our ability to recover slip decreases towards the southern end of the fault, farthest from the available data.  Also note that the smoothing constraint on fluidity largely obscures the jump in the synthetic model.
+Checkerboard test used to assess the resolving power of the inversion in Section 3.2 of the main text.  We create synthetic data at all of the GPS stations considered in this study by evaluating eq. (14) with the synthetic coseismic slip distribution and fluidity distributions. Our synthetic fluidity model has a jump from 0.0 to $10^{-18}$ Pa$^{-1}$ s$^{-1}$ at 60 km depth.  Our synthetic slip model does not include afterslip, although we estimate afterslip along with coseismic slip and fluidity in this test.  We estimate these values in the same way as described in the main text and we also use the same penalty parameters.  We do not add any noise to our synthetic data so that the recovered model just indicates how much the regularization influences the solution.  Note that our ability to recover slip decreases towards the southern end of the fault, farthest from the available data.  Also note that the smoothing constraint on fluidity largely obscures the jump in the synthetic model.
 }
 \label{fig:S2}
 \end{figure}

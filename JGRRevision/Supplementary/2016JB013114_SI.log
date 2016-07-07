@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  6 JUL 2016 19:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  6 JUL 2016 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,18 +212,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (./2016JB013114_SI.aux)
 \openout1 = `2016JB013114_SI.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -287,11 +287,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 159.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 159.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 159.
+(Font)              <6> on input line 31.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -300,15 +300,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: Figures/2016jb013114-fS01.pdf Graphic file (type pdf)
 
 <use Figures/2016jb013114-fS01.pdf>
-Package pdftex.def Info: Figures/2016jb013114-fS01.pdf used on input line 182.
+Package pdftex.def Info: Figures/2016jb013114-fS01.pdf used on input line 50.
 (pdftex.def)             Requested size: 499.32416pt x 229.73923pt.
 
-Overfull \hbox (7.32416pt too wide) in paragraph at lines 182--185
+Overfull \hbox (7.32416pt too wide) in paragraph at lines 50--53
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
 
  []
 
@@ -316,15 +316,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--185
 File: Figures/2016jb013114-pS02.pdf Graphic file (type pdf)
 
 <use Figures/2016jb013114-pS02.pdf>
-Package pdftex.def Info: Figures/2016jb013114-pS02.pdf used on input line 191.
+Package pdftex.def Info: Figures/2016jb013114-pS02.pdf used on input line 59.
 (pdftex.def)             Requested size: 500.08504pt x 257.75708pt.
 
-Overfull \hbox (8.08504pt too wide) in paragraph at lines 191--194
+Overfull \hbox (8.08504pt too wide) in paragraph at lines 59--62
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--194
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
@@ -332,26 +332,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--194
 File: Figures/2016jb013114-pS03.pdf Graphic file (type pdf)
 
 <use Figures/2016jb013114-pS03.pdf>
-Package pdftex.def Info: Figures/2016jb013114-pS03.pdf used on input line 200.
+Package pdftex.def Info: Figures/2016jb013114-pS03.pdf used on input line 68.
 (pdftex.def)             Requested size: 476.13329pt x 410.7212pt.
 
 <Figures/2016jb013114-pS04.pdf, id=14, 538.48596pt x 456.36118pt>
 File: Figures/2016jb013114-pS04.pdf Graphic file (type pdf)
 
 <use Figures/2016jb013114-pS04.pdf>
-Package pdftex.def Info: Figures/2016jb013114-pS04.pdf used on input line 209.
+Package pdftex.def Info: Figures/2016jb013114-pS04.pdf used on input line 77.
 (pdftex.def)             Requested size: 484.63287pt x 410.72127pt.
  [2 <./Figures/2016jb013114-fS01.pdf>]
 [3 <./Figures/2016jb013114-pS02.pdf>] [4 <./Figures/2016jb013114-pS03.pdf>]
 [5 <./Figures/2016jb013114-pS04.pdf>] (./2016JB013114_SI.aux) ) 
 Here is how much of TeX's memory you used:
  2373 strings out of 494985
- 31924 string characters out of 6180357
+ 31924 string characters out of 6180356
  101236 words of memory out of 5000000
  5594 multiletter control sequences out of 15000+600000
  12970 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,6n,23p,1020b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,23p,1021b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
@@ -362,7 +362,7 @@ s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
 fb>
-Output written on 2016JB013114_SI.pdf (5 pages, 1301606 bytes).
+Output written on 2016JB013114_SI.pdf (5 pages, 1302020 bytes).
 PDF statistics:
  3699 PDF objects out of 4296 (max. 8388607)
  2443 compressed objects within 25 object streams
