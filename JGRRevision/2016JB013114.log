@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  7 JUL 2016 14:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  7 JUL 2016 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -401,45 +401,45 @@ af-ter-slip on the fault that rup-tured
  []
 
 
-Overfull \hbox (2.57768pt too wide) in paragraph at lines 20--22
+Overfull \hbox (5.36395pt too wide) in paragraph at lines 20--22
 \OT1/ptm/m/n/10 co-seis-mi-cally. The later, sus-tained, near-field de-for-ma-t
-ion can be ex-plained with ei-ther con- 
+ion can be ex-plained with vis-coelas-tic 
  []
 
 
-Overfull \hbox (18.89305pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 tin-ued af-ter-slip in an ef-fec-tively elas-tic lower crust, o
-r lower crustal vis-coelas-tic re-lax-ation with 
+Overfull \hbox (7.88095pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 re-lax-ation in the lower crust with a steady-state vis-cos-ity
+ of $[]\OT1/cmr/m/n/10 10[]$ \OT1/ptm/m/n/10 Pa s and pos-si-bly con-tin- 
  []
 
 
-Overfull \hbox (18.70038pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 a steady-state vis-cos-ity of $[]\OT1/cmr/m/n/10 10[]$ \OT1/ptm
-/m/n/10 Pa s. The later post-seis-mic de-for-ma-tion in the far-field is best 
+Overfull \hbox (6.87706pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 ued af-ter-slip. The later post-seis-mic de-for-ma-tion in the 
+far-field is best ex-plained with a tran- 
  []
 
 
-Overfull \hbox (8.96814pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 ex-plained with a tran-sient vis-cos-ity of $[]\OT1/cmr/m/n/10 
-10[]$ \OT1/ptm/m/n/10 Pa s in the up-per man-tle. We ar-gue that a tran- 
+Overfull \hbox (3.57813pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 sient vis-cos-ity of $[]\OT1/cmr/m/n/10 10[]$ \OT1/ptm/m/n/10 P
+a s in the up-per man-tle. We ar-gue that a tran-sient rhe-ol-ogy in the 
  []
 
 
-Overfull \hbox (6.68755pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 sient rhe-ol-ogy in the man-tle is prefer-able over a Maxwell r
-he-ol-ogy be-cause it bet-ter pre-dicts 
+Overfull \hbox (10.56732pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 man-tle is prefer-able over a Maxwell rhe-ol-ogy be-cause it be
+t-ter pre-dicts the de-cay in post-seis- 
  []
 
 
-Overfull \hbox (10.62735pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 the de-cay in post-seis-mic de-for-ma-tion, and also be-cause i
-t does not con-flict with the gen-er-ally 
+Overfull \hbox (7.16412pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 mic de-for-ma-tion, and also be-cause it does not con-flict wit
+h the gen-er-ally higher, steady-state 
  []
 
 
-Overfull \hbox (5.40419pt too wide) in paragraph at lines 20--22
-\OT1/ptm/m/n/10 higher, steady-state vis-cosi-ties in-ferred from stud-ies of g
-eo-phys-i-cal pro-cesses oc-cur-ring over 
+Overfull \hbox (3.58737pt too wide) in paragraph at lines 20--22
+\OT1/ptm/m/n/10 vis-cosi-ties in-ferred from stud-ies of geo-phys-i-cal pro-ces
+ses oc-cur-ring over longer time scales.  
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
@@ -1964,14 +1964,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 lip and ar-rows in-di-cate the mo-tion of the hang-ing
  []
 
-<Figures/2016jb013114-p07.pdf, id=29417, 517.87184pt x 413.5391pt>
+<Figures/2016jb013114-p07.pdf, id=29417, 517.59235pt x 413.53906pt>
 File: Figures/2016jb013114-p07.pdf Graphic file (type pdf)
 
 <use Figures/2016jb013114-p07.pdf>
 Package pdftex.def Info: Figures/2016jb013114-p07.pdf used on input line 187.
-(pdftex.def)             Requested size: 466.08035pt x 372.18173pt.
+(pdftex.def)             Requested size: 465.8288pt x 372.1817pt.
 
-Overfull \hbox (68.59537pt too wide) in paragraph at lines 187--188
+Overfull \hbox (68.34381pt too wide) in paragraph at lines 187--188
 [][] 
  []
 
@@ -2014,13 +2014,13 @@ the pre-dicted dis-place-ments for the model with
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
 \OT1/ptm/m/n/9 a Maxwell vis-coelas-tic lower crust and up-per man-tle. The gre
-en line shows the pre-dicted dis-place-ments
+en line shows the pre-dicted dis-place-ments for
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\OT1/ptm/m/n/9 for the model with a Maxwell vis-coelas-tic lower crust and a Ze
-ner vis-coelas-tic up-per man-tle. The ef-fec-tive
+\OT1/ptm/m/n/9 our pre-ferred model, which has a Maxwell vis-coelas-tic lower c
+rust and a Zener vis-coelas-tic up-per man-tle. The
  []
 
 
@@ -3170,64 +3170,69 @@ af-ter-slip is in-ferred to be deeper down
  []
 
 
-Overfull \hbox (11.38419pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 on the Sierra Cu-ca-pah seg-ment, which is de-scrib-ing some of
- the sus-tained near-field post-seis- 
+Overfull \hbox (11.831pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 on the Sierra Cu-ca-pah seg-ment. The sus-tained near-field pos
+t-seis-mic de-for-ma-tion is be-ing ex- 
  []
 
 
-Overfull \hbox (18.47719pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 mic de-for-ma-tion. We em-pha-size, that the GPS sta-tion clos-
-est to where we in-fer af-ter-slip, P496, 
+Overfull \hbox (16.83012pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 plained by this con-tin-ued af-ter-slip as well as vis-coelas-t
+ic re-lax-ation in the lower crust. We em- 
  []
 
 
-Overfull \hbox (12.93787pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 is still about 30 km away, which is too far for us to con-clu-s
-ively ar-gue for sus-tained lo-cal-ized 
+Overfull \hbox (25.57726pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 pha-size, that the GPS sta-tion clos-est to where we in-fer af-
+ter-slip, P496, is still about 30 km away, 
  []
 
 
-Overfull \hbox (9.6275pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 de-for-ma-tion rather than shal-low dis-tributed de-for-ma-tion
-. The deep af-ter-slip in-ferred af-ter one 
+Overfull \hbox (0.94728pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 which is too far for us to con-clu-sively dis-cern deep af-ter-
+slip from vis-coelas-tic re-lax-ation in 
  []
 
 
-Overfull \hbox (16.78409pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 year could po-ten-tially be de-scrib-ing de-for-ma-tion re-sult
--ing from lower crustal flow. To test this, 
+Overfull \hbox (5.93433pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 the lower crust. The deep af-ter-slip in-ferred af-ter one year
+ could po-ten-tially be com-pen-sat-ing 
  []
 
 
-Overfull \hbox (5.28067pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 we have mod-i-fied our pre-ferred model by de-creas-ing the low
-er crustal vis-cos-ity from $\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :\OT1/cmr/m/n/10
- 91 \OMS/cmsy/m/n/10 ^^B 
+Overfull \hbox (19.13786pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 for an over-es-ti-mated lower crustal vis-cos-ity. To test this
+, we have mod-i-fied our pre-ferred model 
  []
 
 
-Overfull \hbox (1.63168pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 tion 3.2[], and we in-verted for fault slip. We find that a mod
-el with a weaker lower crust ad- 
+Overfull \hbox (1.65744pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 still con-sis-tent with our vis-cos-ity in-fer-ence from Sec-ti
+on 3.2[], and we in-verted for fault slip. 
  []
 
 
-Overfull \hbox (1.72707pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 e-quately de-scribes the post-seis-mic dis-place-ments with-out
- any af-ter-slip af-ter one year, while 
+Overfull \hbox (14.7272pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 We find that a model with a weaker lower crust ad-e-quately de-
+scribes the post-seis-mic dis-place- 
  []
 
 
-Overfull \hbox (1.39444pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 still re-quir-ing about the same amount of af-ter-slip over the
- first year. We do be-lieve that the 
+Overfull \hbox (8.40082pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 ments with-out any af-ter-slip af-ter one year, while still re-
+quir-ing about the same amount of af- 
  []
 
 
-Overfull \hbox (25.17094pt too wide) in paragraph at lines 294--295
-\OT1/ptm/m/n/10 early, shal-low af-ter-slip on the Sierra Cu-ca-pah seg-ment is
- a ro-bust fea-ture in our pre-ferred model, 
+Overfull \hbox (15.66438pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 ter-slip over the first year. We do be-lieve that the early af-
+ter-slip on the Sierra Cu-ca-pah seg-ment 
+ []
+
+
+Overfull \hbox (12.598pt too wide) in paragraph at lines 294--295
+\OT1/ptm/m/n/10 is a ro-bust fea-ture in our pre-ferred model, while we are not
+ con-fi-dent in our in-fer-ence of later 
  []
 
 [18]
@@ -3329,25 +3334,25 @@ Overfull \hbox (88.42657pt too wide) in paragraph at lines 299--301
 
 Underfull \hbox (badness 10000) in paragraph at lines 301--301
 []\OT1/ptm/b/n/9 Figure  14. \OT1/ptm/m/n/9 In-ferred co-seis-mic slip and af-t
-er-slip when as-sum-ing a Maxwell rhe-ol-ogy in the lower crust and
+er-slip for our pre-ferred model, which has a Maxwell rhe-ol-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\OT1/ptm/m/n/9 a Zener rhe-ol-ogy in the up-per man-tle. The tran-sient vis-cos
--ity, $\OML/cmm/m/it/9 ^^Q[]$\OT1/ptm/m/n/9 , in the man-tle and steady-state v
-is-cos-ity,
+\OT1/ptm/m/n/9 ogy in the lower crust and a Zener rhe-ol-ogy in the up-per man-
+tle. The tran-sient vis-cos-ity, $\OML/cmm/m/it/9 ^^Q[]$\OT1/ptm/m/n/9 , in the
+ man-tle
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 301--301
-\OML/cmm/m/it/9 ^^Q[]$\OT1/ptm/m/n/9 , in the crust are set equal to the ef-fec
--tive vis-cosi-ties from Fig-ure 12[]. We use $[] \OT1/cmr/m/n/9 = 0\OML/cmm/m/
-it/9 :\OT1/cmr/m/n/9 375$ \OT1/ptm/m/n/9 in the up-per
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\OT1/ptm/m/n/9 and steady-state vis-cos-ity, $\OML/cmm/m/it/9 ^^Q[]$\OT1/ptm/m/
+n/9 , in the crust are set equal to the ef-fec-tive vis-cosi-ties from Fig-ure 
+12[]. We use
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2653) has occurred while \output is active []
 
  [19 <./Figures/2016jb013114-f13.pdf>]
 Overfull \hbox (6.30106pt too wide) in paragraph at lines 306--307
@@ -3571,7 +3576,7 @@ e drain-ing of Lake Bon-neville, which
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1681) has occurred while \output is active []
 
  [20 <./Figures/2016jb013114-p14.pdf>]
 Overfull \hbox (0.31454pt too wide) in paragraph at lines 310--311
@@ -3890,39 +3895,46 @@ ar-field tran-sient de-for-ma-tion can
  []
 
 
-Overfull \hbox (0.5543pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 be ex-plained with shal-low af-ter-slip, and the sus-tained rat
-e of near-field de-for-ma-tion can ei- 
+Overfull \hbox (1.55458pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 be ex-plained with shal-low af-ter-slip. The sus-tained rate of
+ near-field de-for-ma-tion can be ex- 
  []
 
 
-Overfull \hbox (17.68388pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 ther be ex-plained with con-tin-ued af-ter-slip or vis-coelas-t
-ic re-lax-ation in the lower crust. Far-field 
+Overfull \hbox (1.74057pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 plained with vis-coelas-tic re-lax-ation in the lower crust and
+ pos-si-bly con-tin-ued af-ter-slip. Far- 
  []
 
 
-Overfull \hbox (27.70015pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 tran-sient de-for-ma-tion can be more defini-tively as-cribed t
-o vis-coelas-tic re-lax-ation at depths greater 
+Overfull \hbox (17.72029pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 field tran-sient de-for-ma-tion can be more defini-tively as-cr
+ibed to vis-coelas-tic re-lax-ation at depths 
  []
 
 
-Overfull \hbox (6.53806pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 scribe the rate of far-field de-for-ma-tion through-out the fiv
-e years con-sid-ered in this study. By 
+Overfull \hbox (3.16725pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 greater than $[]\OT1/cmr/m/n/10 60$ \OT1/ptm/m/n/10 km. Be-neat
+h that depth, a tran-sient vis-cos-ity of $[]\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10
+ ^^B \OT1/cmr/m/n/10 10[]$ \OT1/ptm/m/n/10 Pa s is re-quired 
  []
 
 
-Overfull \hbox (6.85052pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 de-scrib-ing the avail-able post-seis-mic de-for-ma-tion with a
- tran-sient rhe-ol-ogy in the man-tle, our 
+Overfull \hbox (11.48799pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 to de-scribe the rate of far-field de-for-ma-tion through-out t
+he five years con-sid-ered in this study. 
  []
 
 
-Overfull \hbox (21.99036pt too wide) in paragraph at lines 317--318
-\OT1/ptm/m/n/10 pre-ferred model does not con-flict with the gen-er-ally higher
- steady-state vis-cosi-ties in-ferred from 
+Overfull \hbox (5.19049pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 By de-scrib-ing the avail-able post-seis-mic de-for-ma-tion wit
+h a tran-sient rhe-ol-ogy in the man-tle, 
+ []
+
+
+Overfull \hbox (15.88051pt too wide) in paragraph at lines 317--318
+\OT1/ptm/m/n/10 our pre-ferred model does not con-flict with the gen-er-ally hi
+gher steady-state vis-cosi-ties in-ferred 
  []
 
 
@@ -4774,7 +4786,7 @@ ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016JB013114.pdf (26 pages, 7739106 bytes).
+Output written on 2016JB013114.pdf (26 pages, 7740699 bytes).
 PDF statistics:
  30071 PDF objects out of 31911 (max. 8388607)
  19916 compressed objects within 200 object streams
