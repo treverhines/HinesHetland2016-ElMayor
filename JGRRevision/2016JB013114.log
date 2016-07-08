@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  7 JUL 2016 18:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  7 JUL 2016 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3085,8 +3085,8 @@ Package pdftex.def Info: Figures/2016jb013114-f13.pdf used on input line 286.
 (pdftex.def)             Requested size: 221.14908pt x 220.57825pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 288--288
-[]\OT1/ptm/b/n/9 Figure  13. \OT1/ptm/m/n/9 Mean chi-squared value for the best
- fit-ting slip model as a func-tion of the tran-sient shear mod-u-
+[]\OT1/ptm/b/n/9 Figure  13. \OT1/ptm/m/n/9 Mean chi-squared value as a func-ti
+on of the tran-sient shear mod-u-lus rel-a-tive to the elas-tic shear
  []
 
 
@@ -3242,21 +3242,21 @@ d Zener model are shown in Fig-
  []
 
 
-Overfull \hbox (11.15802pt too wide) in paragraph at lines 296--297
+Overfull \hbox (7.268pt too wide) in paragraph at lines 296--297
 \OT1/ptm/m/n/10 ures 4[], 5[] and 7[]. The largest mis-fit oc-cur within the Im
--pe-rial Val-ley and there does not ap-pear 
+-pe-rial Val-ley where there does not ap- 
  []
 
 
-Overfull \hbox (3.6674pt too wide) in paragraph at lines 296--297
-\OT1/ptm/m/n/10 to be any sys-tem-atic trend in the resid-u-als. This sug-gests
- that the large er-rors are due to lo- 
+Overfull \hbox (9.7674pt too wide) in paragraph at lines 296--297
+\OT1/ptm/m/n/10 pear to be any sys-tem-atic trend in the resid-u-als. This sug-
+gests that the large er-rors are due to 
  []
 
 
-Overfull \hbox (10.42741pt too wide) in paragraph at lines 296--297
-\OT1/ptm/m/n/10 cal-ized pro-cesses such as fault slip in the Im-pe-rial Val-le
-y trig-gered by the El Mayor-Cucapah 
+Overfull \hbox (18.2073pt too wide) in paragraph at lines 296--297
+\OT1/ptm/m/n/10 lo-cal-ized pro-cesses such as fault slip in the Im-pe-rial Val
+-ley trig-gered by the El Mayor-Cucapah 
  []
 
 
@@ -3980,68 +3980,68 @@ upon work sup-ported by the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--354
+Underfull \hbox (badness 10000) in paragraph at lines 333--336
 []\OT1/ptm/m/n/10 Aagaard, B. T., M. G. Kne-p-ley, and C. A. Williams (2013). A
  do-main de-com-po-si-tion 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--354
+Underfull \hbox (badness 10000) in paragraph at lines 333--336
 \OT1/ptm/m/n/10 ap-proach to im-ple-ment-ing fault slip in finite-element mod-e
 ls of quasi-static and dy- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--354
+Underfull \hbox (badness 10000) in paragraph at lines 333--336
 \OT1/ptm/m/n/10 namic crustal de-for-ma-tion, \OT1/ptm/m/it/10 Jour-nal of Geo-
 phys-i-cal Re-search: Solid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 118\OT1/ptm
 /m/n/10 , doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 []\OT1/ptm/m/n/10 Argus, D. F., M. B. Heflin, G. Peltzer, F. Cramp[]e, and F. H
 . Webb (2005), In-ter-seis-mic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 \OT1/ptm/m/n/10 strain ac-cu-mu-la-tion and an-thro-pogenic mo-tion in metropol
 i-tan Los An-ge-les, \OT1/ptm/m/it/10 Jour-nal of 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 []\OT1/ptm/m/n/10 Aster, R. C., B. Borchers, and C. H. Thurber (2011), Pa-ram-e
 -ter Es-ti-ma-tion and In-verse 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 []\OT1/ptm/m/n/10 Bawden, G. W., W. Thatcher, R. S. Stein, K. W. Hud-nut, and G
 . Peltzer (2001), Tec-tonic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 \OT1/ptm/m/n/10 con-trac-tion across Los An-ge-les af-ter re-moval of ground-wa
 -ter pump-ing ef-fects., \OT1/ptm/m/it/10 Na-ture\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 []\OT1/ptm/m/n/10 Bills, B. G., and G. M. May (1987), Lake Bon-neville: Con-str
 aints on Litho-spheric Thick- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 \OT1/ptm/m/n/10 ness and Up-per Man-tle Vis-cos-ity From Iso-static Warp-ing of
  Bon-neville, Provo, and 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 \OT1/ptm/m/n/10 Gilbert Stage Shore-lines, \OT1/ptm/m/it/10 Jour-nal of Geo-phy
 s-i-cal Research-Solid Earth and Plan-ets\OT1/ptm/m/n/10 , 
  []
@@ -4050,242 +4050,242 @@ s-i-cal Research-Solid Earth and Plan-ets\OT1/ptm/m/n/10 ,
 Underfull \vbox (badness 1014) has occurred while \output is active []
 
  [22]
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 [][]\OT1/ptm/m/n/10 akir, Z., S. Ergin-tav, H. []Ozener, U. Do-gan, A. M. Akogl
 u, M. Meghraoui, and 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 \OT1/ptm/m/n/10 R. Reilinger (2012), On-set of aseis-mic creep on ma-jor strike
 -slip faults, \OT1/ptm/m/it/10 Ge-ol-ogy\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 []\OT1/ptm/m/n/10 Cavali[]e, O., M. P. Doin, C. Lasserre, and P. Briole (2007),
  Ground mo-tion mea-sure-ment in 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 \OT1/ptm/m/n/10 the Lake Mead area, Nevada, by dif-fer-en-tial syn-thetic aper-
 ture radar in-ter-fer-om-e-try time 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 \OT1/ptm/m/n/10 se-ries anal-y-sis: Prob-ing the litho-sphere rhe-o-log-i-cal s
 truc-ture, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 []\OT1/ptm/m/n/10 Cetin, E., Z. Cakir, M. Meghraoui, S. Ergin-tav, and A. M. Ak
 oglu (2014), Ex-tent and 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 \OT1/ptm/m/n/10 dis-tri-bu-tion of aseis-mic slip on the Is-met-pasa seg-ment o
 f the North Ana-to-lian Fault 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 \OT1/ptm/m/n/10 (Turkey) from Per-sis-tent Scat-terer In-SAR, \OT1/ptm/m/it/10 
 Geo-chem-istry, Geo-physics, Geosys-tems\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 15\O
 T1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 []\OT1/ptm/m/n/10 Chopra, P. N. (1997), High-temperature tran-sient creep in ol
 ivine rocks, \OT1/ptm/m/it/10 Tectono-physics\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 []\OT1/ptm/m/n/10 Crittenden, M. (1967), Vis-cos-ity and Fi-nite Strength of th
 e Man-tle as De-ter-mined from 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 \OT1/ptm/m/n/10 Wa-ter and Ice Loads, \OT1/ptm/m/it/10 Geo-phys-i-cal Jour-nal 
 of the Royal As-tro-nom-i-cal So-ci-ety\OT1/ptm/m/n/10 , 261--279, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 []\OT1/ptm/m/n/10 Davis, J. L., B. P. Wer-nicke, and M. E. Tamisiea (2012), On 
 sea-sonal sig-nals in geode-tic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 \OT1/ptm/m/n/10 time se-ries, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal Re-se
 arch: Solid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 117\OT1/ptm/m/n/10 (B01403)
 , 1--10, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 []\OT1/ptm/m/n/10 Feigl, K. L., and W. Thatcher (2006), Geode-tic ob-ser-va-tio
 ns of post-seismic tran-sients in 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 \OT1/ptm/m/n/10 the con-text of the earth-quake de-for-ma-tion cy-cle, \OT1/ptm
 /m/it/10 Comptes Ren-dus - Geo-science\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 338\OT
 1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 []\OT1/ptm/m/n/10 Fletcher, J. M., O. J. Teran, T. K. Rock-well, M. E. Os-kin, 
 K. W. Hud-nut, K. J. Mueller, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/ptm/m/n/10 R. M. Spelz, S. O. Ak-ciz, E. Masana, G. Faneros, E. J. Field-i
 ng, S. Lep-rince, A. E. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/ptm/m/n/10 More-lan, J. Stock, D. K. Lynch, A. J. El-liott, P. Gold, J. Li
 u-Zeng, A. Gonz[]alez- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/ptm/m/n/10 Ortega, A. Hinojosa-Corona, and J. Gonz[]alez-Garc[]^^Pa (2014)
 , As-sem-bly of a large 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/ptm/m/n/10 earth-quake from a com-plex fault sys-tem: Sur-face rup-ture ki
 ne-mat-ics of the 4 April 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 \OT1/ptm/m/n/10 2010 El Mayor-Cucapah (Mex-ico) Mw 7.2 earth-quake, \OT1/ptm/m/
 it/10 Geo-sphere\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 10\OT1/ptm/m/n/10 (4), 797--
 827, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 []\OT1/ptm/m/n/10 Freed, A. M., R. B[]urgmann, E. Calais, J. Frey-mueller, and 
 S. Hreinsd[]ottir (2006), Im-pli- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 \OT1/ptm/m/n/10 ca-tions of de-for-ma-tion fol-low-ing the 2002 De-nali, Alaska
 , earth-quake for post-seis-mic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 \OT1/ptm/m/n/10 re-lax-ation pro-cesses and litho-spheric rhe-ol-ogy, \OT1/ptm/
 m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 []\OT1/ptm/m/n/10 Freed, A. M., R. B[]urgmann, and T. Her-ring (2007), Far-reac
 hing tran-sient mo-tions af-ter 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 \OT1/ptm/m/n/10 Mo-jave earth-quakes re-quire broad man-tle flow be-neath a str
 ong crust, \OT1/ptm/m/it/10 Geo-phys-i-cal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 []\OT1/ptm/m/n/10 Gonzalez-Ortega, A., Y. Fi-alko, D. Sandwell, F. A. Nava-pich
 ardo, J. Fletcher, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 \OT1/ptm/m/n/10 J. Gonzalez-garcia, B. Lipovsky, M. Floyd, and G. Fun-ning (201
 4), El Mayor-Cucapah 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 \OT1/ptm/m/n/10 (Mw7.2) earth-quake: early near-field post-seis-mic de-for-ma-t
 ion from In-Sar and GPS 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 \OT1/ptm/m/n/10 ob-ser-va-tions, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal Re
 -search: Solid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 119\OT1/ptm/m/n/10 , 148
 2--1497, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 []\OT1/ptm/m/n/10 Hauksson, E., J. Stock, K. Hut-ton, W. Yang, J. A. Vidal-Vill
 egas, and H. Kanamori 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 \OT1/ptm/m/n/10 (2011), The 2010 Mw 7.2 El mayor-cucapah earth-quake se-quence,
  Baja Cal-i-for-nia, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 \OT1/ptm/m/n/10 Mex-ico and South-ern-most Cal-i-for-nia, USA: Ac-tive seis-mo-
 tec-ton-ics along the Mex-i-can 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 \OT1/ptm/m/n/10 pa-cific mar-gin, \OT1/ptm/m/it/10 Pure and Ap-plied Geo-physic
 s\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 168\OT1/ptm/m/n/10 , 1255--1277, doi:10.100
 7/s00024-010- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 []\OT1/ptm/m/n/10 Hearn, E. H. (2003), What can GPS data tell us about the dy-n
 am-ics of post-seismic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 \OT1/ptm/m/n/10 de-for-ma-tion, \OT1/ptm/m/it/10 Geo-phys-i-cal Jour-nal In-ter
 -na-tional\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 115\OT1/ptm/m/n/10 , 753--777, doi
 :10.1111/j.1365- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 407--408
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 []\OT1/ptm/m/n/10 Hearn, E. H., S. Mc-Clusky, S. Ergin-tav, and R. E. Reilinger
  (2009), Izmit earth-quake 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 407--408
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 \OT1/ptm/m/n/10 post-seis-mic de-for-ma-tion and dy-nam-ics of the North Ana-to
 -lian Fault Zone, \OT1/ptm/m/it/10 Jour-nal of 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 []\OT1/ptm/m/n/10 Hetland, E. A. (2003), Post-seis-mic re-lax-ation across the 
 Cen-tral Nevada Seis-mic Belt, 
  []
@@ -4294,223 +4294,223 @@ Cen-tral Nevada Seis-mic Belt,
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
 []\OT1/ptm/m/n/10 Hetland, E. A., and G. Zhang (2014), Ef-fect of shear zones o
 n post-seismic de-for-ma-tion 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
 \OT1/ptm/m/n/10 with ap-pli-ca-tion to the 1997 Mw 7.6 manyi earth-quake, \OT1/
 ptm/m/it/10 Geo-phys-i-cal Jour-nal In-ter-na- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 []\OT1/ptm/m/n/10 Hines, T. T., and E. A. Het-land (2013), Bias in es-ti-mates 
 of litho-sphere vis-cos-ity from 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 \OT1/ptm/m/n/10 in-ter-seis-mic de-for-ma-tion, \OT1/ptm/m/it/10 Geo-phys-i-cal
  Re-search Let-ters\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 40\OT1/ptm/m/n/10 (16), 4
 260--4265, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--420
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 []\OT1/ptm/m/n/10 Hines, T. T., and E. A. Het-land (2016), Rapid and si-mul-ta-
 ne-ous es-ti-ma-tion of fault slip 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--420
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \OT1/ptm/m/n/10 and het-ero-ge-neous litho-spheric vis-cos-ity from post-seismi
 c de-for-ma-tion, \OT1/ptm/m/it/10 Geo-phys-i-cal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 []\OT1/ptm/m/n/10 Jacobs, A., D. Sandwell, Y. Fi-alko, and L. Si-choix (2002), 
 The 1999 (Mw7.1) Hec-tor 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 \OT1/ptm/m/n/10 Mine, Cal-i-for-nia, Earth-quake: Near-Field Post-seis-mic De-f
 or-ma-tion from ERS In-ter-fer- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 []\OT1/ptm/m/n/10 Johnson, K. M., and P. Segall (2004), Vis-coelas-tic earth-qu
 ake cy-cle mod-els with deep 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 \OT1/ptm/m/n/10 stress-driven creep along the San An-dreas fault sys-tem, \OT1/
 ptm/m/it/10 Jour-nal of Geo-phys-i-cal Re- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
 []\OT1/ptm/m/n/10 Johnson, K. M., R. B[]urgmann, and J. T. Frey-mueller (2009),
  Cou-pled af-ter-slip and vis- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
 \OT1/ptm/m/n/10 coelas-tic flow fol-low-ing the 2002 De-nali Fault, Alaska eart
 h-quake, \OT1/ptm/m/it/10 Geo-phys-i-cal Jour-nal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 []\OT1/ptm/m/n/10 J[]onsson, S., P. Segall, R. Ped-er-sen, and G. Bjorns-son (2
 003), Post-earthquake ground 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 \OT1/ptm/m/n/10 move-ments cor-re-lated to pore-pressure tran-sients, \OT1/ptm/
 m/it/10 Na-ture\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 424\OT1/ptm/m/n/10 , 179--183
 , doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 []\OT1/ptm/m/n/10 Kaufmann, G., and F. Amelung (2000), Reservoir-induced de-for
 -ma-tion and con-ti-nen-tal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 \OT1/ptm/m/n/10 rhe-ol-ogy in vicin-ity of Lake Mead, Nevada, \OT1/ptm/m/it/10 
 Jour-nal of Geo-phys-i-cal Re-search\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 105\OT1/
 ptm/m/n/10 (B7), 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 []\OT1/ptm/m/n/10 Kroll, K. A., E. S. Cochran, K. B. Richards-Dinger, and D. F.
  Sumy (2013), Af-ter-shocks 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 \OT1/ptm/m/n/10 of the 2010 Mw 7.2 El Mayor-Cucapah earth-quake re-veal com-ple
 x fault-ing in the Yuha 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 \OT1/ptm/m/n/10 Desert, Cal-i-for-nia, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-
 cal Re-search: Solid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 118\OT1/ptm/m/n/10
  , 6146--6164, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
 []\OT1/ptm/m/n/10 Lekic, V., S. W. French, and K. M. Fis-cher (2011), Litho-sph
 eric Thin-ning Be-neath Rifted 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 []\OT1/ptm/m/n/10 Liu, H.-P., D. L. An-der-son, and H. Kanamori (1976), Ve-loc-
 ity dis-per-sion due to anelas- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 \OT1/ptm/m/n/10 tic-ity; im-pli-ca-tions for seis-mol-ogy and man-tle com-po-si
 -tion \OT1/ptm/m/it/10 Geo-phys-i-cal Jour-nal of the 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
 []\OT1/ptm/m/n/10 Lundgren, P., E. A. Het-land, Z. Liu, and E. J. Field-ing (20
 09), South-ern San Andreas-San 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
 \OT1/ptm/m/n/10 Jac-into fault sys-tem slip rates es-ti-mated from earth-quake 
 cy-cle mod-els con-strained by 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
 \OT1/ptm/m/n/10 GPS and in-ter-fer-o-met-ric syn-thetic aper-ture radar ob-ser-
 va-tions, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 []\OT1/ptm/m/n/10 McGuire, J. J., and P. Segall (2003), Imag-ing of aseis-mic f
 ault slip tran-sients recorded 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 \OT1/ptm/m/n/10 by dense geode-tic net-works, \OT1/ptm/m/it/10 Geo-phys-i-cal J
 our-nal In-ter-na-tional\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 155\OT1/ptm/m/n/10 ,
  778--788, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 []\OT1/ptm/m/n/10 Meade, B. J., and B. H. Hager (2005), Block mod-els of crusta
 l mo-tion in south-ern Cal-i- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 \OT1/ptm/m/n/10 for-nia con-strained by GPS mea-sure-ments, \OT1/ptm/m/it/10 Jo
 ur-nal of Geo-phys-i-cal Re-search: Solid Earth\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 []\OT1/ptm/m/n/10 Murray, J. R., and P. Segall (2005), Spa-tiotem-po-ral evo-lu
 -tion of a tran-sient slip event on 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 \OT1/ptm/m/n/10 the San An-dreas fault near Park-field, Cal-i-for-nia, \OT1/ptm
 /m/it/10 Jour-nal of Geo-phys-i-cal Re-search: Solid 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 []\OT1/ptm/m/n/10 Nur, A., and G. Mavko (1974), Post-seis-mic vis-coelas-tic re
 -bound, \OT1/ptm/m/it/10 Sci-ence\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 183\OT1/ptm
 /m/n/10 (4121), 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
 []\OT1/ptm/m/n/10 O'Connell, R. J. (1971), Rhe-ol-ogy of the Man-tle, \OT1/ptm/
 m/it/10 EOS, Trans-ac-tions, Amer-i-can Geo-phys-i- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 []\OT1/ptm/m/n/10 Oskin, M. E., J. R. Ar-row-smith, A. Hi-no-josa Corona, A. J.
  El-liott, J. M. Fletcher, E. J. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 \OT1/ptm/m/n/10 Field-ing, P. O. Gold, J. J. Gon-za-lez Gar-cia, K. W. Hud-nut,
  J. Liu-Zeng, and O. J. Teran 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 \OT1/ptm/m/n/10 (2012), Near-field de-for-ma-tion from the El Mayor-Cucapah ear
 th-quake re-vealed by 
  []
@@ -4519,174 +4519,174 @@ th-quake re-vealed by
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 []\OT1/ptm/m/n/10 Pollitz, F., C. Wicks, and W. Thatcher (2001), Man-tle Flow B
 e-neath a Con-ti-nen-tal Strike- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 \OT1/ptm/m/n/10 Slip Fault: Post-seis-mic De-for-ma-tion Af-ter the 1999 Hec-to
 r Mine Earth-quake, \OT1/ptm/m/it/10 Sci-ence\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
 []\OT1/ptm/m/n/10 Pollitz, F. F. (2003), Tran-sient rhe-ol-ogy of the up-per-mo
 st man-tle be-neath the Mo- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
 \OT1/ptm/m/n/10 jave Desert, Cal-i-for-nia, \OT1/ptm/m/it/10 Earth and Plan-e-t
 ary Sci-ence Let-ters\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 215\OT1/ptm/m/n/10 , 89
 --104, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 []\OT1/ptm/m/n/10 Pollitz, F. F., G. Peltzer, and R. B[]urgmann (2000), Mo-bil-
 ity of con-ti-nen-tal man-tle: Ev-i- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 \OT1/ptm/m/n/10 dence from post-seis-mic geode-tic ob-ser-va-tions fol-low-ing 
 the 1992 Lan-ders earth-quake, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\OT1/ptm/m/n/10 Pollitz, F. F., R. B[]urgmann, and W. Thatcher (2012), Il-lu-
 mi-na-tion of rhe-o-log-i-cal man-tle 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \OT1/ptm/m/n/10 het-ero-gene-ity by the M7.2 2010 El Mayor-Cucapah earth-quake,
  \OT1/ptm/m/it/10 Geo-chem-istry, Geo- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 []\OT1/ptm/m/n/10 Pollitz, F. F. (2015). Postearthquake re-lax-ation ev-i-dence
  for lat-er-ally vari-able vis-coelas-tic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 \OT1/ptm/m/n/10 struc-ture and wa-ter con-tent in the South-ern Cal-i-for-nia m
 an-tle, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
 []\OT1/ptm/m/n/10 Rauch, H. E., F. Tung, and C. T. Striebel (1965), Max-i-mum l
 ike-li-hood es-ti-mates of lin-ear 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--486
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
 []\OT1/ptm/m/n/10 Riva, R. E. M., and R. Gov-ers (2009), Re-lat-ing vis-cosi-ti
 es from post-seis-mic re-lax-ation to 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--486
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
 \OT1/ptm/m/n/10 a re-al-is-tic vis-cos-ity struc-ture for the litho-sphere, \OT
 1/ptm/m/it/10 Geo-phys-i-cal Jour-nal In-ter-na-tional\OT1/ptm/m/n/10 , \OT1/pt
 m/m/it/10 176\OT1/ptm/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
 []\OT1/ptm/m/n/10 Rollins, C., S. Bar-bot, and J.-P. Avouac (2015), Post-seis-m
 ic De-for-ma-tion Fol-low-ing 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
 \OT1/ptm/m/n/10 the 2010 M7.2 El Mayor-Cucapah Earth-quake: Ob-ser-va-tions, Ki
 ne-matic In-ver- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
 \OT1/ptm/m/n/10 sions, and Dy-namic Mod-els, \OT1/ptm/m/it/10 Pure and Ap-plied
  Geo-physics\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 172\OT1/ptm/m/n/10 (5), 1305-135
 8, doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
 []\OT1/ptm/m/n/10 Savage, J. C. (1990), Equiv-a-lent strike-slip earth-quake cy
 -cles in half-space and 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
 \OT1/ptm/m/n/10 lithosphere-asthenosphere earth mod-els, \OT1/ptm/m/it/10 Jour-
 nal of Geo-phys-i-cal Re-search\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 95\OT1/ptm/m/
 n/10 (B4), 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 []\OT1/ptm/m/n/10 Savage, J. C., and J. L. Svarc (2009), Post-seis-mic re-lax-a
 tion fol-low-ing the 1992 M7.3 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 \OT1/ptm/m/n/10 Lan-ders and 1999 M7.1 Hec-tor Mine earth-quakes, south-ern Cal
 -i-for-nia, \OT1/ptm/m/it/10 Jour-nal of Geo- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 []\OT1/ptm/m/n/10 Savage, J. C., J. L. Svarc, and S. B. Yu (2005), Post-seis-mi
 c re-lax-ation and tran-sient 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 \OT1/ptm/m/n/10 creep, \OT1/ptm/m/it/10 Jour-nal of Geo-phys-i-cal Re-search: S
 olid Earth\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 110\OT1/ptm/m/n/10 (B11402), 1--14
 , doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
 []\OT1/ptm/m/n/10 Segall, P., and M. Math-ews (1997), Time de-pen-dent in-ver-s
 ion of geode-tic data, \OT1/ptm/m/it/10 Jour-nal of 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--504
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 []\OT1/ptm/m/n/10 Spinler, J. C., R. A. Ben-nett, C. Walls, L. Shawn, and J. J.
  G. Gar-cia (2015), As-sess-ing 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--504
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \OT1/ptm/m/n/10 long-term post-seis-mic de-for-ma-tion fol-low-ing the M7.2 4 A
 pril 2010, El Mayor-Cucapah 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--504
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \OT1/ptm/m/n/10 earth-quake with im-pli-ca-tions for litho-spheric rhe-ol-ogy i
 n the Salton Trough, \OT1/ptm/m/it/10 Jour-nal of 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 []\OT1/ptm/m/n/10 Wei, M., D. Sandwell, Y. Fi-alko, and R. Bil-ham (2011a), Sli
 p on faults in the Im-pe-rial 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 \OT1/ptm/m/n/10 Val-ley trig-gered by the 4 April 2010 Mw 7.2 El Mayor-Cucapah 
 earth-quake re-vealed by 
  []
@@ -4695,19 +4695,19 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no ‰ in font ptmr7t!
 Missing character: There is no ¥ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 []\OT1/ptm/m/n/10 Wei, M., Y. Liu, Y. Kaneko, J. J. Mcguire, and R. Bil-ham (20
 15), Dy-namic trig-ger-ing of 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 \OT1/ptm/m/n/10 creep events in the Salton Trough, South-ern Cal-i-for-nia by r
 e-gional M5.4 earth-quakes 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 \OT1/ptm/m/n/10 con-strained by geode-tic ob-ser-va-tions and nu-mer-i-cal sim-
 u-la-tions, \OT1/ptm/m/it/10 Earth and Plan-e-tary 
  []
@@ -4716,37 +4716,37 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
 []\OT1/ptm/m/n/10 Wei, S., E. Field-ing, S. Lep-rince, A. Sladen, J.-P. Avouac,
  D. Helm-berger, E. Hauks-son, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
 \OT1/ptm/m/n/10 R. Chu, M. Si-mons, K. Hud-nut, T. Her-ring, and R. Briggs,(201
 1b), Su-per-fi-cial sim- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
 \OT1/ptm/m/n/10 plic-ity of the 2010 El May-or-Cu-ca-pah earth-quake of Baja Ca
 l-i-for-nia in Mex-ico, \OT1/ptm/m/it/10 Na-ture 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 515--516
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 []\OT1/ptm/m/n/10 Yang M., and M. N. Toks[]oz (1981), Time-dependent de-for-ma-
 tion and stress re-lax-ation 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 []\OT1/ptm/m/n/10 Yuen, D. A., and W. R. Peltier (1982), Nor-mal modes of the v
 is-coelas-tic earth, \OT1/ptm/m/it/10 Geo- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 \OT1/ptm/m/it/10 phys-i-cal Jour-nal of the Royal As-tro-nom-i-cal So-ci-ety\OT
 1/ptm/m/n/10 , \OT1/ptm/m/it/10 69\OT1/ptm/m/n/10 , 495--526, doi:10.1111/j.136
 5- 
@@ -4759,7 +4759,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [26] (./2016JB013114.aux) ) 
 Here is how much of TeX's memory you used:
  4190 strings out of 494985
- 56240 string characters out of 6180357
+ 56240 string characters out of 6180356
  124888 words of memory out of 5000000
  7295 multiletter control sequences out of 15000+600000
  30567 words of font info for 72 fonts, out of 8000000 for 9000
@@ -4786,7 +4786,7 @@ ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2016JB013114.pdf (26 pages, 7740699 bytes).
+Output written on 2016JB013114.pdf (26 pages, 7740682 bytes).
 PDF statistics:
  30071 PDF objects out of 31911 (max. 8388607)
  19916 compressed objects within 200 object streams
